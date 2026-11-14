@@ -1,0 +1,160 @@
+TY  - JOUR
+AB  - <b>Background: </b>In addition to pain, sickle cell anaemia (HbSS) complications include neurocognitive difficulties in attention and processing speed associated with low daytime and night-time oxygen saturation compounded by obstructive sleep apnoea (OSA). In the general population OSA is treated with continuous positive airways pressure (CPAP). The aim of this single-blind, randomised, controlled phase II trial is to compare auto-adjusting CPAP (APAP) with standard care to standard care alone in individuals with HbSS to determine whether the intervention improves attention and processing speed, brain structure, pain and quality of life.<b>Methods/design: </b>Eligibility criteria include: ability to provide informed consent; age > 8 years; diagnosis of HbSS; and mean overnight saturation of < 90% for < 30% of the night (i.e. not meeting current criteria for overnight oxygen therapy). Key exclusion criteria are: overnight respiratory support; respiratory or decompensated cardiac failure; chronic transfusion; or contraindications to APAP therapy or magnetic resonance imaging (MRI). Sixty individuals with HbSS (30 children and 30 adults) will be randomised to standard care + APAP or standard care alone for six months. Minimisation factors are: age group (8-11, 12-15, 16-22 and > 23 years); silent infarction on MRI; minimum overnight oxygen saturation > 90% or < 90%; and hydroxyurea use. For APAP individuals, the intervention is administered at home. Adherence and effectiveness are recorded using software documenting hours of use each night and overnight oximetry. Participant support in terms of appropriate facemask and facilitating adherence are provided by an unblinded sleep physiologist. The primary outcome is change in the cancellation subtest from the Wechsler scales. Secondary outcomes include general cognitive functioning, quantitative brain MRI, blood and urine chemistry, quality of life and daily pain via a smartphone App (GoMedSolutions, Inc) and, where possible MRI heart, echocardiography, and 6-min walk. These outcomes will be assessed at baseline and after six months of treatment by assessors blind to treatment assignment.<b>Discussion: </b>Altering oxygen saturation in HbSS may lead to bone marrow suppression. This risk will be reduced by monitoring full blood counts at baseline, two weeks, three months and six months, providing treatment as appropriate and reporting as safety events.<b>Trial Registration: </b>ISRCTN46012373 . Registered on 10 July 2015. Protocol Version: 6.0 Date: 24th December 2015 Sponsor: University Hospital Southampton. Sponsor's protocol code: RHMCHIOT53.
+AN  - rayyan-423295904
+AU  - Howard, Jo
+AU  - Slee, April E.
+AU  - Skene, Simon
+AU  - Inusa, Baba
+AU  - Kawadler, Jamie
+AU  - Downes, Michelle
+AU  - Gavlak, Johanna
+AU  - Koelbel, Melanie
+AU  - Stotesbury, Hanne
+AU  - Chorozoglou, Maria
+AU  - Tebbs, Susan
+AU  - Chakravorty, Subarna
+AU  - Awogbade, Moji
+AU  - Rees, David C.
+AU  - Gupta, Atul
+AU  - Murphy, Patrick B.
+AU  - Hart, Nicholas
+AU  - Sahota, Sati
+AU  - Nwosu, Carol
+AU  - Gwam, Maureen
+DO  - https://doi.org/10.1186/s13063-017-2419-0
+KW  - Anemia, Sickle Cell Therapy
+Sleep Apnea, Obstructive Therapy
+Brain Physiopathology
+Continuous Positive Airway Pressure Methods
+Pain Measurement
+Multicenter Studies
+Sleep Apnea, Obstructive Physiopathology
+Automation
+Adolescence
+Clinical Trials
+England
+Female
+Young Adult
+Oximetry
+Anemia, Sickle Cell Psychosocial Factors
+Quality of Life
+Cognition
+Anemia, Sickle Cell Blood
+Continuous Positive Airway Pressure Adverse Effects
+Child
+Anemia, Sickle Cell Physiopathology
+Male
+Magnetic Resonance Imaging
+Single-Blind Studies
+Adult
+Sleep Apnea, Obstructive Blood
+Time Factors
+Treatment Outcomes
+Attention
+Ferrans and Powers Quality of Life Index
+Questionnaires
+Adolescent: 13-18 years
+Child: 6-12 years
+Adult: 19-44 years
+LA  - English
+PY  - 2018
+SN  - 1745-6215
+SP  - 1–N.PAG
+ST  - Overnight auto-adjusting continuous airway pressure + standard care compared with standard care alone in the prevention of morbidity in sickle cell disease phase II (POMS2b): study protocol for a randomised controlled trial
+T2  - Trials
+TI  - Overnight auto-adjusting continuous airway pressure + standard care compared with standard care alone in the prevention of morbidity in sickle cell disease phase II (POMS2b): study protocol for a randomised controlled trial
+UR  - https://research.ebsco.com/linkprocessor/plink?id=4c7dc202-ee4e-3bc8-af67-999425c05a41
+VL  - 19
+ID  - 251
+ER  - 
+
+TY  - JOUR
+AB  - Background: In addition to pain, sickle cell anaemia (HbSS) complications include neurocognitive difficulties in attention and processing speed associated with low daytime and night-time oxygen saturation compounded by obstructive sleep apnoea (OSA). In the general population OSA is treated with continuous positive airways pressure (CPAP). The aim of this single-blind, randomised, controlled phase II trial is to compare auto-adjusting CPAP (APAP) with standard care to standard care alone in individuals with HbSS to determine whether the intervention improves attention and processing speed, brain structure, pain and quality of life. Methods/Design: Eligibility criteria include: ability to provide informed consent; age>8years; diagnosis of HbSS; and mean overnight saturation of<90% for<30% of the night (i.e. not meeting current criteria for overnight oxygen therapy). Key exclusion criteria are: overnight respiratory support; respiratory or decompensated cardiac failure; chronic transfusion; or contraindications to APAP therapy or magnetic resonance imaging (MRI). Sixty individuals with HbSS (30 children and 30 adults) will be randomised to standard care+APAP or standard care alone for six months. Minimisation factors are: age group (8-11, 12-15, 16-22 and>23years); silent infarction on MRI; minimum overnight oxygen saturation>90% or<90%; and hydroxyurea use. For APAP individuals, the intervention is administered at home. Adherence and effectiveness are recorded using software documenting hours of use each night and overnight oximetry. Participant support in terms of appropriate facemask and facilitating adherence are provided by an unblinded sleep physiologist. The primary outcome is change in the cancellation subtest from the Wechsler scales. Secondary outcomes include general cognitive functioning, quantitative brain MRI, blood and urine chemistry, quality of life and daily pain via a smartphone App (GoMedSolutions, Inc) and, where possible MRI heart, echocardiography, and 6-min walk. These outcomes will be assessed at baseline and after six months of treatment by assessors blind to treatment assignment. Discussion(s): Altering oxygen saturation in HbSS may lead to bone marrow suppression. This risk will be reduced by monitoring full blood counts at baseline, two weeks, three months and six months, providing treatment as appropriate and reporting as safety events. Trial registration:ISRCTN46012373. Registered on 10 July 2015. Protocol Version: 6.0 Date: 24th December 2015 Sponsor: University Hospital Southampton. Sponsor's protocol code: RHMCHIOT53Copyright © 2018 The Author(s).
+AN  - rayyan-423295905
+AU  - Howard, J.
+AU  - Slee, A. E.
+AU  - Skene, S.
+AU  - Inusa, B.
+AU  - Kawadler, J.
+AU  - Downes, M.
+AU  - Gavlak, J.
+AU  - Koelbel, M.
+AU  - Stotesbury, H.
+AU  - Chorozoglou, M.
+AU  - Tebbs, S.
+AU  - Chakravorty, S.
+AU  - Awogbade, M.
+AU  - Rees, D. C.
+AU  - Gupta, A.
+AU  - Murphy, P. B.
+AU  - Hart, N.
+AU  - Sahota, S.
+AU  - Nwosu, C.
+AU  - Gwam, M.
+AU  - Saunders, D.
+AU  - Muthurangu, V.
+AU  - Barber, N.
+AU  - Ako, E.
+AU  - Thein, S. L.
+AU  - Marshall, M.
+AU  - Reading, I. C.
+AU  - Cheng, M. Y. E.
+AU  - Kirkham, F. J.
+AU  - Liossi, C.
+DO  - https://doi.org/10.1186/s13063-017-2419-0
+IS  - 1
+KW  - adolescent
+adult
+analgesia
+article
+attention
+blood analysis
+blood transfusion
+child
+clinical effectiveness
+clinical protocol
+comparative effectiveness
+controlled study
+echocardiography
+female
+heart failure
+human
+major clinical study
+male
+medication compliance
+mobile application
+monotherapy
+*morbidity
+neuroanatomy
+nuclear magnetic resonance imaging
+outcome assessment
+oximetry
+oxygen saturation
+pain/dt [Drug Therapy]
+*positive end expiratory pressure ventilation
+quality of life
+randomized controlled trial
+respiratory failure
+*sickle cell anemia/dm [Disease Management]
+*sickle cell anemia/pc [Prevention]
+single blind procedure
+six minute walk test
+sleep apnea syndromes/th [Therapy]
+treatment contraindication
+treatment duration
+urinalysis
+Wechsler intelligence scale
+hydroxyurea/dt [Drug Therapy]
+smartphone
+*auto adjusting continuous positive airway pressure
+LA  - English
+PY  - 2018
+SN  - 1745-6215 (electronic) 1745-6215
+SP  - 55
+ST  - Overnight auto-adjusting continuous airway pressure+standard care compared with standard care alone in the prevention of morbidity in sickle cell disease phase II (POMS2b): Study protocol for a randomised controlled trial
+T2  - Trials
+TI  - Overnight auto-adjusting continuous airway pressure+standard care compared with standard care alone in the prevention of morbidity in sickle cell disease phase II (POMS2b): Study protocol for a randomised controlled trial
+UR  - http://www.trialsjournal.com/home/ https://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=620298059 http://digitaal.uba.uva.nl/uva-linker?sid=OVID:embase&id=pmid:29357947&id=doi:10.1186%2Fs13063-017-2419-0&issn=1745-6215&isbn=&volume=19&issue=1&spage=55&pages=&date=2018&title=Trials&atitle=Overnight+auto-adjusting+continuous+airway+pressure%2Bstandard+care+compared+with+standard+care+alone+in+the+prevention+of+morbidity+in+sickle+cell+disease+phase+II+%28POMS2b%29%3A+Study+protocol+for+a+randomised+controlled+trial&aulast=Howard&pid=%3Cauthor%3EHoward+J.%3BSlee+A.E.%3BSkene+S.%3BInusa+B.%3BKawadler+J.%3BDownes+M.%3BGavlak+J.%3BKoelbel+M.%3BStotesbury+H.%3BChorozoglou+M.%3BTebbs+S.%3BChakravorty+S.%3BAwogbade+M.%3BRees+D.C.%3BGupta+A.%3BMurphy+P.B.%3BHart+N.%3BSahota+S.%3BNwosu+C.%3BGwam+M.%3BSaunders+D.%3BMuthurangu+V.%3BBarber+N.%3BAko+E.%3BThein+S.L.%3BMarshall+M.%3BReading+I.C.%3BCheng+M.Y.E.%3BKirkham+F.J.%3BLiossi+C.%3C%2Fauthor%3E%3CAN%3E620298059%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E
+VL  - 19
+ID  - 252
+ER  - 

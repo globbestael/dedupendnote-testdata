@@ -1,0 +1,83 @@
+﻿TY  - JOUR
+AB  - The spinal mobility and sagittal configuration in 96 scoliotic patients treated according to Harrington were investigated with a Dubrunner kyphometer and a Myrin inclinometer. The more distal the fusion limit in the lumbar spine, the more reduced was the lumbar lordosis and flexion. The patients' own estimation of lumbar rigidity and pain, scored on visual analogue scales, increased as the fusion limit increased distally. The results for the thoracic spine's sagittal configuration and mobility were analogous but the trend was less pronounced. The patient's estimation of thoracic rigidity had little correlation with the number of segments fused. This study shows that fusion of the lumbar spine below L3 is to be avoided, except when specifically indicated. Furthermore, the study shows that the present technique does not adequately preserve the sagittal configuration of the thoracic and lumbar spine.
+AD  - (Aaro, Ohlen) Department of Orthopaedic Surgery, Huddingen University Hospital, S 141 86 Huddinge Sweden
+Department of Orthopaedic Surgery, Huddingen University Hospital, S 141 86 Huddinge Sweden
+AN  - 14244158
+AU  - Aaro, S.
+AU  - Ohlen, G.
+DB  - Embase
+DP  - Ovid Technologies
+IS  - 6
+KW  - bone
+case report
+diagnosis
+Harrington instrumentation
+human
+musculoskeletal system
+scoliosis
+spine mobility
+spondylodesis
+therapy
+LA  - English
+PY  - 1983
+SN  - 0362-2436
+SP  - 570-575
+ST  - The effect of Harrington instrumentation on the sagittal configuration and mobility of the spine in scoliosis
+T2  - Spine
+TI  - The effect of Harrington instrumentation on the sagittal configuration and mobility of the spine in scoliosis
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed2&AN=14244158
+http://digitaal.uba.uva.nl:9003/uva-linker?sid=OVID:embase&id=pmid:6648706&id=doi:&issn=0362-2436&isbn=&volume=8&issue=6&spage=570&pages=570-575&date=1983&title=Spine&atitle=The+effect+of+Harrington+instrumentation+on+the+sagittal+configuration+and+mobility+of+the+spine+in+scoliosis&aulast=Aaro&pid=%3Cauthor%3EAaro+S.%3BOhlen+G.%3C%2Fauthor%3E%3CAN%3E14244158%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E
+VL  - 8
+ID  - 4410
+ER  - 
+
+
+TY  - JOUR
+AB  - BACKGROUND: Postural modification in patients with lumbosacral radiculopathy either causes further H-reflex suppression, indicating increased root compression, or it effects recovery, indicating decompression of the spinal root. The posture that effects maximum recovery of the H-reflex amplitude is called optimum spinal posture (OSP) and is suggested as a therapeutic exercise to decompress the compromised nerve root. The focus of this study was to identify the OSP that effects the maximum recovery of the flexor carpi radialis (FCR) H-reflex and to study its effect on the disability status in patients with cervical radiculopathy. SUBJECTS AND METHODS: Fourteen patients (46 +/- 12 y) with confirmed symptoms of C7 radiculopathy for the previous 6 months volunteered for the study. The FCR H-reflex was elicited by electrical stimulation of the median nerve at the cubital fossa (0.5 ms, 0.2 pps at H-max). Signals from the FCR muscle were recorded using a Cadwell 5200A EMG unit. The FCR H-reflex was recorded in natural sitting position with the head in natural position and in the OSP. Four traces of the H-reflex were recorded and averaged. The disability status was evaluated, using the Neck Disability Index (NDI), before exercising in the OSP and after 2 days of exercise in the OSP. DATA ANALYSIS: Paired t-test and Spearman's correlation coefficients were used. RESULTS: The H-reflex amplitude and latency were significantly different in the OSP and with the head in a natural position (P < 0.004; P < 0.011). Larger reflex amplitude and shorter latency were recorded in the OSP. The NDI scores were considerably improved after exercising in the OSP (P < 0.001). Spearman's correlation coefficient showed negative association between the H-reflex amplitude and the NDI scores (r = -0.64 to -0.54; P < 0.05). CONCLUSION: Exercising in the OSP increased the H-reflex amplitude and decreased latency of the compromised cervical root. It resulted in decreasing the disability status in this group of patients.
+AD  - (Abdulwahab) Texas Woman's University School of Physical Therapy, Houston, USA.
+S.S. Abdulwahab, Texas Woman's University School of Physical Therapy, Houston, USA.
+AN  - 31327059
+AU  - Abdulwahab, S. S.
+DA  - Sep
+DB  - Embase
+DP  - Ovid Technologies
+IS  - 3
+KW  - adult
+aged
+article
+body posture
+classification
+convalescence
+daily life activity
+disability
+disabled person
+electrodiagnosis
+female
+health status
+Hoffmann reflex
+hospitalization
+human
+kinesiotherapy
+male
+median nerve
+methodology
+middle aged
+nonparametric test
+pathophysiology
+radiculopathy/di [Diagnosis]
+radiculopathy/rh [Rehabilitation]
+reaction time
+signal processing
+treatment outcome
+LA  - English
+PY  - 1999
+SN  - 0342-5282
+SP  - 207-214
+ST  - Treatment based on H-reflexes testing improves disability status in patients with cervical radiculopathy
+T2  - International journal of rehabilitation research
+TI  - Treatment based on H-reflexes testing improves disability status in patients with cervical radiculopathy
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed7&AN=31327059
+http://digitaal.uba.uva.nl:9003/uva-linker?sid=OVID:embase&id=pmid:10839674&id=doi:&issn=0342-5282&isbn=&volume=22&issue=3&spage=207&pages=207-214&date=1999&title=International+journal+of+rehabilitation+research.+Internationale+Zeitschrift+fur+Rehabilitationsforschung.+Revue+internationale+de+recherches+de+readaptation&atitle=Treatment+based+on+H-reflexes+testing+improves+disability+status+in+patients+with+cervical+radiculopathy&aulast=Abdulwahab&pid=%3Cauthor%3EAbdulwahab+S.S.%3C%2Fauthor%3E%3CAN%3E31327059%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E
+VL  - Internationale Zeitschrift fur Rehabilitationsforschung. Revue internationale de recherches de readaptation. 22
+ID  - 4410
+ER  - 

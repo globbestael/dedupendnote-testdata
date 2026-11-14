@@ -1,0 +1,57 @@
+TY  - JOUR
+AU  - Boyer, J. L.
+AU  - Hales, M. R.
+AU  - Klatskin, G.
+DA  - Jan
+DO  - 10.1097/00005792-197401000-00003
+DP  - PubMed
+ET  - 1974/01/01
+IS  - 1
+LA  - eng
+PY  - 1974
+SN  - 0025-7974 (Print) 0025-7974
+SP  - 77-91
+ST  - "Idiopathic" portal hypertension due to occlusion of intrahepatic portal veins by organized thrombi. A study based on postmortem vinylite-injection corrosion and dissection of the intrahepatic vasculature in 4 cases
+T2  - Medicine (Baltimore)
+TI  - "Idiopathic" portal hypertension due to occlusion of intrahepatic portal veins by organized thrombi. A study based on postmortem vinylite-injection corrosion and dissection of the intrahepatic vasculature in 4 cases
+VL  - 53
+ID  - 3801
+ER  - 
+
+TY  - JOUR
+AU  - Boyer, J. L.
+AU  - Hales, M. R.
+AU  - Klatskin, G.
+DP  - Embase_ovid
+IS  - 1
+LA  - English
+PY  - 1974
+SN  - 0025-7974
+SP  - 77-91
+ST  - 'Idiopathic' portal hypertension due to occlusion of intrahepatic portal veins by organized thrombi
+T2  - Medicine
+TI  - 'Idiopathic' portal hypertension due to occlusion of intrahepatic portal veins by organized thrombi
+VL  - 53
+ID  - 21680
+ER  - 
+
+TY  - JOUR
+AU  - Boyer, J. L.
+AU  - Hales, M. R.
+AU  - Klatskin, G.
+DO  - 10.1097/00005792-197401000-00003
+DP  - Scopus
+IS  - 1
+J2  - Medicine
+LA  - English
+M3  - Article
+PY  - 1974
+SN  - 00257974 (ISSN)
+SP  - 77-91
+ST  - "Idiopathic" portal hypertension due to occlusion of intrahepatic portal veins by organized thrombi: A study based on postmortem vinylite-injection corrosion and dissection of the intrahepatic vasculature in 4 cases
+T2  - Medicine (United States)
+TI  - "Idiopathic" portal hypertension due to occlusion of intrahepatic portal veins by organized thrombi: A study based on postmortem vinylite-injection corrosion and dissection of the intrahepatic vasculature in 4 cases
+VL  - 53
+ID  - 37995
+ER  - 
+

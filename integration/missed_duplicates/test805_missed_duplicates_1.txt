@@ -1,0 +1,69 @@
+TY  - JOUR
+AB  - The authors report 6 cases of portal hypertension with gastrorenal shunt. This shunt did not arise from the left gastric vein, but from the splenic vein. Portal hypertension was related to alcoholic cirrhosis in 3 cases, to extensive portal thrombosis in 2 cases, and to nodular regenerative hyperplasia of the liver in one case. A gastrointestinal hemorrhage revealed portal hypertension and the liver disease in the 3 cases of alcoholic cirrhosis and complicated the course of the disease in the other cases. Hemorrhage was either massive and life-threatening or often recurred. It was related to a rupture of fundic varices in all cases. The fundic varices were not associated with esophageal varices in the 3 cases of cirrhosis. The degree of portal hypertension was above 20 mm Hg, as assessed by the porto-hepatic gradient (one case), or the pressure gradient between a tributary portal system vein and the inferior vena cava during laparotomy (5 cases). Definitive control of hemorrhage could not be achieved by endoscopic variceal sclerotherapy (2 cases) or percutaneous transhepatic embolization (one case). Portacaval shunt or splenectomy was performed in 5 cases. These findings suggest that spontaneous splenogastrorenal shunt is a clinical and hemodynamic entity which requires specific treatment when associated with gastric variceal bleeding.
+AD  - (Bretagne, Darnault, Raoul) Service d'Hepato-Gastroenterologie, CHU Pontchaillou, F-35033 Rennes Cedex France Service d'Hepato-Gastroenterologie, CHU Pontchaillou, F-35033 Rennes Cedex France
+AN  - 1987163755
+AU  - Bretagne, J. F.
+AU  - Darnault, P.
+AU  - Raoul, J. L.
+DB  - Embase
+DP  - Ovid Technologies
+KW  - alcohol liver cirrhosis
+liver
+peripheral vascular system
+portal hypertension
+portal vein thrombosis
+priority journal
+LA  - French
+		   
+M3  - Journal
+PY  - 1987
+SN  - 0399-8320
+SP  - 453-459
+ST  - The splenogastrorenal shunt in portal hypertension. A poorly recognized entity. A report of 6 cases and review of the literature. [French] Le Shunt Spleno-Gastro-Renal Dans L'hypertension Portale: Une Entite Meconnue. Etude De 6 Cas Et Revue De La Litterature
+T2  - Gastroenterologie Clinique et Biologique
+TI  - The splenogastrorenal shunt in portal hypertension. A poorly recognized entity. A report of 6 cases and review of the literature. [French] Le Shunt Spleno-Gastro-Renal Dans L'hypertension Portale: Une Entite Meconnue. Etude De 6 Cas Et Revue De La Litterature
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed1b&AN=1987163755http://digitaal.uba.uva.nl:9003/uva-linker?sid=OVID:embase&id=pmid:&id=doi:&issn=0399-8320&isbn=&volume=11&issue=6-7&spage=453&pages=453-459&date=1987&title=Gastroenterologie+Clinique+et+Biologique&atitle=LE+SHUNT+SPLENO-GASTRO-RENAL+DANS+L%27HYPERTENSION+PORTALE%3A+UNE+ENTITE+MECONNUE.+ETUDE+DE+6+CAS+ET+REVUE+DE+LA+LITTERATURE&aulast=Bretagne&pid=%3Cauthor%3EBretagne+J.F.%3BDarnault+P.%3BRaoul+J.L.%3C%2Fauthor%3E%3CAN%3E1987163755%3C%2FAN%3E%3CDT%3EJournal%3C%2FDT%3E<7617. >
+VL  - 11
+ID  - 99725
+ER  - 
+
+TY  - JOUR
+AB  - The authors report 6 cases of portal hypertension with gastrorenal shunt. This shunt did not arise from the left gastric vein, but from the splenic vein. Portal hypertension was related to alcoholic cirrhosis in 3 cases, to extensive portal thrombosis in 2 cases, and to nodular regenerative hyperplasia of the liver in one case. A gastrointestinal hemorrhage revealed portal hypertension and the liver disease in the 3 cases of alcoholic cirrhosis and complicated the course of the disease in the other cases. Hemorrhage was either massive and life-threatening or often recurred. It was related to a rupture of fundic varices in all cases. The fundic varices were not associated with esophageal varices in the 3 cases of cirrhosis. The degree of portal hypertension was above 20 mm Hg, as assessed by the portohepatic gradient (one case), or the pressure gradient between a tributary portal system vein and the inferior vena cava during laparotomy (5 cases). Definitive control of hemorrhage could not be achieved by endoscopic variceal sclerotherapy (2 cases) or percutaneous transhepatic embolization (one case). Portacaval shunt or splenectomy was performed in 5 cases. These findings suggest that spontaneous splenogastrorenal shunt is a clinical and hemodynamic entity which requires specific treatment when associated with gastric variceal bleeding.
+AN  - 3497066
+AU  - Bretagne, J. F.
+AU  - Darnault, P.
+AU  - Raoul, J. L.
+AU  - Gandon, Y.
+AU  - Duvauferrier, R.
+AU  - Launois, B.
+AU  - Gastard, J.
+DA  - Jun-Jul
+DP  - Nlm
+ET  - 06/01
+J2  - Gastroenterologie clinique et biologique
+KW  - Adolescent
+Aged
+Female
+Gastrointestinal Hemorrhage/*etiology/therapy
+Hemodynamics
+Humans
+Hypertension, Portal/*complications/physiopathology
+Male
+Middle Aged
+*Renal Veins/radiography
+*Splenic Vein/radiography
+Stomach/*blood supply
+Vascular Diseases/etiology
+LA  - fre
+		   
+N1  - Bretagne, J F Darnault, P Raoul, J L Gandon, Y Duvauferrier, R Launois, B Gastard, J Case Reports English Abstract Journal Article France Gastroenterol Clin Biol. 1987 Jun-Jul;11(6-7):453-9.
+OP  - Le shunt spleno-gastro-renal dans l'hypertension portale: une entite meconnue. Etude de 6 cas et revue de la litterature.
+PY  - 1987
+SN  - 0399-8320 (Print) 0399-8320
+SP  - 453-9
+ST  - [Splenogastrorenal shunt in portal hypertension: a little known entity. Study of 6 cases and review of the literature]
+T2  - Gastroenterol Clin Biol
+TI  - [Splenogastrorenal shunt in portal hypertension: a little known entity. Study of 6 cases and review of the literature]
+VL  - 11
+ID  - 106875
+ER  - 

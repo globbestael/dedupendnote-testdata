@@ -1,0 +1,45 @@
+TY  - JOUR
+AU  - Yau, T.
+AU  - Chan, P.
+AU  - Ng, K. K.
+AU  - Chok, S. H.
+AU  - Cheung, T. T.
+AU  - Fan, S. T.
+AU  - Poon, R. T.
+DA  - Jan 15
+DO  - 10.1002/cncr.24029
+DP  - PubMed
+ET  - 2008/12/25
+IS  - 2
+LA  - eng
+PY  - 2009
+SN  - 0008-543X (Print) 0008-543x
+SP  - 428-36
+ST  - Phase 2 open-label study of single-agent sorafenib in treating advanced hepatocellular carcinoma in a hepatitis B-endemic Asian population: presence of lung metastasis predicts poor response
+T2  - Cancer
+TI  - Phase 2 open-label study of single-agent sorafenib in treating advanced hepatocellular carcinoma in a hepatitis B-endemic Asian population: presence of lung metastasis predicts poor response
+VL  - 115
+ID  - 9165
+ER  - 
+
+TY  - JOUR
+AU  - Yau, T.
+AU  - Chan, P.
+AU  - Ng, K. K.
+AU  - Chok, S. H.
+AU  - Cheung, T. T.
+AU  - Fan, S. T.
+AU  - Poon, R. T.
+DO  - http://dx.doi.org/10.1002/cncr.24029
+DP  - Embase_ovid
+IS  - 2
+LA  - English
+PY  - 2009
+SN  - 0008-543X 1097-0142
+SP  - 428-436
+ST  - Phase 2 open-label study of single-agent sorafenib in treating advanced hepatocellular carcinoma in a hepatitis B-endemic Asian population
+T2  - Cancer
+TI  - Phase 2 open-label study of single-agent sorafenib in treating advanced hepatocellular carcinoma in a hepatitis B-endemic Asian population
+VL  - 115
+ID  - 18731
+ER  - 

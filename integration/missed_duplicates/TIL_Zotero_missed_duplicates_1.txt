@@ -1,0 +1,177 @@
+TY  - JOUR
+TI  - Bioactive cationic peptides as potential agents for breast cancer treatment.
+AU  - Manrique-Moreno, Marcela
+AU  - Santa-González, Gloria A.
+AU  - Gallego, Vanessa
+T2  - Bioscience reports
+AB  - Breast cancer continues to affect millions of women worldwide, and the number of new cases dramatically increases every year. The physiological causes behind the  disease are still not fully understood. One in every 100 cases can occur in men,  and although the frequency is lower than among women, men tend to have a worse  prognosis of the disease. Various therapeutic alternatives to combat the disease  are available. These depend on the type and progress of the disease, and include  chemotherapy, radiotherapy, surgery, and cancer immunotherapy. However, there are  several well-reported side effects of these treatments that have a significant  impact on life quality, and patients either relapse or are refractory to  treatment. This makes it necessary to develop new therapeutic strategies. One  promising initiative are bioactive peptides, which have emerged in recent years  as a family of compounds with an enormous number of clinical applications due to  their broad spectrum of activity. They are widely distributed in several  organisms as part of their immune system. The antitumoral activity of these  peptides lies in a nonspecific mechanism of action associated with their  interaction with cancer cell membranes, inducing, through several routes, bilayer  destabilization and cell death. This review provides an overview of the  literature on the evaluation of cationic peptides as potential agents against  breast cancer under different study phases. First, physicochemical  characteristics such as the primary structure and charge are presented. Secondly,  information about dosage, the experimental model used, and the mechanism of  action proposed for the peptides are discussed.
+DA  - 2021/12/22/
+PY  - 2021
+DO  - 10.1042/BSR20211218C
+VL  - 41
+IS  - 12
+J2  - Biosci Rep
+LA  - eng
+SN  - 1573-4935 0144-8463
+KW  - Female
+KW  - Humans
+KW  - Animals
+KW  - Xenograft Model Antitumor Assays
+KW  - Antineoplastic Agents/*pharmacology
+KW  - MCF-7 Cells
+KW  - Breast Neoplasms/*drug therapy/metabolism/pathology
+KW  - Antimicrobial Cationic Peptides/*pharmacology
+KW  - antimicrobial peptides
+KW  - breast cancers
+KW  - cationic peptides
+KW  - drug development
+KW  - new cancer treatments
+ER  - 
+
+TY  - JOUR
+TI  - Bioactive Cationic Peptides as Potential Agents for Breast Cancer Treatment.
+AU  - Manrique-Moreno, Marcela
+AU  - Santa-González, Gloria A.
+AU  - Gallego, Vanessa
+T2  - Bioscience reports
+AB  - Breast cancer continues to affect millions of women worldwide, and the number of new cases dramatically increases every year. The physiological causes behind the  disease are still not fully understood. One in every 100 cases can occur in men,  and although the frequency is lower than among women, men tend to have a worse  prognosis of the disease. Various therapeutic alternatives to combat the disease  are available. These depend on the type and progress of the disease, and include  chemotherapy, radiotherapy, surgery, and cancer immunotherapy. However, there are  several well-reported side effects of these treatments that have a significant  impact on life quality, and patients either relapse or are refractory to  treatment. This makes it necessary to develop new therapeutic strategies. One  promising initiative are bioactive peptides, which have emerged in recent years  as a family of compounds with an enormous number of clinical applications due to  their broad spectrum of activity. They are widely distributed in several  organisms as part of their immune system. The antitumoral activity of these  peptides lies in a nonspecific mechanism of action associated with their  interaction with cancer cell membranes, inducing, through several routes, bilayer  destabilization and cell death. This review provides an overview of the  literature on the evaluation of cationic peptides as potential agents against  breast cancer under different study phases. First, physicochemical  characteristics such as the primary structure and charge are presented. Secondly,  information about dosage, the experimental model used, and the mechanism of  action proposed for the peptides are discussed.
+DA  - 2021/11/10/
+PY  - 2021
+DO  - 10.1042/BSR20211218
+SP  - BSR20211218
+J2  - Biosci Rep
+LA  - eng
+SN  - 1573-4935 0144-8463
+KW  - antimicrobial peptides
+KW  - breast cancers
+KW  - cationic peptides
+KW  - drug development
+KW  - new cancer treatments
+ER  - 
+
+TY  - JOUR
+TI  - Bioactive cationic peptides as potential agents for breast cancer treatment
+AU  - Manrique-Moreno, M.
+AU  - Santa-González, G.A.
+AU  - Gallego, V.
+T2  - Bioscience reports
+AB  - Breast cancer continues to affect millions of women worldwide, and the number of new cases dramatically increases every year. The physiological causes behind the disease are still not fully understood. One in every 100 cases can occur in men, and although the frequency is lower than among women, men tend to have a worse prognosis of the disease. Various therapeutic alternatives to combat the disease are available. These depend on the type and progress of the disease, and include chemotherapy, radiotherapy, surgery, and cancer immunotherapy. However, there are several well-reported side effects of these treatments that have a significant impact on life quality, and patients either relapse or are refractory to treatment. This makes it necessary to develop new therapeutic strategies. One promising initiative are bioactive peptides, which have emerged in recent years as a family of compounds with an enormous number of clinical applications due to their broad spectrum of activity. They are widely distributed in several organisms as part of their immune system. The antitumoral activity of these peptides lies in a nonspecific mechanism of action associated with their interaction with cancer cell membranes, inducing, through several routes, bilayer destabilization and cell death. This review provides an overview of the literature on the evaluation of cationic peptides as potential agents against breast cancer under different study phases. First, physicochemical characteristics such as the primary structure and charge are presented. Secondly, information about dosage, the experimental model used, and the mechanism of action proposed for the peptides are discussed.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1042/BSR20211218C
+VL  - 41
+IS  - 12
+J2  - Biosci Rep
+LA  - English
+SN  - 1573-4935
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L636859619&from=export
+DB  - Medline
+L2  - http://dx.doi.org/10.1042/BSR20211218C
+KW  - human
+KW  - pathology
+KW  - MCF-7 cell line
+KW  - metabolism
+KW  - breast tumor
+KW  - female
+KW  - antineoplastic agent
+KW  - drug therapy
+KW  - animal
+KW  - drug screening
+KW  - antimicrobial cationic peptide
+ER  - 
+
+TY  - JOUR
+TI  - Bioactive cationic peptides as potential agents for breast cancer treatment
+AU  - Manrique-Moreno, M.
+AU  - Santa-González, G.A.
+AU  - Gallego, V.
+T2  - Bioscience Reports
+AB  - Breast cancer continues to affect millions of women worldwide, and the number of new cases dramatically increases every year. The physiological causes behind the disease are still not fully understood. One in every 100 cases can occur in men, and although the frequency is lower than among women, men tend to have a worse prognosis of the disease. Various therapeutic alternatives to combat the disease are available. These depend on the type and progress of the disease, and include chemotherapy, radiotherapy, surgery, and cancer immunotherapy. However, there are several well-reported side effects of these treatments that have a significant impact on life quality, and patients either relapse or are refractory to treatment. This makes it necessary to develop new therapeutic strategies. One promising initiative are bioactive peptides, which have emerged in recent years as a family of compounds with an enormous number of clinical applications due to their broad spectrum of activity. They are widely distributed in several organisms as part of their immune system. The antitumoral activity of these peptides lies in a nonspecific mechanism of action associated with their interaction with cancer cell membranes, inducing, through several routes, bilayer destabilization and cell death. This review provides an overview of the literature on the evaluation of cationic peptides as potential agents against breast cancer under different study phases. First, physicochemical characteristics such as the primary structure and charge are presented. Secondly, information about dosage, the experimental model used, and the mechanism of action proposed for the peptides are discussed.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1042/BSR20211218C
+VL  - 41
+IS  - 12
+J2  - Biosci. Rep.
+LA  - English
+SN  - 1573-4935
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2016064347&from=export
+DB  - Embase
+L2  - http://dx.doi.org/10.1042/BSR20211218C
+KW  - breast cancer
+KW  - tumor microenvironment
+KW  - human
+KW  - quality of life
+KW  - review
+KW  - multidrug resistance
+KW  - cancer prognosis
+KW  - progression free survival
+KW  - cancer cell
+KW  - nonhuman
+KW  - unclassified drug
+KW  - antineoplastic activity
+KW  - cancer radiotherapy
+KW  - cancer survival
+KW  - antineoplastic agent
+KW  - cancer chemotherapy
+KW  - drug cytotoxicity
+KW  - treatment response
+KW  - cancer mortality
+KW  - cell membrane
+KW  - drug mechanism
+KW  - peptide derivative
+KW  - cancer resistance
+KW  - physical chemistry
+KW  - drug screening
+KW  - cytotoxic agent
+KW  - drug structure
+KW  - cause of death
+KW  - melittin
+KW  - amino acid sequence
+KW  - amino acid derivative
+KW  - NCT01986426
+KW  - ruxotemitide
+KW  - experimental model
+KW  - magainin 2
+KW  - aurein 1.2
+KW  - bioactive cationic peptide derivative
+KW  - buforin IIb
+KW  - lactoferricin
+KW  - lactoferricin B
+KW  - oncopore
+KW  - peptoid 1
+KW  - peptoide 1
+KW  - pseudhymenochirin 1Pa
+KW  - pseudhymenochirin 2Pa
+KW  - temporin 1CEa
+KW  - temporina 1CEa
+ER  - 
+
+TY  - JOUR
+TI  - Bioactive cationic peptides as potential agents for breast cancer treatment
+AU  - Manrique-Moreno, Marcela
+AU  - Santa-Gonzalez, Gloria A.
+AU  - Gallego, Vanessa
+T2  - BIOSCIENCE REPORTS
+AB  - Breast cancer continues to affect millions of women worldwide, and the number of new cases dramatically increases every year. The physiological causes behind the disease are still not fully understood. One in every 100 cases can occur in men, and although the frequency is lower than among women, men tend to have a worse prognosis of the disease. Various therapeutic alternatives to combat the disease are available. These depend on the type and progress of the disease, and include chemotherapy, radiotherapy, surgery, and cancer immunotherapy. However, there are several well-reported side effects of these treatments that have a significant impact on life quality, and patients either relapse or are refractory to treatment. This makes it necessary to develop new therapeutic strategies. One promising initiative are bioactive peptides, which have emerged in recent years as a family of compounds with an enormous number of clinical applications due to their broad spectrum of activity. They are widely distributed in several organisms as part of their immune system. The antitumoral activity of these peptides lies in a nonspecific mechanism of action associated with their interaction with cancer cell membranes, inducing, through several routes, bilayer destabilization and cell death. This review provides an overview of the literature on the evaluation of cationic peptides as potential agents against breast cancer under different study phases. First, physicochemical characteristics such as the primary structure and charge are presented. Secondly, information about dosage, the experimental model used, and the mechanism of action proposed for the peptides are discussed.
+DA  - 2021/12//
+PY  - 2021
+DO  - 10.1042/BSR20211218C
+VL  - 41
+IS  - 12
+SP  - BSR20211218C
+J2  - Biosci. Rep.
+LA  - English
+SN  - 0144-8463, 1573-4935
+KW  - ANTITUMOR-ACTIVITY
+KW  - MECHANISMS
+KW  - RESPONSES
+KW  - ROLES
+KW  - ANTICANCER ACTIVITIES
+KW  - ANTIMICROBIAL PEPTIDES
+KW  - HOST-DEFENSE PEPTIDES
+KW  - CELL BIOLOGY
+KW  - LTX-315
+KW  - ONCOLYTIC PEPTIDE
+ER  - 
+

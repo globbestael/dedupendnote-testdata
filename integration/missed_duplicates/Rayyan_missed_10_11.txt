@@ -1,0 +1,78 @@
+TY  - JOUR
+AB  - Objective: To estimate the prevalence of sickle cell disease (SCD) in pregnancy, and to measure risk factors, morbidity, and mortality among women with SCD with and without crisis at the time of birth. Method(s): We conducted a population-based, retrospective cohort study on all births in the Healthcare Cost and Utilization Project Nationwide Inpatient Sample (HCUPNIS) from 1999 to 2008. Births to SCD with and without crisis were identified using ICD-9 codes. Adjusted effects of risk factors and outcomes were estimated using logistic regression analyses. Effect of hemoglobin variants among women with SCD was analyzed as a predictor of crisis. Result(s): There were 4262 births to women with SCD for an overall prevalence of 4.83 per 10,000 deliveries. 28.5% of women with SCD developed crisis at the time of delivery. The maternal mortality rate was 1.6 per 1000 deliveries in women with SCD, compared to 0.1 per 1000 in women without SCD. Pregnant women with SCD had a higher risk of developing preeclampsia, eclampsia, venous thromboembolism, cardiomyopathy, intrauterine fetal demise, and intrauterine growth restriction. Cesarean delivery rates were higher in women with SCD. Among the 1898 SCD women with identified hemoglobin variants, homozygous SS was the greatest risk factor for sickle cell crisis, accounting for 89.8% of all women who developed crisis. Conclusion(s): Pregnant women with SCD have a high risk of morbidity and mortality. Developing acute sickle cell crisis worsened perinatal outcomes.
+AN  - rayyan-423295002
+AU  - Alayed, N.
+AU  - Kezouh, A.
+AU  - Oddy, L.
+AU  - Abenhaim, H. A.
+DO  - https://doi.org/10.1515/jpm-2013-0275
+IS  - 4
+KW  - adult
+article
+cardiomyopathy/co [Complication]
+cesarean section
+childbirth
+cohort analysis
+eclampsia/co [Complication]
+female
+human
+major clinical study
+maternal mortality
+morbidity
+population research
+preeclampsia/co [Complication]
+*pregnancy outcome
+prenatal growth
+prevalence
+priority journal
+risk factor
+*sickle cell anemia
+venous thromboembolism/co [Complication]
+hemoglobin variant/ec [Endogenous Compound]
+LA  - English
+PY  - 2014
+SN  - 0300-5577 1619-3997
+SP  - 487–492
+ST  - Sickle cell disease and pregnancy outcomes: Population-based study on 8.8 million births
+T2  - Journal of Perinatal Medicine
+TI  - Sickle cell disease and pregnancy outcomes: Population-based study on 8.8 million births
+UR  - http://www.degruyter.com/view/j/jpme https://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed15&NEWS=N&AN=373513766 http://digitaal.uba.uva.nl/uva-linker?sid=OVID:embase&id=pmid:24344096&id=doi:10.1515%2Fjpm-2013-0275&issn=0300-5577&isbn=&volume=42&issue=4&spage=487&pages=487-492&date=2014&title=Journal+of+Perinatal+Medicine&atitle=Sickle+cell+disease+and+pregnancy+outcomes%3A+Population-based+study+on+8.8+million+births&aulast=Alayed&pid=%3Cauthor%3EAlayed+N.%3BKezouh+A.%3BOddy+L.%3BAbenhaim+H.A.%3C%2Fauthor%3E%3CAN%3E373513766%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E
+VL  - 42
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To estimate the prevalence of sickle cell disease (SCD) in pregnancy, and to measure risk factors, morbidity, and mortality among women with SCD with and without crisis at the time of birth. METHODS: We conducted a population-based, retrospective cohort study on all births in the Healthcare Cost and Utilization Project Nationwide Inpatient Sample (HCUP-NIS) from 1999 to 2008. Births to SCD with and without crisis were identified using ICD-9 codes. Adjusted effects of risk factors and outcomes were estimated using logistic regression analyses. Effect of hemoglobin variants among women with SCD was analyzed as a predictor of crisis. RESULTS: There were 4262 births to women with SCD for an overall prevalence of 4.83 per 10,000 deliveries. 28.5% of women with SCD developed crisis at the time of delivery. The maternal mortality rate was 1.6 per 1000 deliveries in women with SCD, compared to 0.1 per 1000 in women without SCD. Pregnant women with SCD had a higher risk of developing preeclampsia, eclampsia, venous thromboembolism, cardiomyopathy, intrauterine fetal demise, and intrauterine growth restriction. Cesarean delivery rates were higher in women with SCD. Among the 1898 SCD women with identified hemoglobin variants, homozygous SS was the greatest risk factor for sickle cell crisis, accounting for 89.8% of all women who developed crisis. CONCLUSION: Pregnant women with SCD have a high risk of morbidity and mortality. Developing acute sickle cell crisis worsened perinatal outcomes.
+AN  - rayyan-423295003
+AU  - Alayed, N.
+AU  - Kezouh, A.
+AU  - Oddy, L.
+AU  - Abenhaim, H. A.
+DO  - https://doi.org/10.1515/jpm-2013-0275
+IS  - 4
+KW  - Adult
+Anemia, Sickle Cell/*complications/epidemiology/physiopathology
+Cohort Studies
+Delivery, Obstetric
+Female
+Fetal Growth Retardation/epidemiology
+Humans
+Maternal Death/statistics & numerical data
+Pregnancy
+*Pregnancy Complications, Hematologic
+*Pregnancy Outcome
+Retrospective Studies
+Risk Factors
+Young Adult
+LA  - eng
+N1  - 1619-3997 Alayed, Nada Kezouh, Abbas Oddy, Lisa Abenhaim, Haim A Journal Article Research Support, Non-U.S. Gov't Germany 2013/12/18 J Perinat Med. 2014 Jul;42(4):487-92. doi: 10.1515/jpm-2013-0275.
+PY  - 2014
+SN  - 0300-5577
+SP  - 487–92
+ST  - Sickle cell disease and pregnancy outcomes: population-based study on 8.8 million births
+T2  - J Perinat Med
+TI  - Sickle cell disease and pregnancy outcomes: population-based study on 8.8 million births
+VL  - 42
+Y2  - 7
+ID  - 11
+ER  - 

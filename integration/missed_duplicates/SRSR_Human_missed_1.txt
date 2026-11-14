@@ -1,0 +1,241 @@
+TY  - JOUR
+AB  - BACKGROUND: The pathogenesis of Crohn's disease involves migration of leukocytes into gut tissue and subsequent inflammation. Natalizumab (Tysabri(R), Elan Pharmaceuticals and Biogen Idec) a recombinant humanized IgG4 monoclonal antibody that blocks adhesion and subsequent migration of leukocytes into the gut by binding the alpha4 integrin is a member of a new class of molecules known as selective adhesion molecule (SAM) inhibitors. The results of animal studies suggest that alpha4 integrin blockade could be a useful therapy for inflammatory bowel disease. The results of randomized controlled trials suggest that natalizumab may be an effective therapy for active Crohn's disease. This systematic review summarizes the current evidence on the use of natalizumab for the induction of remission in Crohn's disease. OBJECTIVES: To determine the efficacy and safety of natalizumab for induction of remission in Crohn's disease. SEARCH STRATEGY: A computer assisted search of the Cochrane Central Register of Controlled Trials, the Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders Review Group Specialized Trials Register, MEDLINE and EMBASE was performed to identify relevant publications between 1966 and September 2006. The medical subject heading (MeSH) terms Crohn disease or inflammatory bowel disease, Natalizumab or Antegren or Tysabri and Antibodies, Monoclonal were used to perform key word searches of each database. Manual searches of reference lists from potentially relevant papers were performed in order to identify additional studies that may have been missed using the computer-assisted search strategy. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Personal contacts, leaders in the field, and the manufacturers were contacted to identify other studies which may not be published. SELECTION CRITERIA: We included only randomized controlled trials comparing natalizumab to a placebo or control therapy for the induction of remission in Crohn's disease. DATA COLLECTION AND ANALYSIS: Data were analyzed using Review Manager (RevMan 4.2.8). All data were analyzed on an intention-to-treat basis. For pooled data, summary test statistics were derived using the relative risk and 95% confidence intervals. Fixed and random effects models were used where appropriate. The definitions of treatment success, remission and clinical improvement were set by the authors of each paper, and the data were combined for analysis only if these definitions were sufficiently similar. MAIN RESULTS: Pooled data from the four included studies suggest that natalizumab (300 mg or 3 to 4 mg/kg) is effective for induction of clinical response and remission in patients with moderately to severely active Crohn's disease. This benefit is statistically significant for one, two and three infusion treatments. There was a trend toward increased benefit with additional infusions of natalizumab. Natalizumab appears to provide greater benefit for patient subgroups characterized by objective confirmation of active inflammation or chronically active disease despite conventional therapies. These subgroup analyses demonstrated significantly greater clinical response and remission rates for natalizumab compared with placebo in patients with elevated C-reactive protein levels, active disease despite the use of immunosuppressants, or prior anti-tumor necrosis factor therapy. These benefits were apparent for both short term (one infusion) and longer term treatment (two or three infusions). Natalizumab was generally well tolerated and the safety profile observed in the four included studies was similar. Adverse events occurred infrequently and were experienced by a similar proportion of natalizumab and placebo treated patients. There were no statistically significant differences between natalizumab and placebo treated patients in the proportions of patients who withdrew due to adverse events or those who experienced serious adverse events. The included trials lacked adequate power to detect serious adverse events that occur infrequently. Recently, two patients with multiple sclerosis treated with natalizumab in combination with interferon beta-1a and one patient with Crohn's disease treated with natalizumab in combination with azathioprine developed progressive multifocal leukoencephalopathy (PML) resulting in two patient deaths. A retrospective investigation was conducted to assess the risk of PML in natalizumab treated patients and no new cases were identified. AUTHORS' CONCLUSIONS: Pooled data suggest that natalizumab is effective for induction of clinical response and remission in some patients with moderately to severely active Crohn's disease. The clinical benefit of induction therapy with natalizumab in Crohn's disease should be weighed against the potential risk of serious adverse events. Preliminary data from the retrospective investigation of adverse events associated with natalizumab suggest that it may be possible to identify patients at risk for PML by testing for the appearance of JC virus in plasma.
+AD  - Robarts Research Institute, Robarts Clinical Trials, P.O. Box 5015, 100 Perth Drive, London, Ontario, CANADA, N6A 5K8. jmacdon1@uwo.ca
+AN  - 17253580
+AU  - MacDonald, J. K.
+AU  - McDonald, J. W.
+DA  - Jan 24
+DO  - 10.1002/14651858.CD006097.pub2
+DP  - NLM
+ET  - 2007/01/27
+IS  - 1
+J2  - The Cochrane database of systematic reviews
+KW  - Antibodies, Monoclonal/administration & dosage/*therapeutic use
+Antibodies, Monoclonal, Humanized
+Crohn Disease/*drug therapy
+Humans
+Integrin alpha4
+Integrins/antagonists & inhibitors
+Natalizumab
+Randomized Controlled Trials as Topic
+Remission Induction
+Treatment Failure
+LA  - eng
+N1  - 1469-493x
+MacDonald, J K
+McDonald, J W D
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+England
+Cochrane Database Syst Rev. 2007 Jan 24;(1):CD006097. doi: 10.1002/14651858.CD006097.pub2.
+PY  - 2007
+SN  - 1361-6137
+SP  - Cd006097
+ST  - Natalizumab for induction of remission in Crohn's disease
+T2  - Cochrane Database Syst Rev
+TI  - Natalizumab for induction of remission in Crohn's disease
+ID  - 20755
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The pathogenesis of Crohn's disease involves migration of leukocytes into gut tissue and subsequent inflammation. Natalizumab (Tysabri, Elan Pharmaceuticals and Biogen Idec) a recombinant humanized IgG4 monoclonal antibody that blocks adhesion and subsequent migration of leukocytes into the gut by binding the alpha4 integrin is a member of a new class of molecules known as selective adhesion molecule (SAM) inhibitors. The results of animal studies suggest that alpha4 integrin blockade could be a useful therapy for inflammatory bowel disease. The results of randomized controlled trials suggest that natalizumab may be an effective therapy for active Crohn's disease. This systematic review summarizes the current evidence on the use of natalizumab for the induction of remission in Crohn's disease. OBJECTIVES: To determine the efficacy and safety of natalizumab for induction of remission in Crohn's disease. SEARCH STRATEGY: A computer assisted search of the Cochrane Central Register of Controlled Trials, the Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders Review Group Specialized Trials Register, MEDLINE and EMBASE was performed to identify relevant publications between 1966 and June 2005. The medical subject heading (MeSH) terms Crohn disease or inflammatory bowel disease, Natalizumab or Antegren or Tysabri and Antibodies, Monoclonal were used to perform key word searches of each database. Manual searches of reference lists from potentially relevant papers were performed in order to identify additional studies that may have been missed using the computer-assisted search strategy. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Personal contacts, leaders in the field, and the manufacturers were contacted to identify other studies which may not be published. SELECTION CRITERIA: We included only randomized controlled trials comparing natalizumab to a placebo or control therapy for the induction of remission in Crohn's disease. DATA COLLECTION AND ANALYSIS: Data were analyzed using Review Manager (RevMan 4.2.8). All data were analyzed on an intention-to-treat basis. For pooled data, summary test statistics were derived using the relative risk and 95% confidence intervals. Fixed and random effects models were used where appropriate. The definitions of treatment success, remission and clinical improvement were set by the authors of each paper, and the data were combined for analysis only if these definitions were sufficiently similar. MAIN RESULTS: Pooled data from the three included studies suggest that natalizumab (3 to 4 mg/kg) may be effective for induction of clinical response and remission in patients with moderately to severely active Crohn's disease. This benefit is statistically significant for one, two and three infusion treatments. There was a trend toward increased benefit with additional infusions of natalizumab. Natalizumab appears to provide greater benefit for patient subgroups characterized by objective confirmation of active inflammation or chronically active disease despite conventional therapies. These subgroup analyses demonstrated significantly greater clinical response and remission rates for natalizumab compared with placebo in patients with elevated C-reactive protein levels, active disease despite the use of immunosuppressants, or prior anti-tumor necrosis factor therapy. These benefits were apparent for both short term (one infusion) and longer term treatment (two or three infusions). Natalizumab was generally well tolerated and the safety profile observed in the three included studies was similar. Adverse events occurred infrequently and were experienced by a similar proportion of natalizumab and placebo treated patients. There were no statistically significant differences between natalizumab and placebo treated patients in the proportions of patients who withdrew due to adverse events or those who experienced serious adverse events. The included trials lacked adequate power to detect serious adverse events that occur infrequently. Recently, two patients with multiple sclerosis treated with natalizumab in combination with interferon beta-1a and one patient with Crohn's disease treated with natalizumab in combination with azathioprine developed progressive multifocal leukoencephalopathy (PML) resulting in two patient deaths. As a result all dosing in clinical trials and commercial use of natalizumab has been suspended. A retrospective investigation was conducted to assess the risk of PML in natalizumab treated patients and no new cases were identified. AUTHORS' CONCLUSIONS: Pooled data and the results of an ongoing study suggest that natalizumab may be effective for induction of clinical response and remission in patients with moderately to severely active Crohn's disease. The clinical benefit of induction therapy with natalizumab in Crohn's disease should be weighed against the potential risk of serious adverse events. Currently natalizumab is not available on the market for routine clinical use as a consequence of the unexpected association with PML. However, preliminary data from the retrospective investigation of adverse events associated with natalizumab suggest that it may be possible to identify patients at risk for PML by testing for the appearance of JC virus in plasma.
+AD  - Robarts Research Institute, Robarts Clinical Trials, P.O. Box 5015, 100 Perth Drive, London, Ontario, Canada N6A 5K8. jmacdon1@uwo.ca
+AN  - 16856112
+AU  - Macdonald, J. K.
+AU  - McDonald, J. W.
+CA  - REMOVED
+DA  - Jul 19
+DO  - 10.1002/14651858.cd006097
+DP  - NLM
+ET  - 2006/07/21
+IS  - 3
+J2  - The Cochrane database of systematic reviews
+KW  - Antibodies, Monoclonal/adverse effects/*therapeutic use
+Antibodies, Monoclonal, Humanized
+Crohn Disease/*drug therapy
+Humans
+Integrin alpha4
+Natalizumab
+Randomized Controlled Trials as Topic
+Remission Induction
+Treatment Failure
+LA  - eng
+N1  - 1469-493x
+Macdonald, J K
+McDonald, J W D
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+England
+Cochrane Database Syst Rev. 2006 Jul 19;(3):CD006097. doi: 10.1002/14651858.CD006097.
+PY  - 2006
+SN  - 1361-6137
+SP  - Cd006097
+ST  - Natalizumab for induction of remission in Crohn's disease
+T2  - Cochrane Database Syst Rev
+TI  - Natalizumab for induction of remission in Crohn's disease
+ID  - 21088
+ER  - 
+
+TY  - JOUR
+AB  - Background: The pathogenesis of Crohn's disease involves migration of leukocytes into gut tissue and subsequent inflammation. Natalizumab (Tysabri, Elan Pharmaceuticals and Biogen Idec) a recombinant humanized IgG4 monoclonal antibody that blocks adhesion and subsequent migration of leukocytes into the gut by binding the alpha4 integrin is a member of a new class of molecules known as selective adhesion molecule (SAM) inhibitors. The results of animal studies suggest that alpha4 integrin blockade could be a useful therapy for inflammatory bowel disease. The results of randomized controlled trials suggest that natalizumab may be an effective therapy for active Crohn's disease. This systematic review summarizes the current evidence on the use of natalizumab for the induction of remission in Crohn's disease. Objective(s): To determine the efficacy and safety of natalizumab for induction of remission in Crohn's disease. Search strategy: A computer assisted search of the Cochrane Central Register of Controlled Trials, the Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders Review Group Specialized Trials Register, MEDLINE and EMBASE was performed to identify relevant publications between 1966 and September 2006. The medical subject heading (MeSH) terms Crohn disease or inflammatory bowel disease, Natalizumab or Antegren or Tysabri and Antibodies, Monoclonal were used to perform key word searches of each database. Manual searches of reference lists from potentially relevant papers were performed in order to identify additional studies that may have been missed using the computer-assisted search strategy. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Personal contacts, leaders in the field, and the manufacturers were contacted to identify other studies which may not be published. Selection Criteria: We included only randomized controlled trials comparing natalizumab to a placebo or control therapy for the induction of remission in Crohn's disease. Data Collection and Analysis: Data were analyzed using Review Manager (RevMan 4.2.8). All data were analyzed on an intention-to-treat basis. For pooled data, summary test statistics were derived using the relative risk and 95% confidence intervals. Fixed and random effects models were used where appropriate. The definitions of treatment success, remission and clinical improvement were set by the authors of each paper, and the data were combined for analysis only if these definitions were sufficiently similar. Main Result(s): Pooled data from the four included studies suggest that natalizumab (300 mg or 3 to 4 mg/kg) is effective for induction of clinical response and remission in patients with moderately to severely active Crohn's disease. This benefit is statistically significant for one, two and three infusion treatments. There was a trend toward increased benefit with additional infusions of natalizumab. Natalizumab appears to provide greater benefit for patient subgroups characterized by objective confirmation of active inflammation or chronically active disease despite conventional therapies. These subgroup analyses demonstrated significantly greater clinical response and remission rates for natalizumab compared with placebo in patients with elevated C-reactive protein levels, active disease despite the use of immunosuppressants, or prior anti-tumor necrosis factor therapy. These benefits were apparent for both short term (one infusion) and longer term treatment (two or three infusions). Natalizumab was generally well tolerated and the safety profile observed in the four included studies was similar. Adverse events occurred infrequently and were experienced by a similar proportion of natalizumab and placebo treated patients. There were no statistically significant differences between natalizumab and placebo treated patients in the proportions of patients who withdrew due to adverse events or those who experienced serious adverse events. The included trials lacked adequate power to detect serious adverse events that occur infrequently. Recently, two patients with multiple sclerosis treated with natalizumab in combination with interferon beta-1a and one patient with Crohn's disease treated with natalizumab in combination with azathioprine developed progressive multifocal leukoencephalopathy (PML) resulting in two patient deaths. A retrospective investigation was conducted to assess the risk of PML in natalizumab treated patients and no new cases were identified. Authors' conclusions: Pooled data suggest that natalizumab is effective for induction of clinical response and remission in some patients with moderately to severely active Crohn's disease. The clinical benefit of induction therapy with natalizumab in Crohn's disease should be weighed against the potential risk of serious adverse events. Preliminary data from the retrospective investigation of adverse events associated with natalizumab suggest that it may be possible to identify patients at risk for PML by testing for the appearance of JC virus in plasma. Copyright © 2008 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+AD  - (MacDonald) Cochrane IBD/FBD Group, Robarts Clinical Trials, Robarts Research Institute, 100 Perth Drive, London, ON N6A 5K8, Canada
+J. MacDonald, Cochrane IBD/FBD Group, Robarts Clinical Trials, Robarts Research Institute, 100 Perth Drive, London, ON N6A 5K8, Canada. E-mail: jmacdon1@uwo.ca
+AN  - 351835441
+AU  - MacDonald, J. K.
+AU  - McDonald, J. W. D.
+AU  - MacDonald, J.
+CA  - REMOVED
+DB  - Embase
+DO  - http://dx.doi.org/10.1002/14651858.CD006097.pub2
+DP  - Ovid Technologies
+IS  - CD006097
+KW  - Antibodies, monoclonal [administration & dosage
+therapeutic use]
+Crohn disease [ drug therapy]
+Integrin alpha4
+Integrins [antagonists & inhibitors]
+Randomized controlled trials as topic
+Remission induction
+Treatment failure
+abdominal pain/si [Side Effect]
+arthralgia/si [Side Effect]
+clinical trial
+Cochrane Library
+colitis/si [Side Effect]
+controlled clinical trial
+Crohn disease/si [Side Effect]
+Crohn disease/dt [Drug Therapy]
+data analysis
+drug dose comparison
+drug efficacy
+drug safety
+Embase
+fatigue/si [Side Effect]
+flu like syndrome/si [Side Effect]
+headache/si [Side Effect]
+human
+hypersensitivity reaction/si [Side Effect]
+immunotherapy
+infection/si [Side Effect]
+Medline
+meta analysis
+nausea/si [Side Effect]
+outcomes research
+progressive multifocal leukoencephalopathy/si [Side Effect]
+randomized controlled trial
+remission
+review
+systematic review
+vomiting/si [Side Effect]
+azathioprine/ct [Clinical Trial]
+azathioprine/cb [Drug Combination]
+azathioprine/dt [Drug Therapy]
+budesonide/ct [Clinical Trial]
+budesonide/dt [Drug Therapy]
+cyclosporin/dt [Drug Therapy]
+mercaptopurine/ct [Clinical Trial]
+mercaptopurine/dt [Drug Therapy]
+mesalazine/ct [Clinical Trial]
+mesalazine/dt [Drug Therapy]
+methotrexate/dt [Drug Therapy]
+natalizumab/ae [Adverse Drug Reaction]
+natalizumab/ct [Clinical Trial]
+natalizumab/cb [Drug Combination]
+natalizumab/do [Drug Dose]
+natalizumab/dt [Drug Therapy]
+natalizumab/iv [Intravenous Drug Administration]
+placebo
+prednisolone/ct [Clinical Trial]
+prednisolone/dt [Drug Therapy]
+prednisolone/po [Oral Drug Administration]
+tacrolimus/dt [Drug Therapy]
+LA  - English
+M3  - Review
+PY  - 2007
+SN  - 1469-493X
+ST  - Natalizumab for induction of remission in Crohn's disease
+T2  - Cochrane Database of Systematic Reviews
+TI  - Natalizumab for induction of remission in Crohn's disease
+UR  - http://www.mrw.interscience.wiley.com/cochrane/clsysrev/articles/CD006097/pdf_fs.html
+http://www.ezproxy.is.ed.ac.uk/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed10&AN=351835441
+https://ed-primo.hosted.exlibrisgroup.com/openurl/44UOE/44UOE_VU2?sid=OVID:Embase&id=pmid:16856112&id=10.1002%2F14651858.CD006097.pub2&issn=1469-493X&isbn=&volume=&issue=1&spage=&pages=&date=2007&title=Cochrane+Database+of+Systematic+Reviews&atitle=Natalizumab+for+induction+of+remission+in+Crohn%27s+disease&aulast=MacDonald&pid=<author><p15/></author>&<AN><p16/></AN>
+VL  - (1) (no pagination)
+ID  - 36221
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The pathogenesis of Crohn's disease involves migration of leukocytes into gut tissue and subsequent inflammation. Natalizumab (Tysabri(R), Elan Pharmaceuticals and Biogen Idec) a recombinant humanized IgG4 monoclonal antibody that blocks adhesion and subsequent migration of leukocytes into the gut by binding the alpha4 integrin is a member of a new class of molecules known as selective adhesion molecule (SAM) inhibitors. The results of animal studies suggest that alpha4 integrin blockade could be a useful therapy for inflammatory bowel disease. The results of randomized controlled trials suggest that natalizumab may be an effective therapy for active Crohn's disease. This systematic review summarizes the current evidence on the use of natalizumab for the induction of remission in Crohn's disease. OBJECTIVE(S): To determine the efficacy and safety of natalizumab for induction of remission in Crohn's disease. SEARCH STRATEGY: A computer assisted search of the Cochrane Central Register of Controlled Trials, the Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders Review Group Specialized Trials Register, MEDLINE and EMBASE was performed to identify relevant publications between 1966 and September 2006. The medical subject heading (MeSH) terms Crohn disease or inflammatory bowel disease, Natalizumab or Antegren or Tysabri and Antibodies, Monoclonal were used to perform key word searches of each database. Manual searches of reference lists from potentially relevant papers were performed in order to identify additional studies that may have been missed using the computer-assisted search strategy. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Personal contacts, leaders in the field, and the manufacturers were contacted to identify other studies which may not be published. SELECTION CRITERIA: We included only randomized controlled trials comparing natalizumab to a placebo or control therapy for the induction of remission in Crohn's disease. DATA COLLECTION AND ANALYSIS: Data were analyzed using Review Manager (RevMan 4.2.8). All data were analyzed on an intention-to-treat basis. For pooled data, summary test statistics were derived using the relative risk and 95% confidence intervals. Fixed and random effects models were used where appropriate. The definitions of treatment success, remission and clinical improvement were set by the authors of each paper, and the data were combined for analysis only if these definitions were sufficiently similar. MAIN RESULTS: Pooled data from the four included studies suggest that natalizumab (300 mg or 3 to 4 mg/kg) is effective for induction of clinical response and remission in patients with moderately to severely active Crohn's disease. This benefit is statistically significant for one, two and three infusion treatments. There was a trend toward increased benefit with additional infusions of natalizumab. Natalizumab appears to provide greater benefit for patient subgroups characterized by objective confirmation of active inflammation or chronically active disease despite conventional therapies. These subgroup analyses demonstrated significantly greater clinical response and remission rates for natalizumab compared with placebo in patients with elevated C-reactive protein levels, active disease despite the use of immunosuppressants, or prior anti-tumor necrosis factor therapy. These benefits were apparent for both short term (one infusion) and longer term treatment (two or three infusions). Natalizumab was generally well tolerated and the safety profile observed in the four included studies was similar. Adverse events occurred infrequently and were experienced by a similar proportion of natalizumab and placebo treated patients. There were no statistically significant differences between natalizumab and placebo treated patients in the proportions of patients who withdrew due to adverse events or those who experienced serious adverse events. The included trials lacked adequate power to detect serious adverse events that occur infrequently. Recently, two patients with multiple sclerosis treated with natalizumab in combination with interferon beta-1a and one patient with Crohn's disease treated with natalizumab in combination with azathioprine developed progressive multifocal leukoencephalopathy (PML) resulting in two patient deaths. A retrospective investigation was conducted to assess the risk of PML in natalizumab treated patients and no new cases were identified. AUTHORS' CONCLUSION(S): Pooled data suggest that natalizumab is effective for induction of clinical response and remission in some patients with moderately to severely active Crohn's disease. The clinical benefit of induction therapy with natalizumab in Crohn's disease should be weighed against the potential risk of serious adverse events. Preliminary data from the retrospective investigation of adverse events associated with natalizumab suggest that it may be possible to identify patients at risk for PML by testing for the appearance of JC virus in plasma.
+AD  - (MacDonald, McDonald) Robarts Research Institute, Robarts Clinical Trials, P.O. Box 5015, 100 Perth Drive, London, Ontario, CANADA, N6A 5K8.
+J.K. MacDonald, Robarts Research Institute, Robarts Clinical Trials, P.O. Box 5015, 100 Perth Drive, London, Ontario, CANADA, N6A 5K8.
+AN  - 46703026
+AU  - MacDonald, J. K.
+AU  - McDonald, J. W.
+CA  - REMOVED
+DB  - Embase
+DP  - Ovid Technologies
+IS  - 1
+KW  - clinical trial
+controlled clinical trial
+Crohn disease/dt [Drug Therapy]
+drug antagonism
+human
+meta analysis
+randomized controlled trial
+remission
+review
+treatment failure
+alpha4 integrin
+integrin
+monoclonal antibody/ad [Drug Administration]
+monoclonal antibody/dt [Drug Therapy]
+natalizumab
+LA  - English
+M3  - Review
+PY  - 2007
+SN  - 1469-493X (electronic)
+1469-493X
+SP  - CD006097
+ST  - Natalizumab for induction of remission in Crohn's disease
+T2  - Cochrane database of systematic reviews (Online)
+TI  - Natalizumab for induction of remission in Crohn's disease
+UR  - http://www.ezproxy.is.ed.ac.uk/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed10&AN=46703026
+https://ed-primo.hosted.exlibrisgroup.com/openurl/44UOE/44UOE_VU2?sid=OVID:Embase&id=pmid:17253580&id=&issn=1469-493X&isbn=&volume=&issue=1&spage=CD006097&pages=CD006097&date=2007&title=Cochrane+database+of+systematic+reviews+%28Online%29&atitle=Natalizumab+for+induction+of+remission+in+Crohn%27s+disease&aulast=MacDonald&pid=<author><p15/></author>&<AN><p16/></AN>
+ID  - 36239
+ER  - 
+
+TY  - JOUR
+AN  - WOS:000243747900150
+AU  - MacDonald, J. K.
+AU  - McDonald, J. W. D.
+C1  - 41
+CA  - REMOVED
+DA  - 2007
+DO  - 10.1002/14651858.CD006097.pub2
+IS  - 1
+PY  - 2007
+ST  - Natalizumab for induction of remission in Crohn's disease
+T2  - COCHRANE DATABASE OF SYSTEMATIC REVIEWS
+TI  - Natalizumab for induction of remission in Crohn's disease
+ID  - 51543
+ER  - 
+
+TY  - JOUR
+AN  - WOS:000239141400109
+AU  - MacDonald, J. K.
+AU  - McDonald, J. W. D.
+C1  - 9
+CA  - REMOVED
+DA  - 2006
+DO  - 10.1002/14651858.CD006097
+IS  - 3
+PY  - 2006
+ST  - Natalizumab for induction of remission in Crohn's disease
+T2  - COCHRANE DATABASE OF SYSTEMATIC REVIEWS
+TI  - Natalizumab for induction of remission in Crohn's disease
+ID  - 51785
+ER  - 
+

@@ -1,0 +1,31 @@
+TY  - JOUR
+AB  - The proceedings contain 36 papers. The special focus in this conference is on Applied Intelligence and Informatics. The topics include: ML-Based Radiomics Analysis for Breast Cancer Classification in DCE-MRI; Decoding Motor Preparation Through a Deep Learning Approach Based on EEG Time-Frequency Maps; A Novel Fuzzy Semi-supervised Learning Approach for the Classification of Colorectal Cancer (FSSL-CRCC); Machine Learning Models to Analyze the Effect of Drugs on Neonatal-ICU Length of Stay; iConDet2: An Improved Conjunctivitis Detection Portable Healthcare App Powered by Artificial Intelligence; ensemble Classifiers for a 4-Way Classification of Alzheimer’s Disease; identification of Crown and Rump in First-Trimester Ultrasound Images Using Deep Convolutional Neural Network; A Pyramidal Approach for Emotion Recognition from EEG Signals; Evaluation of Galvanic Skin Response (GSR) Signals Features for Emotion Recognition; innovative Soft Computing Techniques for the Evaluation of the Mechanical Stress State of Steel Plates; a Privacy-Preserving Federated-MobileNet for Facial Expression Detection from Images; Television Programs Classification via Deep Learning Approach Using SSMI-CNN; a Hybrid Deep Learning System to Detect Face-Mask and Monitor Social Distance; handwriting and Drawing for Depression Detection: A Preliminary Study; identifying Synthetic Voices’ Qualities for Conversational Agents; identifying Colluding Actors in Social Communities by Reputation Measures; weakly Supervised Transfer Learning for Multi-label Appliance Classification; toward an Interoperable Catalogue of Multimodal Depression-Related Data; explainable Deep Learning Classification of Respiratory Sound for Telemedicine Applications; nonexclusive Classification of Household Appliances by Fuzzy Deep Neural Networks; an Indirect Approach to Forecast Produced Power on Photovoltaic Plants Under Uneven Shading Conditions; Applied Enhanced Q-NAS for COVID-19 Detection in CT Images; beware the Sirens: Prototyping an Emergency Vehicle Detection System for Smart Cars; indoor Positioning and Navigation Using Bluetooth Low Energy and Cloud Service in Healthcare Perspective; science Parks Externalities on Financial Performance of Small Firms Through Business Intelligence Tools.
+DA  - 2022
+DB  - Scopus
+J2  - Commun. Comput. Info. Sci.
+LA  - English
+PY  - 2022
+SN  - 18650929 (ISSN); 978-303124800-9 (ISBN)
+ST  - 2nd International Conference on Applied Intelligence and Informatics, AII 2022
+T2  - Communications in Computer and Information Science
+TI  - 2nd International Conference on Applied Intelligence and Informatics, AII 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149690697&partnerID=40&md5=e24f393811c5420a7ad26379dc05038d
+VL  - 1724 CCIS
+ID  - 2104
+ER  - 
+
+TY  - JOUR
+AB  - The proceedings contain 36 papers. The special focus in this conference is on Applied Intelligence and Informatics. The topics include: ML-Based Radiomics Analysis for Breast Cancer Classification in DCE-MRI; Decoding Motor Preparation Through a Deep Learning Approach Based on EEG Time-Frequency Maps; A Novel Fuzzy Semi-supervised Learning Approach for the Classification of Colorectal Cancer (FSSL-CRCC); Machine Learning Models to Analyze the Effect of Drugs on Neonatal-ICU Length of Stay; iConDet2: An Improved Conjunctivitis Detection Portable Healthcare App Powered by Artificial Intelligence; ensemble Classifiers for a 4-Way Classification of Alzheimer’s Disease; identification of Crown and Rump in First-Trimester Ultrasound Images Using Deep Convolutional Neural Network; A Pyramidal Approach for Emotion Recognition from EEG Signals; Evaluation of Galvanic Skin Response (GSR) Signals Features for Emotion Recognition; innovative Soft Computing Techniques for the Evaluation of the Mechanical Stress State of Steel Plates; a Privacy-Preserving Federated-MobileNet for Facial Expression Detection from Images; Television Programs Classification via Deep Learning Approach Using SSMI-CNN; a Hybrid Deep Learning System to Detect Face-Mask and Monitor Social Distance; handwriting and Drawing for Depression Detection: A Preliminary Study; identifying Synthetic Voices’ Qualities for Conversational Agents; identifying Colluding Actors in Social Communities by Reputation Measures; weakly Supervised Transfer Learning for Multi-label Appliance Classification; toward an Interoperable Catalogue of Multimodal Depression-Related Data; explainable Deep Learning Classification of Respiratory Sound for Telemedicine Applications; nonexclusive Classification of Household Appliances by Fuzzy Deep Neural Networks; an Indirect Approach to Forecast Produced Power on Photovoltaic Plants Under Uneven Shading Conditions; Applied Enhanced Q-NAS for COVID-19 Detection in CT Images; beware the Sirens: Prototyping an Emergency Vehicle Detection System for Smart Cars; indoor Positioning and Navigation Using Bluetooth Low Energy and Cloud Service in Healthcare Perspective; science Parks Externalities on Financial Performance of Small Firms Through Business Intelligence Tools.
+DA  - 2022
+DB  - Scopus
+J2  - Commun. Comput. Info. Sci.
+LA  - English
+PY  - 2022
+SN  - 18650929 (ISSN); 978-303124800-9 (ISBN)
+ST  - 2nd International Conference on Applied Intelligence and Informatics, AII 2022
+T2  - Communications in Computer and Information Science
+TI  - 2nd International Conference on Applied Intelligence and Informatics, AII 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149690697&partnerID=40&md5=e24f393811c5420a7ad26379dc05038d
+VL  - 1724 CCIS
+ID  - 9383
+ER  - 

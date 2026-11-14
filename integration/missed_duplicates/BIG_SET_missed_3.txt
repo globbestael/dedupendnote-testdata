@@ -1,0 +1,66 @@
+TY  - JOUR
+AU  - Harned, R., 2nd
+DA  - May
+DO  - 10.1097/00005176-200305000-00013
+DP  - PubMed
+ET  - 2003/04/30
+IS  - 5
+LA  - eng
+PY  - 2003
+SN  - 0277-2116 (Print) 0277-2116
+SP  - 651; author reply 651-2
+ST  - "Mesenterico-left portal vein bypass in children with congenital extrahepatic portal vein thrombosis: a unique curative approach" by Fuchs J, et all
+T2  - J Pediatr Gastroenterol Nutr
+TI  - "Mesenterico-left portal vein bypass in children with congenital extrahepatic portal vein thrombosis: a unique curative approach" by Fuchs J, et all
+VL  - 36
+ID  - 296
+ER  - 
+
+TY  - JOUR
+AU  - Harned, Ii R.
+AU  - Fuchs, J.
+AU  - Warmann, S.
+AU  - Kardoff, R.
+AU  - Rosenthal, H.
+AU  - Rodeck, B.
+AU  - Ure, B.
+AU  - Melter, M.
+DO  - http://dx.doi.org/10.1097/00005176-200305000-00013
+DP  - Embase_ovid
+IS  - 5
+LA  - English
+PY  - 2003
+SN  - 0277-2116
+SP  - 651-652
+ST  - Letter to the editor [1] (multiple letters)
+T2  - Journal of Pediatric Gastroenterology and Nutrition
+TI  - Letter to the editor [1] (multiple letters)
+VL  - 36
+ID  - 20257
+ER  - 
+
+TY  - JOUR
+AU  - Harned Ii, R.
+AU  - Fuchs, J.
+AU  - Warmann, S.
+AU  - Kardoff, R.
+AU  - Rosenthal, H.
+AU  - Rodeck, B.
+AU  - Ure, B.
+AU  - Melter, M.
+DO  - 10.1097/00005176-200305000-00013
+DP  - Scopus
+IS  - 5
+J2  - J. Pediatr. Gastroenterol. Nutr.
+LA  - English
+M3  - Letter
+PY  - 2003
+SN  - 02772116 (ISSN)
+SP  - 651-652
+ST  - Letter to the editor [1] (multiple letters)
+T2  - Journal of Pediatric Gastroenterology and Nutrition
+TI  - Letter to the editor [1] (multiple letters)
+VL  - 36
+ID  - 33023
+ER  - 
+

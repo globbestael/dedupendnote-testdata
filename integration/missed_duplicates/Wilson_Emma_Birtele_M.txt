@@ -1,0 +1,170 @@
+TY  - JOUR
+AB  - Genes involved in synaptic function are enriched among those with autism spectrum disorder (ASD)-associated rare genetic variants. Dysregulated cortical neurogenesis has been implicated as a convergent mechanism in ASD pathophysiology, yet it remains unknown how 'synaptic' ASD risk genes contribute to these phenotypes, which arise before synaptogenesis. Here, we show that the synaptic Ras GTPase-activating (RASGAP) protein 1 (SYNGAP1, a top ASD risk gene) is expressed within the apical domain of human radial glia cells (hRGCs). In a human cortical organoid model of SYNGAP1 haploinsufficiency, we find dysregulated cytoskeletal dynamics that impair the scaffolding and division plane of hRGCs, resulting in disrupted lamination and accelerated maturation of cortical projection neurons. Additionally, we confirmed an imbalance in the ratio of progenitors to neurons in a mouse model of Syngap1 haploinsufficiency. Thus, SYNGAP1-related brain disorders may arise through non-synaptic mechanisms, highlighting the need to study genes associated with neurodevelopmental disorders (NDDs) in diverse human cell types and developmental stages.
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.
+Eli and Edythe Broad CIRM Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.
+Xiangya Hospital, Central South University, Changsha, China.
+Department of Psychiatry and Behavioral Sciences, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.
+Zilkha Neurogenetic Institute, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.
+Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI, USA.
+Wisconsin Institute for Discovery, University of Wisconsin-Madison, Madison, WI, USA.
+Departments of Neuroscience and Molecular Medicine, University of Florida Scripps Biomedical Research Institute, Jupiter, FL, USA.
+Skaggs Graduate School of Chemical and Biological Sciences, Scripps Research, Jupiter, FL, USA.
+Integrated Mass Spectrometry Shared Resource, City of Hope Comprehensive Cancer Center, Duarte, CA, USA.
+Cancer and Cell Biology Division, Translational Genomics Research Institute, Phoenix, AZ, USA.
+Department of Pathology, University of California, San Francisco, CA, USA.
+Eli and Edythe Broad Institute for Stem Cell Research and Regeneration Medicine, University of California, San Francisco, CA, USA.
+Department of Physiology and Neuroscience, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.
+Department of Stem Cell Biology and Regenerative Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA. quadrato@usc.edu.
+Eli and Edythe Broad CIRM Center for Regenerative Medicine and Stem Cell Research at USC, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA. quadrato@usc.edu.
+AN  - 37946050
+AU  - Birtele, M.
+AU  - Del Dosso, A.
+AU  - Xu, T.
+AU  - Nguyen, T.
+AU  - Wilkinson, B.
+AU  - Hosseini, N.
+AU  - Nguyen, S.
+AU  - Urenda, J. P.
+AU  - Knight, G.
+AU  - Rojas, C.
+AU  - Flores, I.
+AU  - Atamian, A.
+AU  - Moore, R.
+AU  - Sharma, R.
+AU  - Pirrotte, P.
+AU  - Ashton, R. S.
+AU  - Huang, E. J.
+AU  - Rumbaugh, G.
+AU  - Coba, M. P.
+AU  - Quadrato, G.
+C1  - Competing interests: G.K. and R.S.A are inventors on U.S. Patent App. No. 16/044236 that describes for generating microarrayed single rosette cultures, and they are co-founders of Neurosetta LLC that is focused on commercializing the culture platform. The remaining authors declare no competing interests.
+C2  - PMC11349286
+C6  - NIHMS2005184
+DA  - Dec
+DO  - 10.1038/s41593-023-01477-3
+DP  - NLM
+ET  - 20231109
+IS  - 12
+KW  - Animals
+Mice
+Humans
+*Autism Spectrum Disorder/genetics
+ras GTPase-Activating Proteins/genetics
+*Neurodevelopmental Disorders/genetics
+Phenotype
+Neurogenesis/genetics
+LA  - eng
+LB  - pubmed-37946050
+N1  - 1546-1726
+Birtele, Marcella
+Del Dosso, Ashley
+Xu, Tiantian
+Nguyen, Tuan
+Wilkinson, Brent
+Hosseini, Negar
+Nguyen, Sarah
+Urenda, Jean-Paul
+Knight, Gavin
+Rojas, Camilo
+Flores, Ilse
+Atamian, Alexander
+Moore, Roger
+Sharma, Ritin
+Pirrotte, Patrick
+Orcid: 0000-0003-1360-6039
+Ashton, Randolph S
+Huang, Eric J
+Orcid: 0000-0002-5381-3801
+Rumbaugh, Gavin
+Coba, Marcelo P
+Orcid: 0000-0001-7075-6338
+Quadrato, Giorgia
+Orcid: 0000-0003-0717-4874
+P01 NS083513/NS/NINDS NIH HHS/United States
+P30 CA033572/CA/NCI NIH HHS/United States
+R01 MH115005/MH/NIMH NIH HHS/United States
+T32 HD060549/HD/NICHD NIH HHS/United States
+Journal Article
+United States
+2023/11/10
+Nat Neurosci. 2023 Dec;26(12):2090-2103. doi: 10.1038/s41593-023-01477-3. Epub 2023 Nov 9.
+PY  - 2023
+SN  - 1097-6256 (Print)
+1097-6256
+SP  - 2090-2103
+ST  - Non-synaptic function of the autism spectrum disorder-associated gene SYNGAP1 in cortical neurogenesis
+T2  - Nat Neurosci
+TI  - Non-synaptic function of the autism spectrum disorder-associated gene SYNGAP1 in cortical neurogenesis
+VL  - 26
+ID  - 400
+ER  - 
+
+
+TY  - JOUR
+AB  - Genes involved in synaptic function are enriched among those with autism spectrum disorder (ASD)-associated rare genetic variants. Dysregulated cortical neurogenesis has been implicated as a convergent mechanism in ASD pathophysiology, yet it remains unknown how 'synaptic' ASD risk genes contribute to these phenotypes, which arise before synaptogenesis. Here, we show that the synaptic Ras GTPase-activating (RASGAP) protein 1 (SYNGAP1, a top ASD risk gene) is expressed within the apical domain of human radial glia cells (hRGCs). In a human cortical organoid model of SYNGAP1 haploinsufficiency, we find dysregulated cytoskeletal dynamics that impair the scaffolding and division plane of hRGCs, resulting in disrupted lamination and accelerated maturation of cortical projection neurons. Additionally, we confirmed an imbalance in the ratio of progenitors to neurons in a mouse model of Syngap1 haploinsufficiency. Thus, SYNGAP1-related brain disorders may arise through non-synaptic mechanisms, highlighting the need to study genes associated with neurodevelopmental disorders (NDDs) in diverse human cell types and developmental stages.
+AD  - [Birtele, Marcella; Del Dosso, Ashley; Xu, Tiantian; Nguyen, Tuan; Hosseini, Negar; Nguyen, Sarah; Urenda, Jean-Paul; Atamian, Alexander; Quadrato, Giorgia] Univ Southern Calif, Keck Sch Med, Dept Stem Cell Biol & Regenerat Med, Los Angeles, CA 90007 USA. [Birtele, Marcella; Del Dosso, Ashley; Xu, Tiantian; Nguyen, Tuan; Hosseini, Negar; Nguyen, Sarah; Urenda, Jean-Paul; Atamian, Alexander; Quadrato, Giorgia] Univ Southern Calif, Eli & Edythe Broad, Keck Sch Med, CIRM Ctr Regenerat Med & Stem Cell Res USC, Los Angeles, CA 90007 USA. [Xu, Tiantian] Cent South Univ, Xiangya Hosp, Changsha, Peoples R China. [Wilkinson, Brent; Flores, Ilse; Coba, Marcelo P.] Univ Southern Calif, Keck Sch Med, Dept Psychiat & Behav Sci, Los Angeles, CA USA. [Wilkinson, Brent; Flores, Ilse; Coba, Marcelo P.] Univ Southern Calif, Zilkha Neurogenet Inst, Keck Sch Med, Los Angeles, CA USA. [Knight, Gavin; Ashton, Randolph S.] Univ Wisconsin Madison, Dept Biomed Engn, Madison, WI USA. [Knight, Gavin; Ashton, Randolph S.] Univ Wisconsin Madison, Wisconsin Inst Discovery, Madison, WI USA. [Rojas, Camilo; Rumbaugh, Gavin] Univ Florida, Scripps Biomed Res Inst, Dept Neurosci, Jupiter, FL USA. [Rojas, Camilo; Rumbaugh, Gavin] Univ Florida, Scripps Biomed Res Inst, Dept Mol Med, Jupiter, FL USA. [Rojas, Camilo; Rumbaugh, Gavin] Scripps Res, Skaggs Grad Sch Chem & Biol Sci, Jupiter, FL USA. [Moore, Roger; Sharma, Ritin; Pirrotte, Patrick] City Hope Comprehens Canc Ctr, Integrated Mass Spectrometry Shared Resource, Duarte, CA USA. [Sharma, Ritin; Pirrotte, Patrick] Translat Genom Res Inst, Canc & Cell Biol Div, Phoenix, AZ USA. [Huang, Eric J.] Univ Calif San Francisco, Dept Pathol, San Francisco, CA USA. [Huang, Eric J.] Univ Calif San Francisco, Eli & Edythe Broad, Inst Stem Cell Res & Regenerat Med, San Francisco, CA USA. [Coba, Marcelo P.] Univ Southern Calif, Keck Sch Med, Dept Physiol & Neurosci, Los Angeles, CA USA. Central South University; University of Southern California; University of Southern California; University of Wisconsin System; University of Wisconsin Madison; University of Wisconsin System; University of Wisconsin Madison; State University System of Florida; University of Florida; State University System of Florida; University of Florida; State University System of Florida; University of Florida; Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology; City of Hope; Translational Genomics Research Institute; University of California System; University of California San Francisco; University of California System; University of California San Francisco; University of Southern California
+Quadrato, G (corresponding author), Univ Southern Calif, Keck Sch Med, Dept Stem Cell Biol & Regenerat Med, Los Angeles, CA 90007 USA.; Quadrato, G (corresponding author), Univ Southern Calif, Eli & Edythe Broad, Keck Sch Med, CIRM Ctr Regenerat Med & Stem Cell Res USC, Los Angeles, CA 90007 USA.
+quadrato@usc.edu
+AN  - 001103103600001
+AU  - Birtele, M.
+AU  - Del Dosso, A.
+AU  - Xu, T. T.
+AU  - Nguyen, T.
+AU  - Wilkinson, B.
+AU  - Hosseini, N.
+AU  - Nguyen, S.
+AU  - Urenda, J. P.
+AU  - Knight, G.
+AU  - Rojas, C.
+AU  - Flores, I.
+AU  - Atamian, A.
+AU  - Moore, R.
+AU  - Sharma, R.
+AU  - Pirrotte, P.
+AU  - Ashton, R. S.
+AU  - Huang, E. J.
+AU  - Rumbaugh, G.
+AU  - Coba, M. P.
+AU  - Quadrato, G.
+DA  - Dec
+DO  - 10.1038/s41593-023-01477-3
+IS  - 12
+J2  - Nat. Neurosci.
+KW  - outer subventricular zone
+gtpase-activating protein
+radial glia
+critical-period
+cell diversity
+double cortex
+maturation
+migration
+mutations
+network
+Neurosciences & Neurology
+LA  - English
+LB  - wos-001103103600001
+M3  - Article
+N1  - ISI Document Delivery No.: KJ3N7
+Times Cited: 7
+Cited Reference Count: 85
+Birtele, Marcella Del Dosso, Ashley Xu, Tiantian Nguyen, Tuan Wilkinson, Brent Hosseini, Negar Nguyen, Sarah Urenda, Jean-Paul Knight, Gavin Rojas, Camilo Flores, Ilse Atamian, Alexander Moore, Roger Sharma, Ritin Pirrotte, Patrick Ashton, Randolph S. Huang, Eric J. Rumbaugh, Gavin Coba, Marcelo P. Quadrato, Giorgia
+Quadrato, Giorgia/G-7808-2018
+Atamian, Alexander/0009-0004-5525-2018; Birtele, Marcella/0000-0003-2123-6453
+We thank the SynGAP Research Fund and families participating in this study for their collaboration. We thank the Pediatric Neuropathology Research Lab of the UCSF and honor the families who generously donated the tissue samples used in this study. We thank; Pediatric Neuropathology Research Lab of the UCSF; SynGAP Research Fund (SRF); Donald D. and Delia B. Baxter Foundation [5351784498]; National Science Foundation; Eli and Edythe Broad Foundation; NIH [MH115005]; National Institute of Mental Health [P30CA033572]; National Cancer Institute of the National Institutes of Health
+We thank the SynGAP Research Fund and families participating in this study for their collaboration. We thank the Pediatric Neuropathology Research Lab of the UCSF and honor the families who generously donated the tissue samples used in this study. We thank P. Arlotta and F. Francis, current and former members of the Quadrato laboratory for insightful discussions and feedback on this project. We thank C. Lytal for editing the manuscript. We thank S.W. Ruffins and the Optical Imaging Facility at the USC for providing guidance and support for imaging analyses. We thank C. Taitano-Johnson, T. Rintoul and A. Albanese for outstanding technical support. This work was supported by the SynGAP Research Fund (SRF), the Donald D. and Delia B. Baxter Foundation, the Edward Mallinckrodt Jr. Foundation and the National Science Foundation (5351784498) and the Eli and Edythe Broad Foundation (G.Q.). This work was supported in part by NIH grants from the National Institute of Mental Health to M.P.C. (MH115005). This reported research includes work performed in the mass spectrometry core supported by the National Cancer Institute of the National Institutes of Health under grant number P30CA033572. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript.
+8
+3
+13
+Nature portfolio
+Berlin
+1546-1726
+PY  - 2023
+SN  - 1097-6256
+SP  - 36
+ST  - Non-synaptic function of the autism spectrum disorder-associated gene <i>SYNGAP1</i> in cortical neurogenesis
+T2  - Nature Neuroscience
+TI  - Non-synaptic function of the autism spectrum disorder-associated gene <i>SYNGAP1</i> in cortical neurogenesis
+UR  - <Go to ISI>://WOS:001103103600001
+VL  - 26
+ID  - 403
+ER  - 

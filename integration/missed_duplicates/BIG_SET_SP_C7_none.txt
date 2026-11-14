@@ -1,0 +1,58 @@
+TY  - JOUR
+AU  - Ma, A. S.
+AU  - Ewing, I.
+AU  - Murray, C. D.
+AU  - Hamilton, M. I.
+C2  - PMC4434385
+DA  - May 4
+DO  - 10.1136/bcr-2014-206854
+DP  - PubMed
+ET  - 2015/05/06
+LA  - eng
+PY  - 2015
+SN  - 1757-790x
+ST  - Hepatic portal venous gas and portal venous thrombosis following colonoscopy in a patient with terminal ileal Crohn's disease
+T2  - BMJ Case Rep
+TI  - Hepatic portal venous gas and portal venous thrombosis following colonoscopy in a patient with terminal ileal Crohn's disease
+VL  - 2015
+ID  - 752
+ER  - 
+
+TY  - JOUR
+AU  - Ma, A. S. C.
+AU  - Ewing, I.
+AU  - Murray, C. D.
+AU  - Hamilton, M. I.
+DO  - http://dx.doi.org/10.1136/bcr-2014-206854
+DP  - Embase_ovid
+LA  - English
+PY  - 2015
+SN  - 1757-790X (electronic) 1757-790X
+SP  - 206854
+ST  - Hepatic portal venous gas and portal venous thrombosis following colonoscopy in a patient with terminal ileal Crohn's disease
+T2  - BMJ Case Reports
+TI  - Hepatic portal venous gas and portal venous thrombosis following colonoscopy in a patient with terminal ileal Crohn's disease
+VL  - 2015
+ID  - 14772
+ER  - 
+
+TY  - JOUR
+AU  - Ma, A. S. C.
+AU  - Ewing, I.
+AU  - Murray, C. D.
+AU  - Hamilton, M. I.
+C7  - 206854
+DO  - 10.1136/bcr-2014-206854
+DP  - Scopus
+J2  - BMJ Case Rep.
+LA  - English
+M3  - Article
+PY  - 2015
+SN  - 1757790X (ISSN)
+ST  - Hepatic portal venous gas and portal venous thrombosis following colonoscopy in a patient with terminal ileal Crohn's disease
+T2  - BMJ Case Reports
+TI  - Hepatic portal venous gas and portal venous thrombosis following colonoscopy in a patient with terminal ileal Crohn's disease
+VL  - 2015
+ID  - 25623
+ER  - 
+

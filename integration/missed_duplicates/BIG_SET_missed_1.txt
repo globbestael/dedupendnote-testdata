@@ -1,0 +1,74 @@
+TY  - JOUR
+AU  - Tang-Barton, P.
+AU  - Vas, W.
+AU  - Weissman, J.
+AU  - Salimi, Z.
+AU  - Morris, L.
+DP  - PubMed
+ET  - 1984/01/01
+IS  - 2
+LA  - eng
+PY  - 1984
+SN  - 0254-881X (Print) 0254-881x
+SP  - 73-76
+ST  - Portal vein thrombosis in hepatocellular carcinoma demonstrated by ultrasound
+T2  - Diagn Imaging Clin Med
+TI  - Portal vein thrombosis in hepatocellular carcinoma demonstrated by ultrasound
+VL  - 53
+ID  - 3780
+ER  - 
+
+TY  - JOUR
+AU  - Tang-Barton, P.
+AU  - Vas, W.
+AU  - Weissman, J.
+DP  - Embase_ovid
+IS  - 2
+LA  - English
+PY  - 1984
+SP  - 73-76
+ST  - Portal vein thrombosis in hepatocellular carcinoma demonstrated by ultrasound
+T2  - Diagnostic Imaging
+TI  - Portal vein thrombosis in hepatocellular carcinoma demonstrated by ultrasound
+VL  - 53
+ID  - 21578
+ER  - 
+
+TY  - JOUR
+AU  - Tang-Barton, P.
+AU  - Vas, W.
+AU  - Weissman, J.
+DP  - Scopus
+IS  - 2
+J2  - DIAGN. IMAGING
+LA  - English
+M3  - Article
+PY  - 1984
+SP  - 73-76
+ST  - Portal vein thrombosis in hepatocellular carcinoma demonstrated by ultrasound
+T2  - Diagnostic Imaging
+TI  - Portal vein thrombosis in hepatocellular carcinoma demonstrated by ultrasound
+VL  - 53
+ID  - 37156
+ER  - 
+
+TY  - JOUR
+AU  - Tangbarton, P.
+AU  - Vas, W.
+AU  - Weissman, J.
+AU  - Salimi, Z.
+AU  - Morris, L.
+DP  - WoS
+IS  - 2
+LA  - English
+M3  - Article
+PY  - 1984
+SN  - 0254-881X
+SP  - 73-76
+ST  - PORTAL-VEIN THROMBOSIS IN HEPATOCELLULAR-CARCINOMA DEMONSTRATED BY ULTRASOUND
+T2  - Diagnostic Imaging in Clinical Medicine
+TI  - PORTAL-VEIN THROMBOSIS IN HEPATOCELLULAR-CARCINOMA DEMONSTRATED BY ULTRASOUND
+VL  - 53
+ID  - 47400
+ER  - 
+

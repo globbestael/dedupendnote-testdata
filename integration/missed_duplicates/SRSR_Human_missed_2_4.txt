@@ -1,0 +1,194 @@
+TY  - JOUR
+AB  - BACKGROUND: Respiratory distress syndrome (RDS) is a significant cause of morbidity and mortality in preterm infants. RDS is caused by a deficiency, dysfunction, or inactivation of pulmonary surfactant. Numerous surfactants of either animal extract or synthetic design have been shown to improve outcomes. New surfactant preparations that include peptides or whole proteins that mimic endogenous surfactant protein have recently been developed and tested. OBJECTIVES: To assess the effect of administration of synthetic surfactant containing surfactant protein mimics compared to animal derived surfactant extract on the risk of mortality, chronic lung disease, and other morbidities associated with prematurity in preterm infants at risk for or having RDS. SEARCH STRATEGY: Standard search methods of the Cochrane Neonatal Review Group were used. The search included MEDLINE (1966 - May 2007) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library) in all languages. In addition, published abstracts of the Society of Pediatric Research were searched electronically. For abstract books that did not include key words, the search was limited to the relevant sections on pulmonary and neonatology. The bibliography cited in each publication was obtained and searched in order to identify additional relevant articles. SELECTION CRITERIA: Randomized and quasi-randomized controlled clinical trials were considered for this review. Studies that enrolled preterm infants or low birth weight infants at risk for or having RDS who were treated with either a synthetic surfactant containing surfactant protein mimics or an animal-derived surfactant preparation were included for this review. Studies that either attempted to treat or prevent respiratory distress syndrome were included. DATA COLLECTION AND ANALYSIS: Primary outcome measures, including mortality, chronic lung disease and multiple secondary outcome measures were abstracted by the reviewers. Statistical analysis was performed using Review Manager software. Categorical data was analyzed using relative risk, risk difference, and number needed to treat. 95% confidence intervals reported. A fixed effects model was used for the meta-analysis. Heterogeneity was assessed using the I-squared statistic. MAIN RESULTS: Two studies were identified that compared protein containing synthetic surfactants to animal derived surfactant preparations. In a meta-analysis of these two studies, infants who received protein containing synthetic surfactant compared to animal derived surfactant extract did not demonstrate significantly different risks of prespecified primary outcomes: mortality at 36 weeks [typical RR 0.81 (95% CI 0.64, 1.03)], chronic lung disease at 36 weeks [typical RR 0.99 (95% CI 0.84, 1.18)], or the combined outcome of mortality or chronic lung disease at 36 weeks [typical RR 0.96 (95% CI 0.82, 1.12)]. There were also no differences in any of the secondary outcomes regarding complications of prematurity between the two surfactant groups with the exception of necrotizing enterocolitis. A decrease in the risk of necrotizing enterocolitis was noted in infants who received protein containing synthetic surfactants compared to animal derived surfactant extract [typical RR 0.60 (95% CI 0.42, 0.86)]. However, this was a secondary outcome in both of the primary studies and there was moderate heterogeneity between the studies. AUTHORS' CONCLUSIONS: In two trials of protein containing synthetic surfactants compared to animal derived surfactant extract, no statistically different clinical differences in death and chronic lung disease were noted. In general, clinical outcomes between the two groups were similar. Further well designed studies of adequate size and power will help confirm and refine these findings.
+AD  - Fletcher Allen Health Care, Division of Neonatal Perinatal Medicine, Smith #582, 111 Colchester Avenue, Burlington, Vermont 05401, USA. robert.pfister@vtmednet.org
+AN  - 17943881
+AU  - Pfister, R. H.
+AU  - Soll, R. F.
+AU  - Wiswell, T.
+DA  - Oct 17
+DO  - 10.1002/14651858.CD006069.pub3
+DP  - NLM
+ET  - 2007/10/19
+IS  - 4
+J2  - The Cochrane database of systematic reviews
+KW  - 1,2-Dipalmitoylphosphatidylcholine/analogs & derivatives/therapeutic use
+Animals
+Biological Products/therapeutic use
+Drug Combinations
+Fatty Alcohols/therapeutic use
+Humans
+Infant, Low Birth Weight
+Infant, Newborn
+Infant, Premature
+Phosphatidylglycerols/therapeutic use
+Phospholipids/therapeutic use
+Proteins/therapeutic use
+Pulmonary Surfactant-Associated Proteins/chemistry/therapeutic use
+Pulmonary Surfactants/chemistry/*therapeutic use
+Randomized Controlled Trials as Topic
+Respiratory Distress Syndrome, Newborn/*drug therapy/prevention & control
+LA  - eng
+N1  - 1469-493x
+Pfister, R H
+Soll, R F
+Wiswell, T
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+England
+Cochrane Database Syst Rev. 2007 Oct 17;(4):CD006069. doi: 10.1002/14651858.CD006069.pub3.
+PY  - 2007
+SN  - 1361-6137
+SP  - Cd006069
+ST  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+T2  - Cochrane Database Syst Rev
+TI  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+ID  - 20282
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Respiratory distress syndrome (RDS) is a significant cause of morbidity and mortality in preterm infants. RDS is caused by a deficiency, dysfunction, or inactivation of pulmonary surfactant. Numerous surfactants of either animal extract or synthetic design have been shown to improve outcomes. New surfactant preparations that include peptides or whole proteins that mimic endogenous surfactant protein have recently been developed and tested. OBJECTIVES: To assess the effect of administration of synthetic surfactant containing surfactant protein mimics compared to animal derived surfactant extract on the risk of mortality, chronic lung disease, and other morbidities associated with prematurity in preterm infants at risk for or having RDS. SEARCH STRATEGY: Standard search methods of the Cochrane Neonatal Review Group were used. The search included MEDLINE (1966 - May 2007) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library) in all languages. In addition, published abstracts of the Society of Pediatric Research were searched electronically. For abstract books that did not include key words, the search was limited to the relevant sections on pulmonary and neonatology. The bibliography cited in each publication was obtained and searched in order to identify additional relevant articles. SELECTION CRITERIA: Randomized and quasi-randomized controlled clinical trials were considered for this review. Studies that enrolled preterm infants or low birth weight infants at risk for or having RDS who were treated with either a synthetic surfactant containing surfactant protein mimics or an animal-derived surfactant preparation were included for this review. Studies that either attempted to treat or prevent respiratory distress syndrome were included. DATA COLLECTION AND ANALYSIS: Primary outcome measures, including mortality, chronic lung disease and multiple secondary outcome measures were abstracted by the reviewers. Statistical analysis was performed using Review Manager software. Categorical data was analyzed using relative risk, risk difference, and number needed to treat. 95% confidence intervals reported. A fixed effects model was used for the meta-analysis. Heterogeneity was assessed using the I-squared statistic. MAIN RESULTS: Two studies were identified that compared protein containing synthetic surfactants to animal derived surfactant preparations. In a meta-analysis of these two studies, infants who received protein containing synthetic surfactant compared to animal derived surfactant extract did not demonstrate significantly different risks of prespecified primary outcomes: mortality at 36 weeks [typical RR 0.81 (95% CI 0.64, 1.03)], chronic lung disease at 36 weeks [typical RR 0.99 (95% CI 0.84, 1.18)], or the combined outcome of mortality or chronic lung disease at 36 weeks [typical RR 0.96 (95% CI 0.82, 1.12)]. There were also no differences in any of the secondary outcomes regarding complications of prematurity between the two surfactant groups with the exception of necrotizing enterocolitis. A decrease in the risk of necrotizing enterocolitis was noted in infants who received protein containing synthetic surfactants compared to animal derived surfactant extract [typical RR 0.60 (95% CI 0.42, 0.86)]. However, this was a secondary outcome in both of the primary studies and there was moderate heterogeneity between the studies. AUTHORS' CONCLUSIONS: In two trials of protein containing synthetic surfactants compared to animal derived surfactant extract, no statistically different clinical differences in death and chronic lung disease were noted. Further well designed studies of adequate size and power will be needed to confirm and refine these findings.
+AD  - Fletcher Allen Health Care, Division of Neonatal Perinatal Medicine, Smith #582, 111 Colchester Avenue, Burlington, VT 05401, USA. robert.pfister@vtmednet.org
+AN  - 17636826
+AU  - Pfister, R. H.
+AU  - Soll, R. F.
+AU  - Wiswell, T.
+CA  - REMOVED
+DA  - Jul 18
+DO  - 10.1002/14651858.CD006069.pub2
+DP  - NLM
+ET  - 2007/07/20
+IS  - 3
+J2  - The Cochrane database of systematic reviews
+KW  - 1,2-Dipalmitoylphosphatidylcholine/analogs & derivatives/therapeutic use
+Animals
+Biological Products/therapeutic use
+Drug Combinations
+Fatty Alcohols/therapeutic use
+Humans
+Infant, Low Birth Weight
+Infant, Newborn
+Infant, Premature
+Phosphatidylglycerols/therapeutic use
+Phospholipids/therapeutic use
+Proteins/therapeutic use
+Pulmonary Surfactant-Associated Proteins/chemistry/therapeutic use
+Pulmonary Surfactants/chemistry/*therapeutic use
+Respiratory Distress Syndrome, Newborn/*drug therapy/prevention & control
+LA  - eng
+N1  - 1469-493x
+Pfister, R H
+Soll, R F
+Wiswell, T
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+England
+Cochrane Database Syst Rev. 2007 Jul 18;(3):CD006069. doi: 10.1002/14651858.CD006069.pub2.
+PY  - 2007
+SN  - 1361-6137
+SP  - Cd006069
+ST  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+T2  - Cochrane Database Syst Rev
+TI  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+ID  - 20456
+ER  - 
+
+TY  - JOUR
+AB  - Background: Respiratory distress syndrome (RDS) is a significant cause of morbidity and mortality in preterm infants. RDS is caused by a deficiency, dysfunction, or inactivation of pulmonary surfactant. Numerous surfactants of either animal extract or synthetic design have been shown to improve outcomes. New surfactant preparations that include peptides or whole proteins that mimic endogenous surfactant protein have recently been developed and tested. Objective(s): To assess the effect of administration of synthetic surfactant containing surfactant protein mimics compared to animal derived surfactant extract on the risk of mortality, chronic lung disease, and other morbidities associated with prematurity in preterm infants at risk for or having RDS. Search strategy: Standard search methods of the Cochrane Neonatal Review Group were used. The search included MEDLINE (1966 - May 2007) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library) in all languages. In addition, published abstracts of the Society of Pediatric Research were searched electronically. For abstract books that did not include key words, the search was limited to the relevant sections on pulmonary and neonatology. The bibliography cited in each publication was obtained and searched in order to identify additional relevant articles. Selection Criteria: Randomized and quasi-randomized controlled clinical trials were considered for this review. Studies that enrolled preterm infants or low birth weight infants at risk for or having RDS who were treated with either a synthetic surfactant containing surfactant protein mimics or an animal-derived surfactant preparation were included for this review. Studies that either attempted to treat or prevent respiratory distress syndrome were included. Data Collection and Analysis: Primary outcome measures, including mortality, chronic lung disease and multiple secondary outcome measures were abstracted by the reviewers. Statistical analysis was performed using Review Manager software. Categorical data was analyzed using relative risk, risk difference, and number needed to treat. 95% confidence intervals reported. A fixed effects model was used for the meta-analysis. Heterogeneity was assessed using the I-squared statistic. Main Result(s): Two studies were identified that compared protein containing synthetic surfactants to animal derived surfactant preparations. In a meta-analysis of these two studies, infants who received protein containing synthetic surfactant compared to animal derived surfactant extract did not demonstrate significantly different risks of prespecified primary outcomes: mortality at 36 weeks [typical RR 0.81 (95% CI 0.64, 1.03)], chronic lung disease at 36 weeks [typical RR 0.99 (95% CI 0.84, 1.18)], or the combined outcome of mortality or chronic lung disease at 36 weeks [typical RR 0.96 (95% CI 0.82, 1.12)]. There were also no differences in any of the secondary outcomes regarding complications of prematurity between the two surfactant groups with the exception of necrotizing enterocolitis. A decrease in the risk of necrotizing enterocolitis was noted in infants who received protein containing synthetic surfactants compared to animal derived surfactant extract [typical RR 0.60 (95% CI 0.42, 0.86)]. However, this was a secondary outcome in both of the primary studies and there was moderate heterogeneity between the studies. Authors' conclusions: In two trials of protein containing synthetic surfactants compared to animal derived surfactant extract, no statistically different clinical differences in death and chronic lung disease were noted. In general, clinical outcomes between the two groups were similar. Further well designed studies of adequate size and power will help confirm and refine these findings. Copyright © 2008 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+AD  - (Pfister) Division of Neonatal Perinatal Medicine, Fletcher Allen Health Care, Smith #582, 111 Colchester Avenue, Burlington, VT 05401, United States
+R. H. Pfister, Division of Neonatal Perinatal Medicine, Fletcher Allen Health Care, Smith #582, 111 Colchester Avenue, Burlington, VT 05401, United States. E-mail: robert.pfister@vtmednet.org
+AN  - 351805340
+AU  - Pfister, R. H.
+AU  - Soll, R. F.
+AU  - Wiswell, T.
+CA  - REMOVED
+DB  - Embase
+DO  - http://dx.doi.org/10.1002/14651858.CD006069.pub3
+DP  - Ovid Technologies
+IS  - CD006069
+KW  - 1,2-Dipalmitoylphosphatidylcholine [analogs & derivatives
+therapeutic use]
+Biological products [therapeutic use]
+Drug combinations
+Fatty alcohols [therapeutic use]
+Infant, low birth weight
+Infant, newborn
+Infant, premature
+clinical trial
+drug effect
+follow up
+human
+lung hemorrhage
+mortality
+pneumothorax
+post hoc analysis
+respiratory distress syndrome/dt [Drug Therapy]
+respiratory distress syndrome/pc [Prevention]
+retinopathy
+review
+risk factor
+systematic review
+protein derivative/ct [Clinical Trial]
+protein derivative/dt [Drug Therapy]
+surfactant/ct [Clinical Trial]
+surfactant/dt [Drug Therapy]
+LA  - English
+M3  - Review
+PY  - 2007
+SN  - 1469-493X
+ST  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+T2  - Cochrane Database of Systematic Reviews
+TI  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+UR  - http://www.mrw.interscience.wiley.com/cochrane/clsysrev/articles/CD006069/pdf_fs.html
+http://www.ezproxy.is.ed.ac.uk/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed10&AN=351805340
+https://ed-primo.hosted.exlibrisgroup.com/openurl/44UOE/44UOE_VU2?sid=OVID:Embase&id=pmid:17636826&id=10.1002%2F14651858.CD006069.pub3&issn=1469-493X&isbn=&volume=&issue=4&spage=&pages=&date=2007&title=Cochrane+Database+of+Systematic+Reviews&atitle=Protein+containing+synthetic+surfactant+versus+animal+derived+surfactant+extract+for+the+prevention+and+treatment+of+respiratory+distress+syndrome&aulast=Pfister&pid=<author><p15/></author>&<AN><p16/></AN>
+VL  - (4) (no pagination)
+ID  - 36223
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Respiratory distress syndrome (RDS) is a significant cause of morbidity and mortality in preterm infants. RDS is caused by a deficiency, dysfunction, or inactivation of pulmonary surfactant. Numerous surfactants of either animal extract or synthetic design have been shown to improve outcomes. New surfactant preparations that include peptides or whole proteins that mimic endogenous surfactant protein have recently been developed and tested. OBJECTIVES: To assess the effect of administration of synthetic surfactant containing surfactant protein mimics compared to animal derived surfactant extract on the risk of mortality, chronic lung disease, and other morbidities associated with prematurity in preterm infants at risk for or having RDS. SEARCH STRATEGY: Standard search methods of the Cochrane Neonatal Review Group were used. The search included MEDLINE (1966 - May 2007) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library) in all languages. In addition, published abstracts of the Society of Pediatric Research were searched electronically. For abstract books that did not include key words, the search was limited to the relevant sections on pulmonary and neonatology. The bibliography cited in each publication was obtained and searched in order to identify additional relevant articles. SELECTION CRITERIA: Randomized and quasi-randomized controlled clinical trials were considered for this review. Studies that enrolled preterm infants or low birth weight infants at risk for or having RDS who were treated with either a synthetic surfactant containing surfactant protein mimics or an animal-derived surfactant preparation were included for this review. Studies that either attempted to treat or prevent respiratory distress syndrome were included. DATA COLLECTION AND ANALYSIS: Primary outcome measures, including mortality, chronic lung disease and multiple secondary outcome measures were abstracted by the reviewers. Statistical analysis was performed using Review Manager software. Categorical data was analyzed using relative risk, risk difference, and number needed to treat. 95% confidence intervals reported. A fixed effects model was used for the meta-analysis. Heterogeneity was assessed using the I-squared statistic. MAIN RESULTS: Two studies were identified that compared protein containing synthetic surfactants to animal derived surfactant preparations. In a meta-analysis of these two studies, infants who received protein containing synthetic surfactant compared to animal derived surfactant extract did not demonstrate significantly different risks of prespecified primary outcomes: mortality at 36 weeks [typical RR 0.81 (95% CI 0.64, 1.03)], chronic lung disease at 36 weeks [typical RR 0.99 (95% CI 0.84, 1.18)], or the combined outcome of mortality or chronic lung disease at 36 weeks [typical RR 0.96 (95% CI 0.82, 1.12)]. There were also no differences in any of the secondary outcomes regarding complications of prematurity between the two surfactant groups with the exception of necrotizing enterocolitis. A decrease in the risk of necrotizing enterocolitis was noted in infants who received protein containing synthetic surfactants compared to animal derived surfactant extract [typical RR 0.60 (95% CI 0.42, 0.86)]. However, this was a secondary outcome in both of the primary studies and there was moderate heterogeneity between the studies. AUTHORS' CONCLUSION(S): In two trials of protein containing synthetic surfactants compared to animal derived surfactant extract, no statistically different clinical differences in death and chronic lung disease were noted. In general, clinical outcomes between the two groups were similar. Further well designed studies of adequate size and power will help confirm and refine these findings.
+AD  - (Pfister, Soll, Wiswell) Fletcher Allen Health Care, Division of Neonatal Perinatal Medicine, Smith #582, 111 Colchester Avenue, Burlington, Vermont 05401, USA. robert.pfister@vtmednet.org
+AN  - 612761571
+AU  - Pfister, R. H.
+AU  - Soll, R. F.
+AU  - Wiswell, T.
+CA  - REMOVED
+DB  - Embase
+DP  - Ovid Technologies
+IS  - 4
+KW  - animal
+chemistry
+drug combination
+human
+low birth weight
+meta analysis
+newborn
+prematurity
+randomized controlled trial (topic)
+biological product/dt [Drug Therapy]
+dipalmitoylphosphatidylcholine/dt [Drug Therapy]
+fatty alcohol/dt [Drug Therapy]
+lung surfactant/dt [Drug Therapy]
+phosphatidylglycerol/dt [Drug Therapy]
+phospholipid/dt [Drug Therapy]
+protein/dt [Drug Therapy]
+surfactant associated protein/dt [Drug Therapy]
+analogs and derivatives
+Respiratory Distress Syndrome, Newborn/dt [Drug Therapy]
+Respiratory Distress Syndrome, Newborn/pc [Prevention]
+LA  - English
+PY  - 2007
+SN  - 1469-493X (electronic)
+1469-493X
+SP  - CD006069
+ST  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+T2  - The Cochrane database of systematic reviews
+TI  - Protein containing synthetic surfactant versus animal derived surfactant extract for the prevention and treatment of respiratory distress syndrome
+UR  - http://www.ezproxy.is.ed.ac.uk/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed10&AN=612761571
+https://ed-primo.hosted.exlibrisgroup.com/openurl/44UOE/44UOE_VU2?sid=OVID:Embase&id=pmid:17943881&id=&issn=1469-493X&isbn=&volume=&issue=4&spage=CD006069&pages=CD006069&date=2007&title=The+Cochrane+database+of+systematic+reviews&atitle=Protein+containing+synthetic+surfactant+versus+animal+derived+surfactant+extract+for+the+prevention+and+treatment+of+respiratory+distress+syndrome&aulast=Pfister&pid=<author><p15/></author>&<AN><p16/></AN>
+ID  - 36439
+ER  - 

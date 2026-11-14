@@ -1,0 +1,12 @@
+# Not part of the test data: stay local only.
+# Anchored with a leading slash so that e.g. integration/other/ is NOT ignored.
+/validation/
+/other/
+
+# Output files written by the tests next to their input files.
+# DedupEndNote always writes derived files with the .txt extension.
+# unit/ and integration/ only produce these two suffixes (validation/ is ignored anyway).
+# NOTE: if a test ever needs an INPUT file with one of these suffixes (the @Disabled test
+# DeduplicationServiceTests.files_without_IDs does), add a "!" exception for it below.
+*_deduplicated.txt
+*_mark.txt

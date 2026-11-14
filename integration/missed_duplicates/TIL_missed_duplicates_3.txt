@@ -1,0 +1,213 @@
+﻿TY  - JOUR
+AB  - Bone is the most common organ for tumor metastasis, especially in patients with cancers of the breast or prostate. Bone metastases disrupt skeletal metabolism and result in considerable skeletal morbidity, including intractable, chronic bone pain, hypercalcemia of malignancy, pathologic fracture and spinal-cord compression. In addition to the chronic pain caused by bone metastases, skeletal-related events (SREs) such as pathologic fractures and spinal-cord compression can result in acute increases in pain. These effects can severely impair mobility and contribute to a general decrease in quality of life. Palliative options to treat bone metastases include radiotherapy, analgesics, surgery and bisphosphonates. These drugs bind to the surface of the bone and impair osteoclast-mediated bone resorption, and reduce the tumor-associated osteolysis that is initiated by the development of skeletal metastases. In addition to preventing SREs, bisphosphonates can palliate bone pain caused by a variety of solid tumors. This Review summarizes the clinical trial data of bisphosphonates for the prevention of SREs and the palliation of bone pain. Among these agents, nitrogen-containing bisphosphonates are recognized as the most effective, and zoledronic acid has demonstrated the broadest clinical utility.
+AD  - Serviço de Oncologia, Hospital de Santa Maria, Instituto de Medicina Molecular, Lisboa, Lisbon, Portugal. luiscosta.oncology@gmail.com
+AN  - 19190592
+AU  - Costa, L.
+AU  - Major, P. P.
+DA  - Mar
+DO  - 10.1038/ncponc1323
+DP  - NLM
+ET  - 20090203
+IS  - 3
+KW  - Bone Density Conservation Agents/pharmacology/*therapeutic use
+Bone Neoplasms/*drug therapy/secondary
+Diphosphonates/pharmacology/*therapeutic use
+Humans
+Imidazoles/pharmacology/*therapeutic use
+Pain/*drug therapy
+Palliative Care/methods
+Quality of Life
+Treatment Outcome
+Zoledronic Acid
+LA  - eng
+N1  - 1743-4262
+Costa, Luis
+Major, Pierre P
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+England
+2009/02/05
+Nat Clin Pract Oncol. 2009 Mar;6(3):163-74. doi: 10.1038/ncponc1323. Epub 2009 Feb 3.
+PY  - 2009
+SN  - 1743-4254
+SP  - 163-74
+ST  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+T2  - Nat Clin Pract Oncol
+TI  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+VL  - 6
+ID  - 2663
+ER  - 
+
+TY  - JOUR
+AB  - Bone is the most common organ for tumor metastasis, especially in patients with cancers of the breast or prostate. Bone metastases disrupt skeletal metabolism and result in considerable skeletal morbidity, including intractable, chronic bone pain, hypercalcemia of malignancy, pathologic fracture and spinal-cord compression. In addition to the chronic pain caused by bone metastases, skeletal-related events (SREs) such as pathologic fractures and spinal-cord compression can result in acute increases in pain. These effects can severely impair mobility and contribute to a general decrease in quality of life. Palliative options to treat bone metastases include radiotherapy, analgesics, surgery and bisphosphonates. These drugs bind to the surface of the bone and impair osteoclast-mediated bone resorption, and reduce the tumor-associated osteolysis that is initiated by the development of skeletal metastases. In addition to preventing SREs, bisphosphonates can palliate bone pain caused by a variety of solid tumors. This Review summarizes the clinical trial data of bisphosphonates for the prevention of SREs and the palliation of bone pain. Among these agents, nitrogen-containing bisphosphonates are recognized as the most effective, and zoledronic acid has demonstrated the broadest clinical utility.
+AD  - L. Costa, Department of Medicine, Hospital de Santa Maria, Instituto de Medicina Molecular, Lisboa, Lisbon, Portugal
+AU  - Costa, L.
+AU  - Major, P. P.
+DB  - Embase
+Medline
+DO  - 10.1038/ncponc1323
+DP  - EMBASE
+IS  - 3
+KW  - analgesic agent
+antineoplastic agent
+bisphosphonic acid derivative
+clodronic acid
+docetaxel
+ibandronic acid
+opiate
+pamidronic acid
+placebo
+radioisotope
+zoledronic acid
+antiangiogenic activity
+apoptosis
+bone marrow suppression
+bone metastasis
+bone pain
+Brief Pain Inventory
+cancer combination chemotherapy
+cancer palliative therapy
+cancer radiotherapy
+clinical trial
+coma
+constipation
+drug dose comparison
+drug dose regimen
+drug efficacy
+drug mechanism
+external beam radiotherapy
+human
+loading drug dose
+nonhuman
+osteoclast
+osteolysis
+priority journal
+prostate cancer
+quality of life
+questionnaire
+respiration depression
+review
+sedation
+side effect
+wellbeing
+LA  - English
+M3  - Review
+N1  - L50412622
+2009-03-27
+PY  - 2009
+SN  - 1743-4254
+1743-4262
+SP  - 163-174
+ST  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+T2  - Nature Clinical Practice Oncology
+TI  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L50412622&from=export
+http://dx.doi.org/10.1038/ncponc1323
+VL  - 6
+ID  - 11202
+ER  - 
+
+TY  - JOUR
+AB  - Bone is the most common organ for tumor metastasis, especially in patients with cancers of the breast or prostate. Bone metastases disrupt skeletal metabolism and result in considerable skeletal morbidity, including intractable, chronic bone pain, hypercalcemia of malignancy, pathologic fracture and spinal-cord compression. In addition to the chronic pain caused by bone metastases, skeletal-related events (SREs) such as pathologic fractures and spinal-cord compression can result in acute increases in pain. These effects can severely impair mobility and contribute to a general decrease in quality of life. Palliative options to treat bone metastases include radiotherapy, analgesics, surgery and bisphosphonates. These drugs bind to the surface of the bone and impair osteoclast-mediated bone resorption, and reduce the tumor-associated osteolysis that is initiated by the development of skeletal metastases. In addition to preventing SREs, bisphosphonates can palliate bone pain caused by a variety of solid tumors. This Review summarizes the clinical trial data of bisphosphonates for the prevention of SREs and the palliation of bone pain. Among these agents, nitrogen-containing bisphosphonates are recognized as the most effective, and zoledronic acid has demonstrated the broadest clinical utility. © 2009 Macmillan Publishers Limited. All rights reserved.
+AD  - L. Costa, Serviço de Oncologia, Hospital de Santa Maria, Instituto de Medicina Molecular, Lisboa, AV Professor Egas Moniz, Lisbon 1649-039, Portugal
+AU  - Costa, L.
+AU  - Major, P. P.
+DB  - Embase
+DO  - 10.1038/ncponc1323
+DP  - EMBASE
+IS  - 3
+KW  - bisphosphonic acid derivative
+clodronic acid
+docetaxel
+etidronic acid
+ibandronic acid
+narcotic analgesic agent
+nonsteroid antiinflammatory agent
+pamidronic acid
+paracetamol
+placebo
+zoledronic acid
+bone metastasis
+bone pain
+breast cancer
+cancer palliative therapy
+clinical trial
+constipation
+drug dose comparison
+drug dose titration
+drug efficacy
+external beam radiotherapy
+functional status
+human
+hypercalcemia
+loading drug dose
+multiple myeloma
+nonhuman
+pathologic fracture
+priority journal
+prostate cancer
+quality of life
+respiration depression
+review
+spinal cord compression
+LA  - English
+M3  - Review
+N1  - L358087788
+2010-02-22
+PY  - 2009
+SN  - 1759-4782
+1759-4774
+SP  - 163-174
+ST  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+T2  - Nature Reviews Clinical Oncology
+TI  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L358087788&from=export
+http://dx.doi.org/10.1038/ncponc1323
+VL  - 6
+ID  - 11247
+ER  - 
+
+TY  - JOUR
+AB  - Bone is the most common organ for tumor metastasis, especially in patients with cancers of the breast or prostate. Bone metastases disrupt skeletal metabolism and result in considerable skeletal morbidity, including intractable, chronic bone pain, hypercalcemia of malignancy, pathologic fracture and spinal-cord compression. In addition to the chronic pain caused by bone metastases, skeletal-related events (SREs) such as pathologic fractures and spinal-cord compression can result in acute increases in pain. These effects can severely impair mobility and contribute to a general decrease in quality of life. Palliative options to treat bone metastases include radiotherapy, analgesics, surgery and bisphosphonates. These drugs bind to the surface of the bone and impair osteoclast-mediated bone resorption, and reduce the tumor-associated osteolysis that is initiated by the development of skeletal metastases. In addition to preventing SREs, bisphosphonates can palliate bone pain caused by a variety of solid tumors. This Review summarizes the clinical trial data of bisphosphonates for the prevention of SREs and the palliation of bone pain. Among these agents, nitrogen-containing bisphosphonates are recognized as the most effective, and zoledronic acid has demonstrated the broadest clinical utility.
+AD  - [Costa, Luis] Hosp Santa Maria, Inst Mol Med, Serv Oncol, P-1649039 Lisbon, Portugal; [Major, Pierre P.] McMaster Univ, Hamilton, ON, Canada; [Major, Pierre P.] Juravinski Canc Ctr, Hamilton, ON, Canada
+Hosp Santa Maria, Inst Mol Med, Serv Oncol, P-1649039 Lisbon, Portugal
+luiscosta.oncology@gmail.com
+AN  - WOS:000263723100010
+AU  - Costa, L.
+AU  - Major, P. P.
+DA  - Mar
+DO  - 10.1038/ncponc1323
+DP  - Web of Science
+IS  - 3
+J2  - Nat. Clin. Pract. Oncol.
+KW  - bisphosphonates
+bone metastases
+bone pain
+quality of life
+zoledronic acid
+BREAST-CANCER PATIENTS
+SKELETAL-RELATED EVENTS
+REFRACTORY PROSTATE-CANCER
+LONG-TERM EFFICACY
+EXTERNAL-BEAM RADIOTHERAPY
+ZOLEDRONIC ACID
+DOUBLE-BLIND
+PHASE-III
+ORAL IBANDRONATE
+IN-VITRO
+LA  - English
+M3  - Review
+N1  - Novartis Pharmaceuticals Corporation
+152
+19190592
+PY  - 2009
+SN  - 1743-4254
+SP  - 163-174
+ST  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+T2  - Nature Clinical Practice Oncology
+TI  - Effect of bisphosphonates on pain and quality of life in patients with bone metastases
+VL  - 6
+ID  - 16022
+ER  - 
+

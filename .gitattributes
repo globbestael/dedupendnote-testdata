@@ -1,0 +1,3 @@
+# Fixtures must be byte-identical on every machine (Windows, Linux CI):
+# never convert line endings or treat files as text.
+* -text

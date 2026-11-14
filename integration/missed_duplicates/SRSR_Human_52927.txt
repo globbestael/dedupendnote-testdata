@@ -1,0 +1,66 @@
+TY  - JOUR
+AB  - On the basis of their promising experimental evidence, calcium channel blockers are today largely used in clinical practice for treatment of patients with cerebrovascular disorders. We propose a meta-analytical evaluation of published clinical trials on nimodipine, a dihydropiridin calcium antagonist, in subarachnoid hemorrhage and in ischemic stroke. In seven trials of subarachnoid hemorrhage, 112 deaths occurred among 682 patients randomized to active treatment compared with 154 deaths among 689 control patients (odds ratio of 0.68, 95% confidence interval of 0.52 to 0.90). Poor outcome due to delayed cerebral ischemia following subarachnoid hemorrhage was also lower in the group allocated to receive nimodipine (odds ratio of 0.47, 95% confidence interval of 0.36 to 0.62). In 12 trials of ischemic stroke, 382 deaths occurred among 2056 patients allocated to receive nimodipine compared to 288 deaths among 1462 control patients (odds ratio of 0.98, 95% confidence interval of 0.82 to 1.18). Pooled results strongly suggest a protective effect of nimodipine in delayed cerebral ischemia following subarachnoid hemorrhage and no effect in ischemic stroke, but the direction and the significance of these results are due to the contribution of a single large trial on subarachnoid hemorrhage and of two trials on ischemic stroke, which account respectively for 40% and 65% of randomized patients. The dissociated effect of nimodipine on these similar conditions could be related to its preventive role in ischemic damage, resembling animal models of ischemic stroke where a beneficial effect of calcium antagonists was clearly shown only when treatment was started before experimental cerebral artery occlusion. In this view, the negative results obtained from the clinical setting of ischemic stroke seem to indicate nimodipine as an aspecific neuroprotective agent without a curative effect.
+AD  - Laboratory of Clinical Pharmacology and Epidemiology, Istituto di Ricerche Farmacologiche Mario Negri, Chieti, Italy.
+AN  - 10150186
+AU  - Di Mascio, R.
+AU  - Marchioli, R.
+AU  - Tognoni, G.
+DA  - Apr
+DP  - NLM
+ET  - 1994/03/09
+IS  - 1
+J2  - Clinical trials and meta-analysis
+KW  - Animals
+Brain Ischemia/drug therapy/prevention & control
+Cause of Death
+Cerebrovascular Disorders/*drug therapy
+Controlled Clinical Trials as Topic
+Disease Models, Animal
+Double-Blind Method
+Follow-Up Studies
+Humans
+Neuroprotective Agents/therapeutic use
+Nimodipine/pharmacology/*therapeutic use
+Randomized Controlled Trials as Topic
+Research Design
+Subarachnoid Hemorrhage/drug therapy
+Survival Rate
+Treatment Outcome
+LA  - eng
+N1  - Di Mascio, R
+Marchioli, R
+Tognoni, G
+Comparative Study
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Netherlands
+Clin Trials Metaanal. 1994 Apr;29(1):57-79.
+PY  - 1994
+SN  - 0927-5401 (Print)
+0927-5401
+SP  - 57-79
+ST  - From pharmacological promises to controlled clinical trials to meta-analysis and back: the case of nimodipine in cerebrovascular disorders
+T2  - Clin Trials Metaanal
+TI  - From pharmacological promises to controlled clinical trials to meta-analysis and back: the case of nimodipine in cerebrovascular disorders
+VL  - 29
+ID  - 24548
+ER  - 
+
+TY  - JOUR
+AN  - WOS:A1994NL08600008
+AU  - DIMASCIO, R
+AU  - MARCHIOLI, R
+AU  - TOGNONI, G
+C1  - 15
+CA  - REMOVED
+DA  - Apr-94
+IS  - 1
+PY  - 1994
+SP  - 57-79
+ST  - FROM PHARMACOLOGICAL PROMISES TO CONTROLLED CLINICAL-TRIALS TO METAANALYSIS AND BACK - THE CASE OF NIMODIPINE IN CEREBROVASCULAR DISORDERS
+T2  - CLINICAL TRIALS AND META-ANALYSIS
+TI  - FROM PHARMACOLOGICAL PROMISES TO CONTROLLED CLINICAL-TRIALS TO METAANALYSIS AND BACK - THE CASE OF NIMODIPINE IN CEREBROVASCULAR DISORDERS
+VL  - 29
+ID  - 52927
+ER  - 

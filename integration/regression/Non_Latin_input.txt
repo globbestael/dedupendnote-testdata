@@ -1,0 +1,61 @@
+TY  - JOUR
+AD  - گروه پزشكي، دانشگاه آزاد اسلامي، واحد تبریز، تبریز، ایران
+مرکز تحقیقات پیشگیری از آسیه حوادث چادهای، گروه جراحی مغز و اعصاب، دانشکده پزشكي، دانشگاه علوم پزشكي تبریز، تبریز، ایران
+گروه فیزیولوژی، دانشکده پزشكي، دانشگاه آزاد اسلامی، واحد تبریز، تبریز، ایران
+AN  - 113576011. Language: Persian. Entry Date: 20160407. Revision Date: 20160407. Publication Type: Article. Journal Subset: Biomedical
+AU  - قره باغی, محمدامين محمدزاده
+AU  - مشكينی, علي
+AU  - طباطبائی, سید محمود
+DB  - rzh
+DP  - EBSCOhost
+KW  - Chemoprevention
+Preventive Health Care -- Methods
+Mechanics -- Methods
+Spinal Cord Injuries -- Complications
+Venous Thrombosis -- Prevention and Control
+Heparin, Low-Molecular-Weight -- Administration and Dosage
+Heparin -- Administration and Dosage
+Human
+Comparative Studies
+Double-Blind Studies
+Clinical Trials
+Treatment Outcomes -- Evaluation
+M1  - 5
+N1  - Middle East.
+PY  - 2015
+SN  - 1608-5671
+SP  - 38-43
+ST  - مقايسه اثرات استفاده از جوراب فشارنده به تنهايي يا همراه با دوز كم هپارين يا انوكساپارين در جلوگيري از ترومبوز وريد هاي عمقي در بيماران تروماي نخاعي
+T2  - Medical Journal of Tabriz University of Medical Sciences & Health Services
+TI  - مقايسه اثرات استفاده از جوراب فشارنده به تنهايي يا همراه با دوز كم هپارين يا انوكساپارين در جلوگيري از ترومبوز وريد هاي عمقي در بيماران تروماي نخاعي
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=113576011&site=ehost-live&scope=site
+VL  - 37
+ID  - 48118
+ER  - 
+
+
+TY  - JOUR
+AD  - 長庚醫療財團法人林口長庚紀念醫院復健科護理師
+長庚醫療財團法人林口長庚紀念醫院復健科護理長
+AN  - 116948086. Language: Chinese. Entry Date: 20160729. Revision Date: 20160729. Publication Type: Article. Journal Subset: Asia
+AU  - 劉儷玲
+AU  - 何淑翠
+DB  - rzh
+DP  - EBSCOhost
+KW  - Spinal Cord Injuries
+Work Experiences
+Venous Thrombosis
+Human
+Nursing Role
+M1  - 3
+N1  - Blind Peer Reviewed; Double Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Nursing; Peer Reviewed. NLM UID: 101216490.
+PY  - 2016
+SN  - 1683-1624
+SP  - 92-101
+ST  - 一位脊髓損傷合併 深部靜脈栓塞患者之護理經驗
+T2  - Tzu Chi Nursing Journal
+TI  - 一位脊髓損傷合併 深部靜脈栓塞患者之護理經驗
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=116948086&site=ehost-live&scope=site
+VL  - 15
+ID  - 48048
+ER  - 

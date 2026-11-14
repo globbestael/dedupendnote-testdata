@@ -1,0 +1,225 @@
+﻿TY  - JOUR
+AB  - Circulating microRNAs are deregulated in liver fibrosis and hepatocellular carcinoma (HCC) and are candidate biomarkers. This study investigated the potential of serum microRNAs; miR-19a, miR-296, miR-130a, miR-195, miR-192, miR-34a, and miR-146a as early diagnostic biomarkers for hepatitis C virus (HCV)-related HCC. As how these microRNAs change during liver fibrosis progression is not clear, we explored their serum levels during fibrosis progression in HCV-associated chronic liver disease (CLD) and if they could serve as non-invasive biomarkers for fibrosis progression to HCC. 112 Egyptian HCV-HCC patients, 125 non-malignant HCV-CLD patients, and 42 healthy controls were included. CLD patients were subdivided according to Metavir fibrosis-scoring. Serum microRNAs were measured by qRT-PCR custom array. Serum microRNAs were deregulated in HCC versus controls, and except miR-130a, they were differentially expressed between HCC and CLD or late fibrosis (F3-F4) subgroup. Serum microRNAs were not significantly different between individual fibrosis-stages or between F1-F2 (early/moderate fibrosis) and F3-F4. Only miR-19a was significantly downregulated from liver fibrosis (F1-F3) to cirrhosis (F4) to HCC. Individual microRNAs discriminated HCC from controls, and except miR-130a, they distinguished HCC from CLD or F3-F4 patients by receiver-operating-characteristic analysis. Multivariate logistic analysis revealed a panel of four microRNAs (miR-19a, miR-195, miR-192, and miR-146a) with high diagnostic accuracy for HCC (AUC = 0.946). The microRNA panel also discriminated HCC from controls (AUC = 0.949), CLD (AUC = 0.945), and F3-F4 (AUC = 0.955). Studied micro-RNAs were positively correlated in HCC group. miR-19a and miR-34a were correlated with portal vein thrombosis and HCC staging scores, respectively. In conclusion, studied micro-RNAs, but not miR-130a, could serve as potential early biomarkers for HCC in high-risk groups, with miR-19a as a biomarker for liver fibrosis progression to cirrhosis to HCC. We identified a panel of four serum microRNAs with high accuracy in HCC diagnosis. Additional studies are required to confirm this panel and test its prognostic significance.
+AD  - (Motawi, El-Maraghy, Senousy) Biochemistry Department, Faculty of Pharmacy, Cairo University, Cairo, Egypt (Shaker) Medical Biochemistry and Molecular Biology Department, Faculty of Medicine, Cairo University, Cairo, Egypt
+AN  - 2015466657
+AU  - Motawi, T. K.
+AU  - Shaker, O. G.
+AU  - El-Maraghy, S. A.
+AU  - Senousy, M. A.
+DA  - 09 Sep
+DB  - Embase
+DO  - http://dx.doi.org/10.1371/journal.pone.0137706
+DP  - Ovid Technologies
+KW  - adult
+article
+blood level
+cancer diagnosis
+cancer staging
+chronic liver disease
+controlled study
+diagnostic accuracy
+diagnostic test accuracy study
+disease course
+disease severity
+down regulation
+early diagnosis
+Egyptian
+female
+gene expression
+Hepatitis C virus
+hepatitis C virus related hepatocellular carcinoma
+human
+liver cell carcinoma
+liver fibrosis
+major clinical study
+male
+portal vein thrombosis
+reverse transcription polymerase chain reaction
+microRNA/ec [Endogenous Compound]
+microRNA 130a/ec [Endogenous Compound]
+microRNA 146a/ec [Endogenous Compound]
+microRNA 192/ec [Endogenous Compound]
+microRNA 195/ec [Endogenous Compound]
+microRNA 19a/ec [Endogenous Compound]
+microRNA 296/ec [Endogenous Compound]
+microRNA 34a/ec [Endogenous Compound]
+tumor marker/ec [Endogenous Compound]
+unclassified drug
+LA  - English
+M1  - e0137706
+PY  - 2015
+SN  - 1932-6203
+ST  - Serum MicroRNAs as potential biomarkers for early diagnosis of hepatitis C virus-related hepatocellular carcinoma in egyptian patients
+T2  - PLoS ONE
+TI  - Serum MicroRNAs as potential biomarkers for early diagnosis of hepatitis C virus-related hepatocellular carcinoma in egyptian patients
+UR  - http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0137706&representation=PDF
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed13&AN=2015466657
+http://digitaal.uba.uva.nl:9003/uva-linker?sid=OVID:embase&id=pmid:&id=doi:10.1371%2Fjournal.pone.0137706&issn=1932-6203&isbn=&volume=10&issue=9&spage=no+pagination&pages=no+pagination&date=2015&title=PLoS+ONE&atitle=Serum+MicroRNAs+as+potential+biomarkers+for+early+diagnosis+of+hepatitis+C+virus-related+hepatocellular+carcinoma+in+egyptian+patients&aulast=Motawi&pid=%3Cauthor%3EMotawi+T.K.%3BShaker+O.G.%3BEl-Maraghy+S.A.%3BSenousy+M.A.%3C%2Fauthor%3E%3CAN%3E2015466657%3C%2FAN%3E%3CDT%3EJournal%3A+Article%3C%2FDT%3E<672. >
+VL  - 10 (9) (no pagination)
+ID  - 11093
+ER  - 
+
+
+TY  - JOUR
+AB  - Circulating microRNAs are deregulated in liver fibrosis and hepatocellular carcinoma (HCC) and are candidate biomarkers. This study investigated the potential of serum microRNAs; miR-19a, miR-296, miR-130a, miR-195, miR-192, miR-34a, and miR-146a as early diagnostic biomarkers for hepatitis C virus (HCV)-related HCC. As how these microRNAs change during liver fibrosis progression is not clear, we explored their serum levels during fibrosis progression in HCV-associated chronic liver disease (CLD) and if they could serve as non-invasive biomarkers for fibrosis progression to HCC. 112 Egyptian HCV-HCC patients, 125 non-malignant HCV-CLD patients, and 42 healthy controls were included. CLD patients were subdivided according to Metavir fibrosis-scoring. Serum microRNAs were measured by qRT-PCR custom array. Serum microRNAs were deregulated in HCC versus controls, and except miR-130a, they were differentially expressed between HCC and CLD or late fibrosis (F3-F4) subgroup. Serum microRNAs were not significantly different between individual fibrosis-stages or between F1-F2 (early/moderate fibrosis) and F3-F4. Only miR-19a was significantly downregulated from liver fibrosis (F1-F3) to cirrhosis (F4) to HCC. Individual microRNAs discriminated HCC from controls, and except miR-130a, they distinguished HCC from CLD or F3-F4 patients by receiver-operating-characteristic analysis. Multivariate logistic analysis revealed a panel of four microRNAs (miR-19a, miR-195, miR-192, and miR-146a) with high diagnostic accuracy for HCC (AUC = 0.946). The microRNA panel also discriminated HCC from controls (AUC = 0.949), CLD (AUC = 0.945), and F3-F4 (AUC = 0.955). Studied microRNAs were positively correlated in HCC group. miR-19a and miR-34a were correlated with portal vein thrombosis and HCC staging scores, respectively. In conclusion, studied microRNAs, but not miR-130a, could serve as potential early biomarkers for HCC in high-risk groups, with miR-19a as a biomarker for liver fibrosis progression to cirrhosis to HCC. We identified a panel of four serum microRNAs with high accuracy in HCC diagnosis. Additional studies are required to confirm this panel and test its prognostic significance.
+AD  - Biochemistry Department, Faculty of Pharmacy, Cairo University, Cairo, Egypt.
+Medical Biochemistry and Molecular Biology Department, Faculty of Medicine, Cairo University, Cairo, Egypt.
+AN  - 26352740
+AU  - Motawi, T. K.
+AU  - Shaker, O. G.
+AU  - El-Maraghy, S. A.
+AU  - Senousy, M. A.
+C2  - Pmc4564244
+DO  - 10.1371/journal.pone.0137706
+DP  - Nlm
+ET  - 2015/09/10
+J2  - PloS one
+KW  - Biomarkers, Tumor/blood
+Carcinoma, Hepatocellular/*blood/pathology/virology
+Early Detection of Cancer
+Female
+Hepacivirus/pathogenicity
+Humans
+Liver Cirrhosis/blood/pathology
+Liver Neoplasms/*blood/pathology/virology
+Male
+MicroRNAs/*blood
+Middle Aged
+Prognosis
+LA  - eng
+M1  - 9
+N1  - 1932-6203
+Motawi, Tarek K
+Shaker, Olfat G
+El-Maraghy, Shohda A
+Senousy, Mahmoud A
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+PLoS One. 2015 Sep 9;10(9):e0137706. doi: 10.1371/journal.pone.0137706. eCollection 2015.
+PY  - 2015
+SN  - 1932-6203
+SP  - e0137706
+ST  - Serum MicroRNAs as Potential Biomarkers for Early Diagnosis of Hepatitis C Virus-Related Hepatocellular Carcinoma in Egyptian Patients
+T2  - PLoS One
+TI  - Serum MicroRNAs as Potential Biomarkers for Early Diagnosis of Hepatitis C Virus-Related Hepatocellular Carcinoma in Egyptian Patients
+VL  - 10
+ID  - 27024
+ER  - 
+
+
+TY  - JOUR
+AB  - Circulating microRNAs are deregulated in liver fibrosis and hepatocellular carcinoma (HCC) and are candidate biomarkers. This study investigated the potential of serum microRNAs; miR-19a, miR-296, miR-130a, miR-195, miR-192, miR-34a, and miR-146a as early diagnostic biomarkers for hepatitis C virus (HCV)-related HCC. As how these microRNAs change during liver fibrosis progression is not clear, we explored their serum levels during fibrosis progression in HCV-associated chronic liver disease (CLD) and if they could serve as non-invasive biomarkers for fibrosis progression to HCC. 112 Egyptian HCV-HCC patients, 125 nonmalignant HCV-CLD patients, and 42 healthy controls were included. CLD patients were subdivided according to Metavir fibrosis-scoring. Serum microRNAs were measured by qRT-PCR customarray. Serum microRNAs were deregulated in HCC versus controls, and except miR-130a, they were differentially expressed between HCC and CLD or late fibrosis (F3-F4) subgroup. Serum microRNAs were not significantly different between individual fibrosis-stages or between F1-F2 (early/moderate fibrosis) and F3-F4. Only miR-19a was significantly downregulated from liver fibrosis (F1-F3) to cirrhosis (F4) to HCC. Individual microRNAs discriminated HCC from controls, and except miR-130a, they distinguished HCC from CLD or F3-F4 patients by receiver-operating-characteristic analysis. Multivariate logistic analysis revealed a panel of four microRNAs (miR-19a, miR-195, miR-192, and miR-146a) with high diagnostic accuracy for HCC (AUC = 0.946). The microRNA panel also discriminated HCC from controls (AUC = 0.949), CLD (AUC = 0.945), and F3-F4 (AUC = 0.955). Studied microRNAs were positively correlated in HCC group. miR-19a and miR-34a were correlated with portal vein thrombosis and HCC staging scores, respectively. In conclusion, studied microRNAs, but not miR-130a, could serve as potential early biomarkers for HCC in high-risk groups, with miR-19a as a biomarker for liver fibrosis progression to cirrhosis to HCC. We identified a panel of four serum microRNAs with high accuracy in HCC diagnosis. Additional studies are required to confirm this panel and test its prognostic significance.
+AD  - [Motawi, Tarek K.; El-Maraghy, Shohda A.; Senousy, Mahmoud A.] Cairo Univ, Fac Pharm, Dept Biochem, Cairo, Egypt. [Shaker, Olfat G.] Cairo Univ, Fac Med, Med Biochem & Mol Biol Dept, Cairo, Egypt.
+Senousy, MA (reprint author), Cairo Univ, Fac Pharm, Dept Biochem, Cairo, Egypt.
+mohmoud.ali@pharma.cu.edu.eg
+AN  - WOS:000360932800112
+AU  - Motawi, T. K.
+AU  - Shaker, O. G.
+AU  - El-Maraghy, S. A.
+AU  - Senousy, M. A.
+C7  - e0137706
+DA  - Sep
+DO  - 10.1371/journal.pone.0137706
+J2  - PLoS One
+KW  - CIRCULATING MICRORNAS
+LIVER-DISEASE
+RISK-FACTORS
+EXPRESSION
+PROGRESSION
+CELLS
+HEPATOCARCINOGENESIS
+OVEREXPRESSION
+IDENTIFICATION
+TUMORIGENESIS
+LA  - English
+M1  - 9
+M3  - Article
+N1  - ISI Document Delivery No.: CQ9KG
+Times Cited: 2
+Cited Reference Count: 60
+Motawi, Tarek K. Shaker, Olfat G. El-Maraghy, Shohda A. Senousy, Mahmoud A.
+Research Service of the Faculty of Pharmacy, Cairo University
+Funding: This research was supported by the Research Service of the Faculty of Pharmacy, Cairo University. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+2
+0
+PUBLIC LIBRARY SCIENCE
+SAN FRANCISCO
+PLOS ONE
+PY  - 2015
+SN  - 1932-6203
+SP  - 23
+ST  - Serum MicroRNAs as Potential Biomarkers for Early Diagnosis of Hepatitis C Virus-Related Hepatocellular Carcinoma in Egyptian Patients
+T2  - Plos One
+TI  - Serum MicroRNAs as Potential Biomarkers for Early Diagnosis of Hepatitis C Virus-Related Hepatocellular Carcinoma in Egyptian Patients
+UR  - <Go to ISI>://WOS:000360932800112
+VL  - 10
+ID  - 35560
+ER  - 
+
+
+TY  - JOUR
+AB  - Circulating microRNAs are deregulated in liver fibrosis and hepatocellular carcinoma (HCC) and are candidate biomarkers. This study investigated the potential of serum microRNAs; miR-19a, miR-296, miR-130a, miR-195, miR-192, miR-34a, and miR-146a as early diagnostic biomarkers for hepatitis C virus (HCV)-related HCC. As how these microRNAs change during liver fibrosis progression is not clear, we explored their serum levels during fibrosis progression in HCV-associated chronic liver disease (CLD) and if they could serve as non-invasive biomarkers for fibrosis progression to HCC. 112 Egyptian HCV-HCC patients, 125 non-malignant HCV-CLD patients, and 42 healthy controls were included. CLD patients were subdivided according to Metavir fibrosis-scoring. Serum microRNAs were measured by qRT-PCR custom array. Serum microRNAs were deregulated in HCC versus controls, and except miR-130a, they were differentially expressed between HCC and CLD or late fibrosis (F3-F4) subgroup. Serum microRNAs were not significantly different between individual fibrosis-stages or between F1-F2 (early/moderate fibrosis) and F3-F4. Only miR-19a was significantly downregulated from liver fibrosis (F1-F3) to cirrhosis (F4) to HCC. Individual microRNAs discriminated HCC from controls, and except miR-130a, they distinguished HCC from CLD or F3-F4 patients by receiver-operating-characteristic analysis. Multivariate logistic analysis revealed a panel of four microRNAs (miR-19a, miR-195, miR-192, and miR-146a) with high diagnostic accuracy for HCC (AUC = 0.946). The microRNA panel also discriminated HCC from controls (AUC = 0.949), CLD (AUC = 0.945), and F3-F4 (AUC = 0.955). Studied micro-RNAs were positively correlated in HCC group. miR-19a and miR-34a were correlated with portal vein thrombosis and HCC staging scores, respectively. In conclusion, studied micro-RNAs, but not miR-130a, could serve as potential early biomarkers for HCC in high-risk groups, with miR-19a as a biomarker for liver fibrosis progression to cirrhosis to HCC. We identified a panel of four serum microRNAs with high accuracy in HCC diagnosis. Additional studies are required to confirm this panel and test its prognostic significance. © 2015 Motawi et al.
+AD  - Biochemistry Department, Faculty of Pharmacy, Cairo University, Cairo, Egypt
+Medical Biochemistry and Molecular Biology Department, Faculty of Medicine, Cairo University, Cairo, Egypt
+AU  - Motawi, T. K.
+AU  - Shaker, O. G.
+AU  - El-Maraghy, S. A.
+AU  - Senousy, M. A.
+C7  - e0137706
+DB  - Scopus
+DO  - 10.1371/journal.pone.0137706
+J2  - PLoS ONE
+KW  - microRNA
+microRNA 130a
+microRNA 146a
+microRNA 192
+microRNA 195
+microRNA 19a
+microRNA 296
+microRNA 34a
+tumor marker
+unclassified drug
+adult
+Article
+blood level
+cancer diagnosis
+cancer staging
+chronic liver disease
+controlled study
+diagnostic accuracy
+diagnostic test accuracy study
+disease course
+disease severity
+down regulation
+early diagnosis
+Egyptian
+female
+gene expression
+Hepatitis C virus
+hepatitis C virus related hepatocellular carcinoma
+human
+liver cell carcinoma
+liver fibrosis
+major clinical study
+male
+portal vein thrombosis
+reverse transcription polymerase chain reaction
+LA  - English
+M1  - 9
+M3  - Article
+N1  - Cited By :2
+Export Date: 19 July 2016
+CODEN: POLNC
+References: El-Serag, H.B., Marrero, J.A., Rudolph, L., Reddy, K.R., Diagnosis and treatment of hepatocellular carcinoma (2008) Gastroenterology, 134, pp. 1752-1763. , PMID: 18471552; Freedman, L.S., Edwards, B.K., Ries, L.A., Young, J.L., (2006) Cancer Incidence in Four Member Countries (Cyprus, Egypt, Israel, and Jordan) of the Middle East Cancer Consortium (MECC) Compared with US SEER, , Bethesda, MD: NIH Pub: National Cancer Institute; Hatzakis, A., Van Damme, P., Alcorn, K., Gore, C., Benazzouz, M., Berkane, S., The state of hepatitis B and C in the mediterranean and balkan countries: Report from a summit conference (2013) J Viral Hepat., 20, pp. 1-20. , PMID: 23827008; Marrero, J.A., Feng, Z., Wang, Y., Nguyen, M.H., Befeler, A.S., Roberts, L.R., Alpha-fetoprotein, desgamma carboxyprothrombin, and lectin-bound alpha-fetoprotein in early hepatocellular carcinoma (2009) Gastroenterology, 137, pp. 110-118. , PMID: 19362088; Attallah, A.M., Omran, M.M., Attallah, A.A., Abdallah, S.O., Farid, K., Darwish, H., HCC-ART score, a simple, highly sensitive and specific test for early diagnosis of hepatocellular carcinoma: A large-scale, multicentre study (2013) Br J Cancer, 109, pp. 1657-1665. , PMID: 23982602; ElHefnawi, M., Soliman, B., Abu-Shahba, N., Amer, M., An integrative meta-analysis of microRNAs in hepatocellular carcinoma (2013) Genomics Proteomics Bioinformatics, 11, pp. 354-367. , PMID: 24287119; Huang, S., He, X., The role of microRNAs in liver cancer progression (2011) Br J Cancer, 104, pp. 235-240. , PMID: 21102580; Braconi, C., Valeri, N., Gasparini, P., Huang, N., Taccioli, C., Nuovo, G., Hepatitis C virus proteins modulate microRNA expression and chemosensitivity in malignant hepatocytes (2010) Clin Cancer Res., 16, pp. 957-966. , PMID: 20103677; Qi, J., Wang, J., Katayama, H., Sen, S., Liu, S.M., Circulating microRNAs (cmiRNAs) as novel potential biomarkers for hepatocellular carcinoma (2013) Neoplasma, 60, pp. 135-142. , PMID: 23259781; Matsumura, H., Nirei, K., Nakamura, H., Higuchi, T., Arakawa, Y., Ogawa, M., Histopathology of type C liver disease for determining hepatocellular carcinoma risk factors (2013) World J Gastroenterol., 19, pp. 4887-4896. , PMID: 23946593; Lok, A.S., Seeff, L.B., Morgan, T.R., Di Bisceglie, A.M., Sterling, R.K., Curto, T.M., Incidence of hepatocellular carcinoma and associated risk factors in hepatitis C-related advanced liver disease (2009) Gastroenterology, 136, pp. 138-148. , PMID: 18848939; Jeong, S.W., Jang, J.Y., Chung, R.T., Hepatitis C virus and hepatocarcinogenesis (2012) Clin Mol Hepatol., 18, pp. 347-356. , PMID: 23323249; Cermelli, S., Ruggieri, A., Marrero, J.A., Ioannou, G.N., Beretta, L., Circulating microRNAs in patients with chronic hepatitis C and non-alcoholic fatty liver disease (2011) PLoS One, 6. , PMID: 21886843; Shrivastava, S., Petrone, J., Steele, R., Lauer, G.M., Di Bisceglie, A.M., Ray, R.B., Up-regulation of circulating miR-20a is correlated with hepatitis C virus-mediated liver disease progression (2013) Hepatology, 58, pp. 863-871. , PMID: 23390075; Llovet, J.M., Burroughs, A., Bruix, J., Hepatocellular carcinoma (2003) Lancet., 362, pp. 1907-1917. , PMID: 14667750; Poynard, T., Bedossa, P., Opolon, P., Natural history of liver fibrosis progression in patients with chronic hepatitis C. The OBSVIRC, METAVIR, CLINIVIR, and DOSVIRC groups (1997) Lancet, 349, pp. 825-832. , PMID: 9121257; Xu, T., Zhu, Y., Xiong, Y., Ge, Y.Y., Yun, J.P., Zhuang, S.M., MicroRNA-195 suppresses tumorigenicity and regulates G1/S transition of human hepatocellular carcinoma cells (2009) Hepatology, 50, pp. 113-121. , PMID: 19441017; Braun, C.J., Zhang, X., Savelyeva, I., Wolff, S., Moll, U.M., Schepeler, T., p53-responsive micrornas 192 and 215 are capable of inducing cell cycle arrest (2008) Cancer Res., 68, pp. 10094-10104. , PMID: 19074875; Ura, S., Honda, M., Yamashita, T., Ueda, T., Takatori, H., Nishino, R., Differential microRNA expression between hepatitis B and hepatitis C leading disease progression to hepatocellular carcinoma (2009) Hepatology, 49, pp. 1098-1112. , PMID: 19173277; Dews, M., Homayouni, A., Yu, D., Murphy, D., Sevignani, C., Wentzel, E., Augmentation of tumor angiogenesis by a myc-activated microRNA cluster (2006) Nat Genet., 38, pp. 1060-1065. , PMID: 16878133; Han, Z.B., Zhong, L., Teng, M.J., Fan, J.W., Tang, H.M., Wu, J.Y., Identification of recurrence-related micro-RNAs in hepatocellular carcinoma following liver transplantation (2012) Mol Oncol., 6, pp. 445-457. , PMID: 22552153; Henrici, A., Montalbano, R., Neureiter, D., Krause, M., Stiewe, T., Slater, E.P., The pan-deacetylase inhibitor panobinostat suppresses the expression of oncogenic miRNAs in hepatocellular carcinoma cell lines (2013) Mol Carcinog; Wurdinger, T., Tannous, B.A., Saydam, O., Skog, J., Grau, S., Soutschek, J., miR-296 regulates growth factor receptor overexpression in angiogenic endothelial cells (2008) Cancer Cell, 14, pp. 382-393. , PMID: 18977327; Yoon, A.R., Gao, R., Kaul, Z., Choi, I.K., Ryu, J., Noble, J.R., MicroRNA-296 is enriched in cancer cells and downregulates p21WAF1 mRNA expression via interaction with its 3' untranslated region (2011) Nucleic Acids Res., 39, pp. 8078-8091. , PMID: 21724611; Zhao, J.L., Rao, D.S., Boldin, M.P., Taganov, K.D., O'Connell, R.M., Baltimore, D., NF-kappaB dysregulation in microRNA-146a-deficient mice drives the development of myeloid malignancies (2011) Proc Natl Acad Sci USA, 108, pp. 9184-9189. , PMID: 21576471; Katayama, Y., Maeda, M., Miyaguchi, K., Nemoto, S., Yasen, M., Tanaka, S., Identification of pathogenesis-related microRNAs in hepatocellular carcinoma by expression profiling (2012) Oncol Lett., 4, pp. 817-823. , PMID: 23205106; Gramantieri, L., Ferracin, M., Fornari, F., Veronese, A., Sabbioni, S., Liu, C.G., Cyclin G1 is a target of miR-122a, a microRNA frequently down-regulated in human hepatocellular carcinoma (2007) Cancer Res., 67, pp. 6092-6099. , PMID: 17616664; Huang, X.H., Wang, Q., Chen, J.S., Fu, X.H., Chen, X.L., Chen, L.Z., Bead-based microarray analysis of microRNA expression in hepatocellular carcinoma: Mir-338 is downregulated (2009) Hepatol Res., 39, pp. 786-794. , PMID: 19473441; Mizuguchi, Y., Mishima, T., Yokomuro, S., Arima, Y., Kawahigashi, Y., Shigehara, K., Sequencing and bioinformatics-based analyses of the microRNA transcriptome in hepatitis B-related hepatocellular carcinoma (2011) PLoS One, 6. , PMID: 21283620; Pok, S., Wen, V., Shackel, N., Alsop, A., Pyakurel, P., Fahrer, A., Cyclin E facilitates dysplastic hepatocytesto bypass G1/S checkpoint in hepatocarcinogenesis (2013) J Gastroenterol Hepatol., 28, pp. 1545-1554. , PMID: 23574010; Kota, J., Chivukula, R.R., O'Donnell, K.A., Wentzel, E.A., Montgomery, C.L., Hwang, H.W., Therapeutic microRNA delivery suppresses tumorigenesis in a murine liver cancer model (2009) Cell, 137, pp. 1005-1017. , PMID: 19524505; Motawi, T.K., Shaker, O.G., El-Maraghy, S.A., Senousy, M.A., Serum interferon-related MicroRNAs as biomarkers to predict the response to interferon therapy in chronic hepatitis C genotype 4 (2015) PLoS One, 10. , PMID: 25790297; Zhou, J., Yu, L., Gao, X., Hu, J., Wang, J., Dai, Z., Plasma microRNA panel to diagnose hepatitis B virus-related hepatocellular carcinoma (2011) J Clin Oncol., 29, pp. 4781-4788. , PMID: 22105822; Abd-El-Fattah, A.A., Sadik, N.A., Shaker, O.G., Aboulftouh, M.L., Differential microRNAs expression in serum of patients with lung cancer, pulmonary tuberculosis, and pneumonia (2013) Cell Biochem Biophys, 67, pp. 875-884. , PMID: 23559272; El-Garem, H., Ammer, A., Shehab, H., Shaker, O., Anwer, M., El-Akel, W., Circulating microRNA, miR-122 and miR-221 signature in Egyptian patients with chronic hepatitis C related hepatocellular carcinoma (2014) World J Hepatol., 6, pp. 818-824. , PMID: 25429320; Livak, K.J., Schmittgen, T.D., Analysis of relative gene expression data using real-time quantitative PCR and the 2(-delta delta C(T)) method (2001) Methods, 25, pp. 402-408. , PMID: 11846609; Qu, K.Z., Zhang, K., Li, H., Afdhal, N.H., Albitar, M., Circulating microRNAs as biomarkers for hepatocellular carcinoma (2011) J Clin Gastroenterol., 45, pp. 355-360. , PMID: 21278583; Murakami, Y., Yasuda, T., Saigo, K., Urashima, T., Toyoda, H., Okanoue, T., Comprehensive analysis of microRNA expression patterns in hepatocellular carcinoma and non-tumorous tissues (2006) Oncogene, 25, pp. 2537-2545. , PMID: 16331254; Liu, M., Liu, J., Wang, L., Wu, H., Zhou, C., Zhu, H., Association of serum microRNA expression in hepatocellular carcinomas treated with transarterial chemoembolization and patient survival (2014) PLoS One, 9. , PMID: 25275448; Gui, J., Tian, Y., Wen, X., Zhang, W., Zhang, P., Gao, J., Serum microRNA characterization identifies miR-885-5p as a potential marker for detecting liver pathologies (2011) Clin Sci (Lond), 120, pp. 183-193; Hermeking, H., p53 enters the microRNA world (2007) Cancer Cell, 12, pp. 414-418. , PMID: 17996645; Tryndyak, V.P., Ross, S.A., Beland, F.A., Pogribny, I.P., Down-regulation of the microRNAs miR-34a, miR-127, and miR-200b in rat liver during hepatocarcinogenesis induced by a methyl-deficient diet (2009) MolCarcinog, 48, pp. 479-487. , PMID: 18942116; Tan, Y., Ge, G., Pan, T., Wen, D., Chen, L., Yu, X., A serum microRNA panel as potential biomarkers for hepatocellular carcinoma related with hepatitis B virus (2014) PLoS One, 9. , PMID: 25238238; Karakatsanis, A., Papaconstantinou, I., Gazouli, M., Lyberopoulou, A., Polymeneas, G., Voros, D., Expression of microRNAs, miR-21, miR-31, miR-122, miR-145, miR-146a, miR-200c, miR-221, miR-222, and miR-223 in patients with hepatocellular carcinoma or intrahepatic cholangiocarcinoma and its prognostic significance (2013) Mol Carcinog., 52, pp. 297-303. , PMID: 22213236; Rong, M., He, R., Dang, Y., Chen, G., Expression and clinicopathological significance of miR-146a in hepatocellular carcinoma tissues (2014) Ups J Med Sci., 119, pp. 19-24. , PMID: 24172202; Zhang, Z., Zhang, Y., Sun, X.X., Ma, X., Chen, Z.N., microRNA-146a inhibits cancer metastasis by downregulating VEGFthrough dual pathways in hepatocellular carcinoma (2015) Mol Cancer, 14, p. 5. , PMID: 25608619; Vaira, V., Faversani, A., Dohi, T., Montorsi, M., Augello, C., Gatti, S., miR-296 regulation of a cell polarity-cell plasticity module controls tumor progression (2012) Oncogene, 31, pp. 27-38. , PMID: 21643016; Wang, S., Olson, E.N., AngiomiRs-key regulators of angiogenesis (2009) Curr Opin Genet Dev., 19, pp. 205-211. , PMID: 19446450; Sun, X., Zhang, J., Hou, Z., Han, Q., Zhang, C., Tian, Z., miR-146a is directly regulated by STAT3 in human hepatocellular carcinoma cells and involved in anti-tumor immune suppression (2015) Cell Cycle, 14, pp. 243-252. , PMID: 25607648; Xu, J., Zhu, X., Wu, L., Yang, R., Yang, Z., Wang, Q., MicroRNA-122 suppresses cell proliferation and induces cell apoptosis in hepatocellular carcinoma by directly targeting wnt/beta-catenin pathway (2012) Liver Int., 32, pp. 752-760. , PMID: 22276989; Xu, J., Wu, C., Che, X., Wang, L., Yu, D., Zhang, T., Circulating microRNAs, miR-21, miR-122, and miR-223, in patients with hepatocellular carcinoma or chronic hepatitis (2011) Mol Carcinog., 50, pp. 136-142. , PMID: 21229610; Qi, P., Cheng, S.Q., Wang, H., Li, N., Chen, Y.F., Gao, C.F., Serum microRNAs as biomarkers for hepatocellular carcinoma in Chinese patients with chronic hepatitis B virus infection (2011) PLoS One, 6. , PMID: 22174818; Povero, D., Eguchi, A., Li, H., Johnson, C.D., Papouchado, B.G., Wree, A., Circulating extracellular vesicles with specific proteome and liver microRNAs are potential biomarkers for liver injury in experimental fatty liver disease (2014) PLoS One, 9. , PMID: 25470250; Wang, K., Zhang, S., Marzolf, B., Troisch, P., Brightman, A., Hu, Z., Circulating microRNAs, potential biomarkers for drug-induced liver injury (2009) Proc Natl Acad Sci USA, 106, pp. 4402-4407. , PMID: 19246379; Borel, F., Konstantinova, P., Jansen, P.L., Diagnostic and therapeutic potential of miRNA signatures in patients with hepatocellular carcinoma (2012) J Hepatol., 56, pp. 1371-1383. , PMID: 22314424; Trebicka, J., Anadol, E., Elfimova, N., Strack, I., Roggendorf, M., Viazov, S., Hepatic and serum levels of miR-122 after chronic HCV-induced fibrosis (2013) J Hepatol., 58, pp. 234-239. , PMID: 23085648; Guo, C.J., Pan, Q., Cheng, T., Jiang, B., Chen, G.Y., Li, D.G., Changes in microRNAs associated with hepatic stellate cell activation status identify signaling pathways (2009) FEBS J., 276, pp. 5163-5176. , PMID: 19674103; Pineau, P., Volinia, S., McJunkin, K., Marchio, A., Battiston, C., Terris, B., miR-221 overexpression contributes to liver tumorigenesis (2010) Proc Natl Acad Sci USA, 107, pp. 264-269. , PMID: 20018759; Tomimaru, Y., Eguchi, H., Nagano, H., Wada, H., Kobayashi, S., Marubashi, S., Circulating microRNA-21 as a novel biomarker for hepatocellular carcinoma (2012) J Hepatol., 56, pp. 167-175. , PMID: 21749846; Liu, A.M., Yao, T.J., Wang, W., Wong, K.F., Lee, N.P., Fan, S.T., Circulating miR-15b and miR-130b in serum as potential markers for detecting hepatocellular carcinoma: A retrospective cohort study (2012) BMJ Open, 2. , PMID: 22403344
+PY  - 2015
+SN  - 19326203 (ISSN)
+ST  - Serum MicroRNAs as potential biomarkers for early diagnosis of hepatitis C virus-related hepatocellular carcinoma in egyptian patients
+T2  - PLoS ONE
+TI  - Serum MicroRNAs as potential biomarkers for early diagnosis of hepatitis C virus-related hepatocellular carcinoma in egyptian patients
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944809993&partnerID=40&md5=c5a9d9d057304191e16e70b33a88e5db
+VL  - 10
+ID  - 42114
+ER  - 
+
+

@@ -1,0 +1,155 @@
+TY  - JOUR
+AB  - For over 40 years, four therapeutic modalities, namely surgery, radiotherapy, chemotherapy and hormone therapy have formed the core of anticancer treatments. Their mode of action is thought to involve a direct cytotoxic action on tumor cells. Recently, the discovery of tumor-associated immunosuppression and tumor immunosurveillance has led to cancer being reconsidered not only as an organ disease but also as a host disease. This new concept is supported by the recent discovery of the immunogenic effects of tumor cell death induced by a variety of cytotoxic drugs. This work describes a new pathway of tumor-derived antigen presentation mediated by the alarmin HMGB1 (released by dying tumor cells in response to chemo/radiotherapy) and by TLR4 on dendritic cells. In this model, TLR4 recognizes? tumor-derived antigens, leading to T cell activation and to the induction of an antitumor immune response. Accordingly, we show that breast cancer patients bearing a loss-of-function mutation of the TLR4 receptor have shorter disease-free survival, confirming the major role of the immune system in the response to cytotoxic treatments. The response to chemotherapy and/or radiotherapy may thus combine both direct cytotoxic effects and the development of long-term antitumor immunity. We anticipate that these new results will have major impact on cancer management.
+AD  - Institut Gustave Roussy, F-94805 Villejuif, 39, rue Camille Desmoulins, France.
+AN  - 19445369
+AU  - Zitvogel, L.
+AU  - Tesniere, A.
+AU  - Apetoh, L.
+AU  - Ghiringhelli, F.
+AU  - Kroemer, G.
+DA  - Oct
+DP  - NLM
+IS  - 7
+KW  - Antigen Presentation
+Antigens, Neoplasm/immunology
+Antineoplastic Agents/pharmacology/*therapeutic use
+Apoptosis/drug effects/immunology
+Breast Neoplasms/drug therapy/genetics/immunology/mortality/radiotherapy/surgery
+Cell Line, Tumor/drug effects/immunology
+Combined Modality Therapy
+Dendritic Cells/immunology
+Disease-Free Survival
+HMGB1 Protein/genetics/*physiology
+HeLa Cells/immunology
+Humans
+Immunologic Surveillance/drug effects
+Melanoma/pathology
+*Models, Immunological
+Neoplasms/*drug therapy/immunology
+Polymorphism, Single Nucleotide
+Radiotherapy/adverse effects
+Recombinant Fusion Proteins/physiology
+Retrospective Studies
+Toll-Like Receptor 4/genetics/*physiology
+LA  - fre
+N1  - Zitvogel, Laurence
+Tesniere, Antoine
+Apetoh, Lionel
+Ghiringhelli, François
+Kroemer, Guido
+English Abstract
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2009/05/19
+Bull Acad Natl Med. 2008 Oct;192(7):1469-87; discussion 1487-9.
+OP  - Contribution du système immunitaire a l'efficacité des chimiothérapies anticancéreuses.
+PY  - 2008
+SN  - 0001-4079 (Print)
+0001-4079
+SP  - 1469-87; discussion 1487-9
+ST  - [Immunological aspects of anticancer chemotherapy]
+T2  - Bull Acad Natl Med
+TI  - [Immunological aspects of anticancer chemotherapy]
+VL  - 192
+ID  - 447
+ER  - 
+
+TY  - JOUR
+AB  - For over 40 years, four therapeutic modalities, namely surgery, radiotherapy, chemotherapy and hormone therapy have formed the core of anticancer treatments. Their mode of action is thought to involve a direct cytotoxic action on tumor cells. Recently, the discovery of tumor-associated immunosuppression and tumor immunosurveillance has led to cancer being reconsidered not only as an organ disease but also as a host disease. This new concept is supported by the recent discovery of the immunogenic effects of tumor cell death induced by a variety of cytotoxic drugs. This work describes a new pathway of tumor-derived antigen presentation mediated by the alarmin HMGB1 (released by dying tumor cells in response to chemo/radiotherapy) and by TLR4 on dendritic cells. In this model, TLR4 recognizes? tumor-derived antigens, leading to T cell activation and to the induction of an antitumor immune response. Accordingly, we show that breast cancer patients bearing a loss-of-function mutation of the TLR4 receptor have shorter disease-free survival, confirming the major role of the immune system in the response to cytotoxic treatments. The response to chemotherapy and/or radiotherapy may thus combine both direct cytotoxic effects and the development of long-term antitumor immunity. We anticipate that these new results will have major impact on cancer management.
+AD  - L. Zitvogel, Institut Gustave Roussy, F-94805 Villejuif, 39, rue Camille Desmoulins, France.
+AU  - Zitvogel, L.
+AU  - Tesniere, A.
+AU  - Apetoh, L.
+AU  - Ghiringhelli, F.
+AU  - Kroemer, G.
+DB  - Medline
+DP  - EMBASE
+IS  - 7
+KW  - antineoplastic agent
+high mobility group B1 protein
+fusion protein
+TLR4 protein, human
+toll like receptor 4
+tumor antigen
+antigen presentation
+apoptosis
+article
+biological model
+breast tumor
+dendritic cell
+disease free survival
+drug effect
+genetics
+HeLa cell line
+human
+immunology
+immunosurveillance
+melanoma
+mortality
+multimodality cancer therapy
+neoplasm
+pathology
+physiology
+radiotherapy
+retrospective study
+single nucleotide polymorphism
+tumor cell line
+LA  - French
+M3  - Article
+N1  - L354772697
+2009-06-30
+PY  - 2008
+SN  - 0001-4079
+SP  - 1469-1487; discussion 1487-1489
+ST  - Immunological aspects of anticancer chemotherapy
+T2  - Bulletin de l'Académie nationale de médecine
+TI  - Immunological aspects of anticancer chemotherapy
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L354772697&from=export
+VL  - 192
+ID  - 11319
+ER  - 
+
+TY  - JOUR
+AB  - For over 40 years, four therapeutic modalities, namely surgery, radiotherapy, chemotherapy and hormone therapy have formed the core of anticancer treatments. Their mode of action is thought to involve a direct cytotoxic action on tumor cells. Recently, the discovery of tumor-associated immunosuppression and tumor immunosurveillance has led to cancer being reconsidered not only as an organ disease but also as a host disease. This new concept is supported by the recent discovery of the immunogenic effects of tumor cell death induced by a variety of cytotoxic drugs. This work describes a new path way of tumor-derived antigen presentation mediated by the alarmin HMGB1 (released by dying tumor cells in response to chemo/radiotherapy) and by TLR4 on dendritic cells. In this model, TLR4 recognizes ? tumor-derived antigens, leading to T cell activation and to the induction of an antitumor immune response. Accordingly, we show that breast cancer patients bearing a loss-of-function mutation of the TLR4 receptor have shorter disease-free survival, confirming the major role of the immune system in the response to cytotoxic treatments. The response to chemotherapy and/or radiotherapy may thus combine both direct cytotoxic effects and the development of long-term antitumor immunity. We anticipate that these new results will have major impact on cancer management.
+AD  - [Zitvogel, Laurence; Tesniere, Antoine] Inst Gustave Roussy, F-94805 Villejuif, France; [Apetoh, Lionel] Univ Paris 11, Fac Paris Sud, Orsay, France; [Ghiringhelli, Francois] INSERM, U848, F-94805 Villejuif, France; [Kroemer, Guido] INSERM, U805, F-94805 Villejuif, France; Ctr Invest Clin BT507 CIC BT507, F-94805 Villejuif, France
+Inst Gustave Roussy, 39 Rue Camille Desmoulins, F-94805 Villejuif, France
+AN  - WOS:000264793200019
+AU  - Zitvogel, L.
+AU  - Tesniere, A.
+AU  - Apetoh, L.
+AU  - Ghiringhelli, F.
+AU  - Kroemer, G.
+DA  - Oct
+DO  - 10.1016/S0001-4079(19)32694-9
+DP  - Web of Science
+IS  - 7
+J2  - Bull. Acad. Natl. Med.
+KW  - APOPTOSIS
+DRUG THERAPY
+IMMUNITY, NATURAL
+DENDRITIC CELLS
+DENDRITIC CELLS
+P-GLYCOPROTEIN
+T-CELLS
+CANCER
+IMMUNITY
+POLYMORPHISMS
+TOLL-LIKE-RECEPTOR-4
+IMMUNOSURVEILLANCE
+IMMUNOGENICITY
+INFLAMMATION
+LA  - French
+M3  - Article
+N1  - 37
+19445369
+PY  - 2008
+SN  - 0001-4079
+SP  - 1469-1487
+ST  - Immunological aspects of anticancer chemotherapy
+T2  - Bulletin De L Academie Nationale De Medecine
+TI  - Immunological aspects of anticancer chemotherapy
+VL  - 192
+ID  - 13808
+ER  - 
+

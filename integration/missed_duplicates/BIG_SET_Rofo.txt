@@ -1,0 +1,49 @@
+TY  - JOUR
+AU  - Aagaard, J.
+AU  - Burcharth, F.
+CA  - DUPLICATE_PUBL
+DA  - Jun
+DO  - 10.1055/s-0029-1231361
+IS  - 6
+LB  - 37607
+PY  - 1979
+SN  - 1438-9029 (Print) 1438-9010
+SP  - 719-20
+ST  - Hepatic portal vein thrombosis diagnosed by transhepatic portography
+T2  - Rofo
+TI  - Hepatic portal vein thrombosis diagnosed by transhepatic portography
+VL  - 130
+ID  - 1822
+ER  - 
+
+TY  - JOUR
+AU  - Aagaard, J.
+AU  - Burcharth, F.
+CA  - DUPLICATE_PUBL
+IS  - 6
+LB  - 37607
+PY  - 1979
+SP  - 719-720
+ST  - Hepatic and portal vein thrombosis diagnosed by transhepatic portography
+T2  - Fortschritte auf den Gebiete der Rontgenstrahlen und der Nuklearmedizin
+TI  - Hepatic and portal vein thrombosis diagnosed by transhepatic portography
+VL  - 130
+ID  - 37607
+ER  - 
+
+TY  - JOUR
+AU  - Aagaard, J.
+AU  - Burcharth, F.
+CA  - DUPLICATE_PUBL
+IS  - 6
+LB  - 37607
+PY  - 1979
+SN  - 0340-1618
+SP  - 719-720
+ST  - HEPATIC AND PORTAL-VEIN THROMBOSIS DIAGNOSED BY TRANS-HEPATIC PORTOGRAPHY
+T2  - Fortschritte Auf Dem Gebiete Der Rontgenstrahlen Und Der Nuklearmedizin
+TI  - HEPATIC AND PORTAL-VEIN THROMBOSIS DIAGNOSED BY TRANS-HEPATIC PORTOGRAPHY
+VL  - 130
+ID  - 47462
+ER  - 
+

@@ -1,0 +1,152 @@
+TY  - JOUR
+AB  - The frequency of metastatic brain tumors has increased over recent years; the primary tumors most involved are breast cancer, lung cancer, melanoma and renal cell carcinoma. While radiation therapy and surgery remain the mainstay treatment in selected patients, new molecular drugs have been developed for brain metastases. Studies so far report interesting results. This review focuses on systemic cytotoxic drugs and, in particular, on new targeted therapies and their clinically relevant activities in brain metastases from solid tumors in adults.
+AD  - Medical Oncology 1 Unit, Veneto Institute of Oncology IOV - IRCCS, Padua, Italy. Electronic address: giuseppe.lombardi@ioveneto.it.
+AP-HP, Groupe Hospitalier Pitié-Salpêtrière, Service de Neurologie 2, Paris 75013, France; National Neurological Institute C. Mondino, University of Pavia, Italy.
+Medical Oncology 1 Unit, Veneto Institute of Oncology IOV - IRCCS, Padua, Italy.
+APHM, Timone Hospital, Neuro-Oncology, Marseille, France; Aix-Marseille University, CRO2, UMR911, Marseille, France.
+AN  - 24909312
+AU  - Lombardi, G.
+AU  - Di Stefano, A. L.
+AU  - Farina, P.
+AU  - Zagonel, V.
+AU  - Tabouret, E.
+DA  - Sep
+DO  - 10.1016/j.ctrv.2014.05.007
+DP  - NLM
+ET  - 20140527
+IS  - 8
+KW  - Antineoplastic Agents/*therapeutic use
+Brain Neoplasms/*drug therapy/*secondary
+Breast Neoplasms/*drug therapy/pathology
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology
+Carcinoma, Renal Cell/*drug therapy/pathology
+Female
+Humans
+Kidney Neoplasms/*drug therapy/pathology
+Lung Neoplasms/*drug therapy/pathology
+Melanoma/*drug therapy/pathology
+Molecular Targeted Therapy
+Brain metastases
+Breast cancer
+Lung cancer
+Melanoma
+Renal cell carcinoma
+LA  - eng
+N1  - 1532-1967
+Lombardi, Giuseppe
+Di Stefano, Anna Luisa
+Farina, Patrizia
+Zagonel, Vittorina
+Tabouret, Emeline
+Journal Article
+Review
+Netherlands
+2014/06/10
+Cancer Treat Rev. 2014 Sep;40(8):951-9. doi: 10.1016/j.ctrv.2014.05.007. Epub 2014 May 27.
+PY  - 2014
+SN  - 0305-7372
+SP  - 951-9
+ST  - Systemic treatments for brain metastases from breast cancer, non-small cell lung cancer, melanoma and renal cell carcinoma: an overview of the literature
+T2  - Cancer Treat Rev
+TI  - Systemic treatments for brain metastases from breast cancer, non-small cell lung cancer, melanoma and renal cell carcinoma: an overview of the literature
+VL  - 40
+ID  - 1518
+ER  - 
+
+TY  - JOUR
+AB  - The frequency of metastatic brain tumors has increased over recent years; the primary tumors most involved are breast cancer, lung cancer, melanoma and renal cell carcinoma. While radiation therapy and surgery remain the mainstay treatment in selected patients, new molecular drugs have been developed for brain metastases. Studies so far report interesting results.This review focuses on systemic cytotoxic drugs and, in particular, on new targeted therapies and their clinically relevant activities in brain metastases from solid tumors in adults. © 2014 Elsevier Ltd.
+AD  - G. Lombardi, Medical Oncology 1, Veneto Institute of Oncology, IRCSS, via Gattamelata, 64, 35128 Padua, Italy
+AU  - Lombardi, G.
+AU  - Di Stefano, A. L.
+AU  - Farina, P.
+AU  - Zagonel, V.
+AU  - Tabouret, E.
+DB  - Embase
+Medline
+DO  - 10.1016/j.ctrv.2014.05.007
+DP  - EMBASE
+IS  - 8
+KW  - angiogenesis inhibitor
+bevacizumab
+cytotoxic agent
+epidermal growth factor receptor
+epidermal growth factor receptor kinase inhibitor
+brain metastasis
+breast cancer
+cancer chemotherapy
+cancer patient
+drug efficacy
+drug safety
+human
+kidney carcinoma
+non small cell lung cancer
+melanoma
+molecularly targeted therapy
+nonhuman
+phase 2 clinical trial (topic)
+randomized controlled trial (topic)
+review
+systemic therapy
+LA  - English
+M3  - Review
+N1  - L373611538
+2014-08-01
+2014-08-08
+PY  - 2014
+SN  - 1532-1967
+0305-7372
+SP  - 2013
+ST  - Systemic treatments for brain metastases from breast cancer, non-small cell lung cancer, melanoma and renal cell carcinoma: An overview of the literature
+T2  - Cancer Treatment Reviews
+TI  - Systemic treatments for brain metastases from breast cancer, non-small cell lung cancer, melanoma and renal cell carcinoma: An overview of the literature
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L373611538&from=export
+http://dx.doi.org/10.1016/j.ctrv.2014.05.007
+VL  - 40
+ID  - 9998
+ER  - 
+
+TY  - JOUR
+AB  - The frequency of metastatic brain tumors has increased over recent years; the primary tumors most involved are breast cancer, lung cancer, melanoma and renal cell carcinoma. While radiation therapy and surgery remain the mainstay treatment in selected patients, new molecular drugs have been developed for brain metastases. Studies so far report interesting results. This review focuses on systemic cytotoxic drugs and, in particular, on new targeted therapies and their clinically relevant activities in brain metastases from solid tumors in adults. (C) 2014 Elsevier Ltd. All rights reserved.
+AD  - [Lombardi, Giuseppe; Farina, Patrizia; Zagonel, Vittorina] Veneto Inst Oncol IOV IRCCS, Padua, Italy; [Di Stefano, Anna Luisa] Grp Hosp Pitie Salpetriere, AP HP, Serv Neurol, F-75013 Paris, France; [Di Stefano, Anna Luisa] Univ Pavia, Natl Neurol Inst C Mondino, I-27100 Pavia, Italy; [Tabouret, Emeline] Timone Hosp, APHM, Marseille, France; [Tabouret, Emeline] Aix Marseille Univ, CRO2, UMR911, Marseille, France
+Veneto Inst Oncol IRCCS, Via Gattamelata 64, I-35128 Padua, Italy
+giuseppe.lombardi@ioveneto.it
+AN  - WOS:000340851900008
+AU  - Lombardi, G.
+AU  - Di Stefano, A. L.
+AU  - Farina, P.
+AU  - Zagonel, V.
+AU  - Tabouret, E.
+DA  - Sep
+DO  - 10.1016/j.ctrv.2014.05.007
+DP  - Web of Science
+IS  - 8
+J2  - Cancer Treat. Rev.
+KW  - Brain metastases
+Melanoma
+Lung cancer
+Breast cancer
+Renal cell carcinoma
+PHASE-II TRIAL
+TYROSINE KINASE INHIBITORS
+DISSEMINATED MALIGNANT-MELANOMA
+LAPATINIB PLUS CAPECITABINE
+CYTOKINE WORKING GROUP
+OPEN-LABEL
+RADIATION-THERAPY
+SOLID TUMORS
+CEREBRAL METASTASES
+TARGETED THERAPY
+LA  - English
+M3  - Review
+N1  - 51
+24909312
+PY  - 2014
+SN  - 0305-7372
+SP  - 951-959
+ST  - Systemic treatments for brain metastases from breast cancer, non-small cell lung cancer, melanoma and renal cell carcinoma: An overview of the literature
+T2  - Cancer Treatment Reviews
+TI  - Systemic treatments for brain metastases from breast cancer, non-small cell lung cancer, melanoma and renal cell carcinoma: An overview of the literature
+VL  - 40
+ID  - 16821
+ER  - 
+

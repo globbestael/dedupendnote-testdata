@@ -1,0 +1,63 @@
+TY  - JOUR
+AB  - The proceedings contain 16 papers. The special focus in this conference is on Cancer Prevention through Early Detection. The topics include: Active Data Enrichment by Learning What to Annotate in Digital Pathology; comparing Training Strategies Using Multi-Assessor Segmentation Labels for Barrett’s Neoplasia Detection; improved Pancreatic Tumor Detection by Utilizing Clinically-Relevant Secondary Features; Strategising Template-Guided Needle Placement for MR-targeted Prostate Biopsy; semantic-Aware Registration with Weakly-Supervised Learning; self-supervised Approach for a Fully Assistive Esophageal Surveillance: Quality, Anatomy and Neoplasia Guidance; Multi-scale Deformable Transformer for the Classification of Gastric Glands: The IMGL Dataset; parallel Classification of Cells in Thinprep Cytology Test Image for Cervical Cancer Screening; lightweight Transformer Backbone for Medical Object Detection; contrastive and Attention-Based Multiple Instance Learning for the Prediction of Sentinel Lymph Node Status from Histopathologies of Primary Melanoma Tumours; knowledge Distillation with a Class-Aware Loss for Endoscopic Disease Detection; IF3: An Interpretable Feature Fusion Framework for Lesion Risk Assessment Based on Auto-constructed Fuzzy Cognitive Maps; A CAD System for Real-Time Characterization of Neoplasia in Barrett’s Esophagus NBI Videos; preface.
+DA  - 2022
+DB  - Scopus
+J2  - Lect. Notes Comput. Sci.
+LA  - English
+PY  - 2022
+SN  - 03029743 (ISSN); 978-303117978-5 (ISBN)
+ST  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+TI  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140464887&partnerID=40&md5=9d9946b2728e821bbc25570f6f2e6338
+VL  - 13581 LNCS
+ID  - 459
+ER  - 
+
+TY  - JOUR
+AB  - The proceedings contain 16 papers. The special focus in this conference is on Cancer Prevention through Early Detection. The topics include: Active Data Enrichment by Learning What to Annotate in Digital Pathology; comparing Training Strategies Using Multi-Assessor Segmentation Labels for Barrett’s Neoplasia Detection; improved Pancreatic Tumor Detection by Utilizing Clinically-Relevant Secondary Features; Strategising Template-Guided Needle Placement for MR-targeted Prostate Biopsy; semantic-Aware Registration with Weakly-Supervised Learning; self-supervised Approach for a Fully Assistive Esophageal Surveillance: Quality, Anatomy and Neoplasia Guidance; Multi-scale Deformable Transformer for the Classification of Gastric Glands: The IMGL Dataset; parallel Classification of Cells in Thinprep Cytology Test Image for Cervical Cancer Screening; lightweight Transformer Backbone for Medical Object Detection; contrastive and Attention-Based Multiple Instance Learning for the Prediction of Sentinel Lymph Node Status from Histopathologies of Primary Melanoma Tumours; knowledge Distillation with a Class-Aware Loss for Endoscopic Disease Detection; IF3: An Interpretable Feature Fusion Framework for Lesion Risk Assessment Based on Auto-constructed Fuzzy Cognitive Maps; A CAD System for Real-Time Characterization of Neoplasia in Barrett’s Esophagus NBI Videos; preface.
+DA  - 2022
+DB  - Scopus
+J2  - Lect. Notes Comput. Sci.
+LA  - English
+PY  - 2022
+SN  - 03029743 (ISSN); 978-303117978-5 (ISBN)
+ST  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+TI  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140464887&partnerID=40&md5=9d9946b2728e821bbc25570f6f2e6338
+VL  - 13581 LNCS
+ID  - 3361
+ER  - 
+
+TY  - JOUR
+AB  - The proceedings contain 16 papers. The special focus in this conference is on Cancer Prevention through Early Detection. The topics include: Active Data Enrichment by Learning What to Annotate in Digital Pathology; comparing Training Strategies Using Multi-Assessor Segmentation Labels for Barrett’s Neoplasia Detection; improved Pancreatic Tumor Detection by Utilizing Clinically-Relevant Secondary Features; Strategising Template-Guided Needle Placement for MR-targeted Prostate Biopsy; semantic-Aware Registration with Weakly-Supervised Learning; self-supervised Approach for a Fully Assistive Esophageal Surveillance: Quality, Anatomy and Neoplasia Guidance; Multi-scale Deformable Transformer for the Classification of Gastric Glands: The IMGL Dataset; parallel Classification of Cells in Thinprep Cytology Test Image for Cervical Cancer Screening; lightweight Transformer Backbone for Medical Object Detection; contrastive and Attention-Based Multiple Instance Learning for the Prediction of Sentinel Lymph Node Status from Histopathologies of Primary Melanoma Tumours; knowledge Distillation with a Class-Aware Loss for Endoscopic Disease Detection; IF3: An Interpretable Feature Fusion Framework for Lesion Risk Assessment Based on Auto-constructed Fuzzy Cognitive Maps; A CAD System for Real-Time Characterization of Neoplasia in Barrett’s Esophagus NBI Videos; preface.
+DA  - 2022
+DB  - Scopus
+J2  - Lect. Notes Comput. Sci.
+LA  - English
+PY  - 2022
+SN  - 03029743 (ISSN); 978-303117978-5 (ISBN)
+ST  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+TI  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140464887&partnerID=40&md5=9d9946b2728e821bbc25570f6f2e6338
+VL  - 13581 LNCS
+ID  - 6113
+ER  - 
+
+TY  - JOUR
+AB  - The proceedings contain 16 papers. The special focus in this conference is on Cancer Prevention through Early Detection. The topics include: Active Data Enrichment by Learning What to Annotate in Digital Pathology; comparing Training Strategies Using Multi-Assessor Segmentation Labels for Barrett’s Neoplasia Detection; improved Pancreatic Tumor Detection by Utilizing Clinically-Relevant Secondary Features; Strategising Template-Guided Needle Placement for MR-targeted Prostate Biopsy; semantic-Aware Registration with Weakly-Supervised Learning; self-supervised Approach for a Fully Assistive Esophageal Surveillance: Quality, Anatomy and Neoplasia Guidance; Multi-scale Deformable Transformer for the Classification of Gastric Glands: The IMGL Dataset; parallel Classification of Cells in Thinprep Cytology Test Image for Cervical Cancer Screening; lightweight Transformer Backbone for Medical Object Detection; contrastive and Attention-Based Multiple Instance Learning for the Prediction of Sentinel Lymph Node Status from Histopathologies of Primary Melanoma Tumours; knowledge Distillation with a Class-Aware Loss for Endoscopic Disease Detection; IF3: An Interpretable Feature Fusion Framework for Lesion Risk Assessment Based on Auto-constructed Fuzzy Cognitive Maps; A CAD System for Real-Time Characterization of Neoplasia in Barrett’s Esophagus NBI Videos; preface.
+DA  - 2022
+DB  - Scopus
+J2  - Lect. Notes Comput. Sci.
+LA  - English
+PY  - 2022
+SN  - 03029743 (ISSN); 978-303117978-5 (ISBN)
+ST  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+TI  - 1st International Workshop on Cancer Prevention through Early Detection, CaPTion 2022, held in conjunction with the 25th International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140464887&partnerID=40&md5=9d9946b2728e821bbc25570f6f2e6338
+VL  - 13581 LNCS
+ID  - 9964
+ER  - 

@@ -1,0 +1,49 @@
+TY  - CONF
+AB  - Schizophrenia (SZ) is a complex disease caused by a lot genetic variants, epigenetic and brain region abnormalities. In this study, we adopted a joint nonnegative matrix factorization method to integrate three datasets including single nucleotide polymorphism (SNP), brain activity measured by functional magnetic resonance imaging (fMRI) and DNA Methylation to identify multi-dimensional modules associated with SZ. They are then used to study the coordination between regulatory mechanisms at multiple levels. This method projects multiple types of data onto a common feature space, in which heterogeneous variables with large coefficients on the same projected bases form a multi-dimensional module. The genomic factors in such modules have significant correlations and likely functional associations with brain activities. We applied this method to the real data analysis and identified multi-dimensional modules including SNP, fMRI and DNA methylation sites. These selected biomarkers were finally used to identify genes and voxels, which were confirmed to be significantly associated with SZ.
+AU  - Wang, M.
+AU  - Huang, T. Z.
+AU  - Calhoun, V. D.
+AU  - Fang, J.
+AU  - Wang, Y. P.
+CA  - In_database
+DB  - Scopus
+DO  - 10.1109/ICASSP.2017.7952323
+L1  - internal-pdf://3467716029/Wang-2017-Integration of multiple genomic imag.pdf
+N1  - Export Date: 28 March 2018
+PY  - 2017
+SP  - 1083-1087
+ST  - Integration of multiple genomic imaging data for the study of schizophrenia using joint nonnegative matrix factorization
+T2  - ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings
+TI  - Integration of multiple genomic imaging data for the study of schizophrenia using joint nonnegative matrix factorization
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023754224&doi=10.1109%2fICASSP.2017.7952323&partnerID=40&md5=53d2b2e4c50ceff0cbaf25a7e3a2b128
+http://ieeexplore.ieee.org/ielx7/7943262/7951776/07952323.pdf?tp=&arnumber=7952323&isnumber=7951776
+ID  - 130
+ER  - 
+
+TY  - CHAP
+AB  - Schizophrenia (SZ) is a complex disease caused by a lot genetic variants, epigenetic and brain region abnormalities. In this study, we adopted a joint nonnegative matrix factorization method to integrate three datasets including single nucleotide polymorphism (SNP), brain activity measured by functional magnetic resonance imaging (fMRI) and DNA Methylation to identify multi-dimensional modules associated with SZ. They are then used to study the coordination between regulatory mechanisms at multiple levels. This method projects multiple types of data onto a common feature space, in which heterogeneous variables with large coefficients on the same projected bases form a multi-dimensional module. The genomic factors in such modules have significant correlations and likely functional associations with brain activities. We applied this method to the real data analysis and identified multi-dimensional modules including SNP, fMRI and DNA methylation sites. These selected biomarkers were finally used to identify genes and voxels, which were confirmed to be significantly associated with SZ.
+AN  - WOS:000414286201054
+AU  - Wang, M.
+AU  - Huang, T. Z.
+AU  - Calhoun, V. D.
+AU  - Fang, J.
+AU  - Wang, Y. P.
+AU  - Ieee
+N1  - Wang, Min Huang, Ting-Zhu Calhoun, Vince D. Fang, Jian Wang, Yu-Ping
+Icassp
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Mar 05-09, 2017
+New Orleans, LA
+IEEE, Inst Elect & Elect Engineers, Signal Proc Soc
+1520-6149
+PY  - 2017
+SN  - 978-1-5090-4117-6
+SP  - 1083-1087
+ST  - INTEGRATION OF MULTIPLE GENOMIC IMAGING DATA FOR THE STUDY OF SCHIZOPHRENIA USING JOINT NONNEGATIVE MATRIX FACTORIZATION
+T2  - 2017 Ieee International Conference on Acoustics, Speech and Signal Processing
+T3  - International Conference on Acoustics Speech and Signal Processing ICASSP
+TI  - INTEGRATION OF MULTIPLE GENOMIC IMAGING DATA FOR THE STUDY OF SCHIZOPHRENIA USING JOINT NONNEGATIVE MATRIX FACTORIZATION
+UR  - <Go to ISI>://WOS:000414286201054
+ID  - 1623
+ER  - 
+

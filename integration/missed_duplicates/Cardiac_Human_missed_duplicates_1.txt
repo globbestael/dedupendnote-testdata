@@ -1,0 +1,98 @@
+TY  - JOUR
+AN  - 21294377
+CA  - In_database
+DA  - Jan
+DO  - 10.1258/ebm.2010.011f01
+DP  - NLM
+ET  - 2011/02/08
+IS  - 1
+J2  - Experimental biology and medicine (Maywood, N.J.)
+KW  - Animals
+Ischemic Preconditioning
+Myocardial Infarction/drug therapy/ prevention & control
+Nitric Oxide Synthase Type II/physiology
+PPAR alpha/ drug effects/physiology
+PPAR gamma/ drug effects/physiology
+LA  - eng
+N1  - Comment
+England
+Exp Biol Med (Maywood). 2011 Jan;236(1):viii.
+PY  - 2011
+SN  - 1535-3699 (Electronic)
+1535-3699 (Linking)
+SP  - viii
+ST  - Activation of peroxisome-proliferator-receptor alpha and gamma mediates remote ischemic preconditioning against myocardial infarction
+T2  - Exp Biol Med (Maywood)
+TI  - Activation of peroxisome-proliferator-receptor alpha and gamma mediates remote ischemic preconditioning against myocardial infarction
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21294377
+VL  - 236
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - Remote ischemic preconditioning (remote IPC) elicits a protective cardiac phenotype against myocardial ischemic injury. The remote stimulus has been hypothesized to act on major signaling pathways; however, its molecular targets remain largely undefined. We hypothesized that remote IPC exerts its effects by activating the peroxisome-proliferator-activated receptors (PPARs) alpha and gamma, which have been previously implicated in cardioprotective signaling. Male New Zealand white rabbits (n = 78) were subjected to a 30-min coronary artery occlusion followed by three hours of reperfusion. Three cycles of remote IPC consisting of 10-min renal ischemia/reperfusion were performed. The animals either received the PPARalpha-antagonist GW6471 or the PPARgamma-antagonist GW9662 alone or combined with remote IPC. Infarct size was determined gravimetrically. Tissue levels of 15d-prostaglandin J(2) (15d-PGJ(2)), as well as the PPAR DNA binding were measured using specific assays. Reverse transcriptase polymerase chain reaction was used to analyze changes in endothelial nitric oxide synthase or inducible nitric oxide synthase (iNOS) mRNA expression in relative quantity (RQ). Data are mean +/- SD. As a result, remote IPC significantly reduced the myocardial infarct size (42.2 +/- 4.9%* versus 61 +/- 1.9%), accompanied by an increased PPAR DNA-binding (189.6 +/- 19.8RLU* versus 44.4 +/- 9RLU), increased iNOS expression (3.5 +/- 1RQ* versus 1RQ), as well as 15d-PGJ(2) levels (179.7 +/- 7.9 pg/mL* versus 127.9 +/- 7.6 pg/mL). The protective response elicited by remote IPC, as well as the accompanying molecular changes were abolished by inhibiting PPARalpha (56.8 +/- 4.7%; 61.1 +/- 14.2RLU; and 1.91 +/- 0.96RQ, respectively) or PPARgamma (57.4 +/- 3.3%; 52.7 +/- 16.9RLU; and 1.54 +/- 0.25RQ, respectively). (*Significantly different from control P < 0.05). In conclusion, the obtained results indicate that both PPARalpha and PPARgamma play an essential role in remote IPC against myocardial infarction, impinging on the transcriptional control of iNOS expression.
+AD  - Department of Anesthesiology, Bayerische Julius-Maximilians-Universitat, Wurzburg, Germany. Lotz_C@klinik.uni-wuerzburg.de
+AN  - 21163821
+AU  - Lotz, C.
+AU  - Lazariotto, M.
+AU  - Redel, A.
+AU  - Smul, T. M.
+AU  - Stumpner, J.
+AU  - Blomeyer, C.
+AU  - Tischer-Zeitz, T.
+AU  - Schmidt, J.
+AU  - Pociej, J.
+AU  - Roewer, N.
+AU  - Kehl, F.
+AU  - Lange, M.
+CA  - In_database
+DA  - Jan
+DO  - 10.1258/ebm.2010.010210
+DP  - NLM
+ET  - 2010/12/18
+IS  - 1
+J2  - Experimental biology and medicine (Maywood, N.J.)
+KW  - Anilides/pharmacology
+Animals
+Ischemic Preconditioning, Myocardial/ methods
+Male
+Myocardial Infarction/metabolism/physiopathology/ prevention & control
+Myocardial Reperfusion Injury/metabolism/physiopathology/prevention & control
+Nitric Oxide Synthase/metabolism
+Nitric Oxide Synthase Type II/metabolism
+Oxazoles/pharmacology
+PPAR alpha/antagonists & inhibitors/metabolism/ physiology
+PPAR gamma/antagonists & inhibitors/metabolism/ physiology
+Prostaglandin D2/analogs & derivatives/metabolism
+RNA, Messenger/metabolism
+Rabbits
+Reverse Transcriptase Polymerase Chain Reaction
+Tyrosine/analogs & derivatives/pharmacology
+LA  - eng
+N1  - Lotz, Christopher
+Lazariotto, Maria
+Redel, Andreas
+Smul, Thorsten M
+Stumpner, Jan
+Blomeyer, Christoph
+Tischer-Zeitz, Tobias
+Schmidt, Johannes
+Pociej, Joanna
+Roewer, Norbert
+Kehl, Franz
+Lange, Markus
+Research Support, Non-U.S. Gov't
+England
+Exp Biol Med (Maywood). 2011 Jan;236(1):113-22. doi: 10.1258/ebm.2010.010210. Epub 2010 Dec 16.
+PY  - 2011
+SN  - 1535-3699 (Electronic)
+1535-3699 (Linking)
+SP  - 113-22
+ST  - Activation of peroxisome-proliferator-activated receptors alpha and gamma mediates remote ischemic preconditioning against myocardial infarction in vivo
+T2  - Exp Biol Med (Maywood)
+TI  - Activation of peroxisome-proliferator-activated receptors alpha and gamma mediates remote ischemic preconditioning against myocardial infarction in vivo
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21163821
+VL  - 236
+ID  - 2198
+ER  - 
+

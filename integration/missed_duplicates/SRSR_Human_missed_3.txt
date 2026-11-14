@@ -1,0 +1,55 @@
+TY  - CHAP
+A2  - Kittler, J. T.
+A2  - Moss, S. J.
+AB  - Over the last 10 years, large-scale genomic sequencing has resulted in the completion of the mouse and human genomes and those of several invertebrate model organisms, including the nematode worm and fruit fly. Of the approximately 30,000 proteins that are likely to exist in a particular mammalian genome, as many as 30% of these are estimated to be represented in the brain. However, reductionist approaches (such as one gene or one protein at a time) have to date provided functional information for only 10 to 15% of predicted proteins. Consequently, a large gap exists between the number of known genes and the identification of the corresponding proteins' function. Similarly, the synaptic function is not known for the vast majority of all proteins expressed in the brain, or even the 500 to 1000 components of the post-synaptic density (PSD) revealed by proteomic analyses [1-6]. Therefore, one long-term goal of neuroscience research is to understand the role each and every gene plays in regulating aspects of nervous system function and synaptic physiology. The availability of genomic data sets is greatly facilitating the implementation of additional genome-wide projects, providing new research tools and reagents to the wider scientific community. Although varied in approach, these programs have all benefited from the availability of genomic sequence information and have the common goal of determining functions for the entire set of genes of a particular organism. These resources therefore have direct applicability to gene function determination in the nervous system. Several of the many projects include: the identification and cataloguing of the entire collection of expressed proteins (transcriptome) for a particular organism, including human, mouse, rat, fly and worm, and the determination of their expression pattern and subcellular localization; the identification of the protein constituents (proteome) of particular tissues, cell types or subcellular compartments (for instance, the PSD); the systematic identification of the entire complement of protein-protein interactions for a particular organism or biological process within that organism; the systematic knockdown/disruption of every gene in a particular organism by RNA interference (RNAi) or gene knockout approaches; and the production of large sets of physiologically relevant mutant phenotypes in several model organisms, including the mouse. These ongoing projects are beginning to provide new data sets and resources that can be directly accessed by the neuroscience community and which, over the next few years, will provide an expanding source of information and reagents that can be directly implemented into studies of neuronal physiology. The availability and standardization of such datasets will benefit biologists in the long term, whereby less time producing similar reagents on a small scale will be required. In addition, these resources will also allow a system's biology approach to understanding brain function and the regulation of the synapse [7]. Here, we review some of the newly available genomic and post-genomic resources, which could have a direct relevance for current and future studies of synapse biology.
+AN  - 21204472
+AU  - Kittler, J. T.
+AU  - Oliver, P. L.
+CY  - Boca Raton (FL)
+LA  - eng
+N1  - Kittler, Josef T
+Moss, Stephen J
+Kittler, Josef T.
+Oliver, Peter L.
+Review
+Book Chapter
+NBK2546 [bookaccession]
+PB  - CRC Press/Taylor & Francis
+Taylor & Francis Group, LLC.
+PY  - 2006
+ST  - Frontiers in Neuroscience
+Genomic and Post-Genomic Tools for Studying Synapse Biology
+T2  - The Dynamic Synapse: Molecular Methods in Ionotropic Receptor Biology
+TI  - Frontiers in Neuroscience
+Genomic and Post-Genomic Tools for Studying Synapse Biology
+ID  - 17423
+ER  - 
+
+TY  - CHAP
+A2  - Kittler, J. T.
+A2  - Moss, S. J.
+AB  - A major challenge in neurobiology is to better understand the physiological role of the protein-protein interactions and post-translational modifications important for regulating the activity and plasticity of synapses. A significant effort has been undertaken over the past 10 years to identify the protein components of the post-synaptic domain and the protein machinery important for regulating the activity of the neurotransmitter receptors that mediate the electrophysiological responses responsible for synaptic activity. Of significant contribution to this effort has been the systematic identification of the protein constituents and protein-protein interactions of the synapse, using proteomic and yeast two-hybrid approaches and the identification and characterization of the signalling pathways, enzymes and synaptic substrates of particular receptor post-translational modifications (such as phosphorylation, palmitoylation, ubiquitination and nitrosylation) important in the regulation of neurotransmitter receptor activity and synaptic plasticity [1-5]. Essential to the functional characterization of the molecular machinery important for regulating synapse development, synaptic transmission and synaptic plasticity has been the development of methods for altering the constituents of a neuron either genetically or by changing the activity of a protein of interest. Although homologous recombination in embryonic stem (ES) cells is now a standard method to mutate the germ line of mice and hence interfere with the activity of a particular gene of interest [6], this approach still has several limitations. These include the high costs of producing and maintaining transgenic animals, complications due to embryonic lethality and the potential consequences on nervous-system development of introducing into the animal a particular mutation. Other potential limitations include genetic compensation, spatial and temporal specificity and the restriction of working with mouse tissues. As a consequence, a significant effort has been directed toward developing and improving methods for introducing biological agents (including DNA, proteins, antibodies and biologically active or protein-protein interaction-blocking peptides) into either single or large populations of neurons. Here, we consider some techniques that have emerged for transfecting and transducing neurons with DNA and biologically active macromolecules. We focus, in particular, on the use of these approaches for studying the molecular mechanisms important for regulating the activity and plasticity of synapses and the functional regulation of the key ionotropic glutamate receptors (NMDA receptors, AMPA receptors and kainate receptors) and inhibitory ligand-gated ion channels (GABAA and glycine receptors) at excitatory and inhibitory synapses, respectively [1,7-10].
+AN  - 21204471
+AU  - Kittler, J. T.
+AU  - Hanley, J. G.
+AU  - Isaac, J. T. R.
+CY  - Boca Raton (FL)
+LA  - eng
+N1  - Kittler, Josef T
+Moss, Stephen J
+Kittler, Josef T.
+Hanley, Jonathan G.
+Isaac, John T. R.
+Review
+Book Chapter
+NBK2545 [bookaccession]
+PB  - CRC Press/Taylor & Francis
+Taylor & Francis Group, LLC.
+PY  - 2006
+ST  - Frontiers in Neuroscience
+Transfecting and Transducing Neurons with Synthetic Nucleic Acids and Biologically Active Macromolecules
+T2  - The Dynamic Synapse: Molecular Methods in Ionotropic Receptor Biology
+TI  - Frontiers in Neuroscience
+Transfecting and Transducing Neurons with Synthetic Nucleic Acids and Biologically Active Macromolecules
+ID  - 17424
+ER  - 

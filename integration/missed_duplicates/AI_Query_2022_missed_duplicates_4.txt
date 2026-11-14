@@ -1,0 +1,130 @@
+TY  - JOUR
+AB  - BACKGROUND: Accurate detection is essential for brain metastasis (BM) management, but manual identification is laborious. This study developed, validated, and evaluated a BM detection (BMD) system., METHODS: Five hundred seventy-three consecutive patients (10 448 lesions) with newly diagnosed BMs and 377 patients without BMs were retrospectively enrolled to develop a multi-scale cascaded convolutional network using 3D-enhanced T1-weighted MR images. BMD was validated using a prospective validation set comprising an internal set (46 patients with 349 lesions; 44 patients without BMs) and three external sets (102 patients with 717 lesions; 108 patients without BMs). The lesion-based detection sensitivity and the number of false positives (FPs) per patient were analyzed. The detection sensitivity and reading time of three trainees and three experienced radiologists from three hospitals were evaluated using the validation set., RESULTS: The detection sensitivity and FPs were 95.8% and 0.39 in the test set, 96.0% and 0.27 in the internal validation set, and ranged from 88.9% to 95.5% and 0.29 to 0.66 in the external sets. The BMD system achieved higher detection sensitivity (93.2% [95% CI, 91.6-94.7%]) than all radiologists without BMD (ranging from 68.5% [95% CI, 65.7-71.3%] to 80.4% [95% CI, 78.0-82.8%], all P < .001). Radiologist detection sensitivity improved with BMD, reaching 92.7% to 95.0%. The mean reading time was reduced by 47% for trainees and 32% for experienced radiologists assisted by BMD relative to that without BMD., CONCLUSIONS: BMD enables accurate BM detection. Reading with BMD improves radiologists' detection sensitivity and reduces their reading times. Copyright © The Author(s) 2022. Published by Oxford University Press on behalf of the Society for Neuro-Oncology.
+AU  - Yin, Shaohan
+AU  - Luo, Xiao
+AU  - Yang, Yadi
+AU  - Shao, Ying
+AU  - Ma, Lidi
+AU  - Lin, Cuiping
+AU  - Yang, Qiuxia
+AU  - Wang, Deling
+AU  - Luo, Yingwei
+AU  - Mai, Zhijun
+AU  - Fan, Weixiong
+AU  - Zheng, Dechun
+AU  - Li, Jianpeng
+AU  - Cheng, Fengyan
+AU  - Zhang, Yuhui
+AU  - Zhong, Xinwei
+AU  - Shen, Fangmin
+AU  - Shao, Guohua
+AU  - Wu, Jiahao
+AU  - Sun, Ying
+AU  - Luo, Huiyan
+AU  - Li, Chaofeng
+AU  - Gao, Yaozong
+AU  - Shen, Dinggang
+AU  - Zhang, Rong
+AU  - Xie, Chuanmiao
+DA  - 2022
+DB  - Ovid MEDLINE(R) <2022>
+DO  - 10.1093/neuonc/noac025
+IS  - 9
+J2  - Neuro-oncol
+KW  - Humans
+Retrospective Studies
+*Deep Learning
+Magnetic Resonance Imaging/mt [Methods]
+*Brain Neoplasms/dg [Diagnostic Imaging]
+*Brain Neoplasms/sc [Secondary]
+PY  - 2022
+SN  - 1523-5866
+SP  - 1559-1570
+ST  - Development and validation of a deep-learning model for detecting brain metastases on 3D post-contrast MRI: a multi-center multi-reader evaluation study
+T2  - Neuro-oncology
+TI  - Development and validation of a deep-learning model for detecting brain metastases on 3D post-contrast MRI: a multi-center multi-reader evaluation study
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med21&NEWS=N&AN=35100427
+https://libkey.io/libraries/1191/openurl?genre=article&aulast=Yin&issn=1522-8517&title=Neuro-Oncology&atitle=Development+and+validation+of+a+deep-learning+model+for+detecting+brain+metastases+on+3D+post-contrast+MRI%3A+a+multi-center+multi-reader+evaluation+study.&volume=24&issue=9&spage=1559&epage=1570&date=2022&doi=10.1093%2Fneuonc%2Fnoac025&id=pmid:35100427&sid=OVID:medline
+VL  - 24
+ID  - 12765
+ER  - 
+
+TY  - JOUR
+AB  - Background. Accurate detection is essential for brain metastasis (BM) management, but manual identification is laborious.This study developed, validated, and evaluated a BM detection (BMD) system. Methods. Five hundred seventy-three consecutive patients (10448 lesions) with newly diagnosed BMs and 377 patients without BMs were retrospectively enrolled to develop a multi-scale cascaded convolutional network using 3D-enhanced T1-weighted MR images. BMD was validated using a prospective validation set comprising an internal set (46 patients with 349 lesions; 44 patients without BMs) and three external sets (102 patients with 717 lesions; 108 patients without BMs).The lesion-based detection sensitivity and the number of false positives (FPs) per patient were analyzed.The detection sensitivity and reading time of three trainees and three experienced radiologists from three hospitals were evaluated using the validation set. Results. The detection sensitivity and FPs were 95.8% and 0.39 in the test set, 96.0% and 0.27 in the internal validation set, and ranged from 88.9% to 95.5% and 0.29 to 0.66 in the external sets.The BMD system achieved higher detection sensitivity (93.2% [95% CI, 91.6–94.7%]) than all radiologists without BMD (ranging from 68.5% [95% CI, 65.7–71.3%] to 80.4% [95% CI, 78.0–82.8%], all P < .001). Radiologist detection sensitivity improved with BMD, reaching 92.7% to 95.0%.The mean reading time was reduced by 47% for trainees and 32% for experienced radiologists assisted by BMD relative to that without BMD. Conclusions. BMD enables accurate BM detection. Reading with BMD improves radiologists’ detection sensitivity and reduces their reading times. © The Author(s) 2022. Published by Oxford University Press on behalf of the Society for Neuro-Oncology.
+AU  - Yin, S.
+AU  - Luo, X.
+AU  - Yang, Y.
+AU  - Shao, Y.
+AU  - Ma, L.
+AU  - Lin, C.
+AU  - Yang, Q.
+AU  - Wang, D.
+AU  - Luo, Y.
+AU  - Mai, Z.
+AU  - Fan, W.
+AU  - Zheng, D.
+AU  - Li, J.
+AU  - Cheng, F.
+AU  - Zhang, Y.
+AU  - Zhong, X.
+AU  - Shen, F.
+AU  - Shao, G.
+AU  - Wu, J.
+AU  - Sun, Y.
+AU  - Luo, H.
+AU  - Li, C.
+AU  - Gao, Y.
+AU  - Shen, D.
+AU  - Zhang, R.
+AU  - Xie, C.
+DA  - 2022
+DB  - Scopus
+DO  - 10.1093/neuonc/noac025
+IS  - 9
+J2  - Neuro-Oncology
+KW  - adult
+Article
+cohort analysis
+controlled study
+female
+human
+male
+middle aged
+evaluation study
+prospective study
+cancer diagnosis
+diagnostic accuracy
+nuclear magnetic resonance imaging
+retrospective study
+major clinical study
+brain metastasis
+deep learning
+sensitivity analysis
+validation process
+patient care
+convolutional neural network
+time factor
+radiologist
+MRI
+process development
+cross-sectional study
+three-dimensional imaging
+medical education
+brain damage
+brain metastases
+automatic detection
+internal validity
+T1 weighted imaging
+cascaded convolutional network
+LA  - English
+PY  - 2022
+SN  - 15228517 (ISSN)
+SP  - 1559-1570
+ST  - Development and validation of a deep-learning model g p a multi-center multi-reader evaluation study
+T2  - Neuro-Oncology
+TI  - Development and validation of a deep-learning model g p a multi-center multi-reader evaluation study
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132808185&doi=10.1093%2fneuonc%2fnoac025&partnerID=40&md5=5daac70fa0191d2a47da112e59152522
+VL  - 24
+ID  - 12373
+ER  - 
+

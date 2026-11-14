@@ -1,0 +1,40 @@
+TY  - JOUR
+AU  - Huo, X. X.
+AU  - Niu, W. W.
+AU  - Zhao, Y. W.
+AU  - Zhang, X. L.
+DO  - http://dx.doi.org/10.11569/wcjd.v27.i23.1460
+DP  - Embase_ovid
+IS  - 23
+LA  - Chinese
+PY  - 2019
+SN  - 1009-3079
+SP  - 1460-1464
+ST  - Portal vein thrombosis with superior mesenteric venous thrombosis: A case report and review of the literature
+T2  - World Chinese Journal of Digestology
+T3  - -1
+TI  - Portal vein thrombosis with superior mesenteric venous thrombosis: A case report and review of the literature
+VL  - 27
+ID  - 10772
+ER  - 
+
+TY  - JOUR
+AU  - Huo, X. X.
+AU  - Niu, W. W.
+AU  - Zhao, Y. W.
+AU  - Zhang, X. L.
+DO  - 10.11569/wcjd.v27.i23.1460
+DP  - Scopus
+IS  - 23
+J2  - World Chin. J. Dig.
+LA  - Chinese
+M3  - Article
+PY  - 2019
+SN  - 10093079 (ISSN)
+SP  - 1460-1464
+ST  - 门静脉-肠系膜上静脉广泛栓塞1例并文献复习
+T2  - World Chinese Journal of Digestology
+TI  - Portal vein thrombosis with superior mesenteric venous thrombosis: A case report and review of the literature
+VL  - 27
+ID  - 22193
+ER  - 

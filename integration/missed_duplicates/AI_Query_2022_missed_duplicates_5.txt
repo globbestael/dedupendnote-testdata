@@ -1,0 +1,32 @@
+TY  - JOUR
+AB  - The proceedings contain 16 papers. The special focus in this conference is on Applications of Medical Artificial Intelligence. The topics include: A Deep Learning-Based Interactive Medical Image Segmentation Framework; deep Neural Network Pruning for Nuclei Instance Segmentation in Hematoxylin and Eosin-Stained Histological Images; Spatial Feature Conservation Networks (SFCNs) for Dilated Convolutions to Improve Breast Cancer Segmentation from DCE-MRI; the Impact of Using Voxel-Level Segmentation Metrics on Evaluating Multifocal Prostate Cancer Localisation; OOOE: Only-One-Object-Exists Assumption to Find Very Small Objects in Chest Radiographs; wavelet Guided 3D Deep Model to Improve Dental Microfracture Detection; Deep Learning Meets Computational Fluid Dynamics to Assess CAD in CCTA; machine Learning for Dynamically Predicting the Onset of Renal Replacement Therapy in Chronic Kidney Disease Patients Using Claims Data; uncertainty-Aware Geographic Atrophy Progression Prediction from Fundus Autofluorescence; automated Assessment of Renal Calculi in Serial Computed Tomography Scans; Prediction of Mandibular ORN Incidence from 3D Radiation Dose Distribution Maps Using Deep Learning; analysis of Potential Biases on Mammography Datasets for Deep Learning Model Development; ECG-ATK-GAN: Robustness Against Adversarial Attacks on ECGs Using Conditional Generative Adversarial Networks; CADIA: A Success Story in Breast Cancer Diagnosis with Digital Pathology and AI Image Analysis.
+DA  - 2022
+DB  - Scopus
+J2  - Lect. Notes Comput. Sci.
+LA  - English
+PY  - 2022
+SN  - 03029743 (ISSN); 978-303117720-0 (ISBN)
+ST  - 1st International Workshop on Applications of Medical Artificial Intelligence, AMAI 2022, held in conjunction with the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+TI  - 1st International Workshop on Applications of Medical Artificial Intelligence, AMAI 2022, held in conjunction with the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140486492&partnerID=40&md5=610234c0050a9c44a12eac9810cc8e19
+VL  - 13540 LNCS
+ID  - 8912
+ER  - 
+
+TY  - JOUR
+AB  - The proceedings contain 15 papers. The special focus in this conference is on Computational Mathematics Modeling in Cancer Analysis. The topics include: Light Annotation Fine Segmentation: Histology Image Segmentation Based on VGG Fusion with Global Normalisation CAM; tubular Structure-Aware Convolutional Neural Networks for Organ at Risks Segmentation in Cervical Cancer Radiotherapy; automatic Computer-Aided Histopathologic Segmentation for Nasopharyngeal Carcinoma Using Transformer Framework; accurate Breast Tumor Identification Using Computational Ultrasound Image Features; is More Always Better? Effects of Patch Sampling in Distinguishing Chronic Lymphocytic Leukemia from Transformation to Diffuse Large B-Cell Lymphoma; repeatability of Radiomic Features Against Simulated Scanning Position Stochasticity Across Imaging Modalities and Cancer Subtypes: A Retrospective Multi-institutional Study on Head-and-Neck Cases; MLCN: Metric Learning Constrained Network for Whole Slide Image Classification with Bilinear Gated Attention Mechanism; NucDETR: End-to-End Transformer for Nucleus Detection in Histopathology Images; self-supervised Learning Based on a Pre-trained Method for the Subtype Classification of Spinal Tumors; CanDLE: Illuminating Biases in Transcriptomic Pan-Cancer Diagnosis; cross-Stream Interactions: Segmentation of Lung Adenocarcinoma Growth Patterns; Modality-Collaborative AI Model Ensemble for Lung Cancer Early Diagnosis; preface.
+DA  - 2022
+DB  - Scopus
+J2  - Lect. Notes Comput. Sci.
+LA  - English
+PY  - 2022
+SN  - 03029743 (ISSN); 978-303117265-6 (ISBN)
+ST  - 1st International Workshop on Computational Mathematics Modeling in Cancer Analysis, CMMCA 2022, held in conjunction with the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+TI  - 1st International Workshop on Computational Mathematics Modeling in Cancer Analysis, CMMCA 2022, held in conjunction with the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140461537&partnerID=40&md5=95a9c7bf1e54ae900a02460b394382d2
+VL  - 13574 LNCS
+ID  - 276
+ER  - 
+
