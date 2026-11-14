@@ -1,0 +1,868 @@
+﻿TY  - JOUR
+AB  - Thrombosis of the portal vein and its splanchnic tributaries is often unsuspected clinically and may be recognized only after imaging studies of the abdomen are performed for other reasons. Radiologists should be aware of the clinical situations that predispose a patient to portal or mesenteric vein thrombosis and should also be able to recognize the sequelae of chronic thrombosis. Different modalities can be used to image the patient with portal vein thrombosis; each has its strengths and drawbacks. This paper discusses the conditions that predispose to portal and mesenteric vein thrombosis, differentiating intrahepatic portal vein occlusion secondary to liver disease from extrahepatic portal vein occlusion associated with a normal liver. The imaging features of portal vein thrombosis, its associated causes and sequelae will be reviewed as demonstrated on computed tomography (CT), ultrasound, magnetic resonance imaging (MRI), angiography, and plain film.
+AD  - Department of Radiology, University of Florida College of Medicine, Gainesville.
+AN  - 1628496
+AU  - Abbitt, P. L.
+DA  - Jul-Aug
+DP  - Nlm
+ET  - 1992/07/01
+J2  - Current problems in diagnostic radiology
+KW  - Humans
+Phlebography
+Portal Vein/pathology/*radiography/surgery
+Thrombosis/pathology/*radiography/surgery
+LA  - eng
+N1  - Abbitt, P L Journal Article Review United states Curr Probl Diagn Radiol. 1992 Jul-Aug;21(4):115-47.
+PY  - 1992
+SN  - 0363-0188 (Print) 0363-0188
+SP  - 115-147
+ST  - Portal vein thrombosis: imaging features and associated etiologies
+T2  - Curr Probl Diagn Radiol
+TI  - Portal vein thrombosis: imaging features and associated etiologies
+VL  - 21
+ID  - 18513
+ER  - 
+
+TY  - JOUR
+AD  - (Abbitt) Department of Radiology, Univ. of Florida College of Medicine, Gainesville, FL, United States P.L. Abbitt, Department of Radiology, Univ. of Florida College of Medicine, Gainesville, FL, United States
+AN  - 1992252473
+AU  - Abbitt, P. L.
+DB  - Embase
+DP  - Ovid Technologies
+KW  - computer assisted tomography
+diagnostic imaging
+echography
+human
+nuclear magnetic resonance imaging
+portal vein thrombosis/di [Diagnosis]
+portal vein thrombosis/th [Therapy]
+review
+scintiscanning
+LA  - English
+M3  - Review
+PY  - 1992
+SN  - 0363-0188
+SP  - 119-147
+ST  - Portal vein thrombosis: Imaging features and associated etiologies
+T2  - Current Problems in Diagnostic Radiology
+TI  - Portal vein thrombosis: Imaging features and associated etiologies
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed2&AN=1992252473http://digitaal.uba.uva.nl:9003/uva-linker?sid=OVID:embase&id=pmid:&id=doi:&issn=0363-0188&isbn=&volume=21&issue=4&spage=119&pages=119-147&date=1992&title=Current+Problems+in+Diagnostic+Radiology&atitle=Portal+vein+thrombosis%3A+Imaging+features+and+associated+etiologies&aulast=Abbitt&pid=%3Cauthor%3EAbbitt+P.L.%3C%2Fauthor%3E%3CAN%3E1992252473%3C%2FAN%3E%3CDT%3EJournal%3A+Review%3C%2FDT%3E<7400. >
+VL  - 21
+ID  - 21666
+ER  - 
+
+TY  - JOUR
+AB  - Hepatic portal gas (HPG) has historically been associated with high (75% or over) mortality rates related to abdominal dramatic conditions and has served as an indicator for urgent exploratory laparotomy. Over the last two decades, the greater availability and higher speed of use of CT as well as improvement in the management of critically ill patients have increased the sensitivity of imaging HPG. HPG has been found associated with a broad range of diseases, some of which are benign and do not necessarily require urgent exploratory laparotomy in the absence of signs of intra-abdominal acute condition or systemic toxicity. We present a case of transient and rapidly resolving HPG found in a 61-year-old male admitted with hypovolemic shock due to upper gastrointestinal occlusion. HPG rapidly resolved after resuscitation of the patient with intensive re-hydration and drastic decompression of the fluid-full stomach through a nasogastric tube. The physiopathology and causes of HPG are briefly reviewed and its potential clinical significance is resituated.
+AD  - [Coulier, B.; Van den Broeck, S.; Coppens, J. -P.] Clin Univ St Luc, Dept Med Imaging, B-5004 Bouge, Belgium. Coulier, B (reprint author), Clin Univ St Luc, Dept Med Imaging, Rue St Luc 8, B-5004 Bouge, Belgium. bcoulier@skynet.be
+AN  - WOS:000261221400009
+AU  - Coulier, B.
+AU  - Van den Broeck, S.
+AU  - Coppens, J. P.
+DA  - Sep-Oct
+J2  - Jbr-Btr
+KW  - Intestines
+stenosis or obstruction
+VENOUS GAS
+CLINICAL-SIGNIFICANCE
+COMPUTED-TOMOGRAPHY
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: 376ZL Times Cited: 0 Cited Reference Count: 12 Coulier, B. Van den Broeck, S. Coppens, J. -P. 0 ASSOC ROYAL SOC SCIENTIFIQUES MEDICALES BELGES BRUSSELS JBR-BTR
+PY  - 2008
+SN  - 1780-2393
+SP  - 214-216
+ST  - TRANSIENT AND RAPIDLY RESOLVING INTRAHEPATIC PORTAL GAS: CT FINDINGS
+T2  - Jbr-Btr
+TI  - TRANSIENT AND RAPIDLY RESOLVING INTRAHEPATIC PORTAL GAS: CT FINDINGS
+UR  - <Go to ISI>://WOS:000261221400009
+VL  - 91
+ID  - 1779
+ER  - 
+
+TY  - JOUR
+AB  - Hepatic portal gas (HPG) has historically been associated with high (75% or over) mortality rates related to abdominal dramatic conditions and has served as an indicator for urgent exploratory laparotomy. Over the last two decades, the greater availability and higher speed of use of CT as well as improvement in the management of critically ill patients have increased the sensitivity of imaging HPG. HPG has been found associated with a broad range of diseases, some of which are benign and do not necessarily require urgent exploratory laparotomy in the absence of signs of intra-abdominal acute condition or systemic toxicity. We present a case of transient and rapidly resolving HPG found in a 61-year-old male admitted with hypovolemic shock due to upper gastrointestinal occlusion. HPG rapidly resolved after resuscitation of the patient with intensive re-hydration and drastic decompression of the fluid-full stomach through a nasogastric tube. The physiopathology and causes of HPG are briefly reviewed and its potential clinical significance is resituated.
+AD  - Department of Medical Imaging, Clinique St Luc, Rue St Luc 8, B-5004 Bouge, Belgium
+AU  - Coulier, B.
+AU  - Van den Broeck, S.
+AU  - Coppens, J. P.
+DB  - Scopus
+J2  - J. Belge Radiol.
+KW  - Intestines
+Stenosis or obstruction
+C reactive protein
+creatinine
+lactic acid
+adult
+article
+case report
+clinical feature
+computer assisted tomography
+contrast enhancement
+diarrhea
+fluid therapy
+hemoglobin blood level
+hepatic portal gas
+human
+hypovolemic shock
+image analysis
+image display
+intestine distension
+liver disease
+male
+nasogastric tube
+priority journal
+rehydration
+resuscitation
+small intestine obstruction
+stomach emptying
+vomiting
+Contrast Media
+Gases
+Humans
+Intestinal Obstruction
+Intubation, Gastrointestinal
+Liver
+Lower Body Negative Pressure
+Middle Aged
+Portal Vein
+Radiographic Image Enhancement
+Shock
+Tomography, X-Ray Computed
+LA  - English
+M3  - Article
+N1  - Export Date: 19 July 2016 CODEN: JBRAA Correspondence Address: Coulier, B.; Department of Medical Imaging, Clinique St Luc, Rue St Luc 8, B-5004 Bouge, Belgium; email: bcoulier@skynet.be Chemicals/CAS: C reactive protein, 9007-41-4; creatinine, 19230-81-0, 60-27-5; lactic acid, 113-21-3, 50-21-5; Contrast Media; Gases References: Little, A.F., Ellis, S.J., Benign hepatic portal venous gas (2003) Australas Radiol, 47, pp. 309-312; Iannitti, D.A., Gregg, S.C., Mayo-Smith, W.W., Portal venous gas detected by computed tomography: Is surgery imperative? (2003) Dig Surg, 20, pp. 306-315; Faberman, R.S., Mayo-Smith, W.W., Outcome of 17 patients with portal venous gas detected by CT (1997) AJR, 169, pp. 1535-1538; Schindera, S.T., Triller, J., Vock, P., Hoppe, H., Detection of hepatic portal venous gas: Its clinical impact and outcome (2006) Emerg Radiol, 12, pp. 164-170; Mohammed, A.H., Mohammed, A.H., Khot, U.P., Thomas, D., Portal venous gas - case report and review of the literature (2007) Anaesthesia, 62, pp. 400-404; Najafian, H., Habibi, M., Reilly, T., Hepatic portal vein gas: Clinical features and outcomes (2003) Am Surg, 69, pp. 526-529; Muscari, F., Suc, B., Lagarrigue, J., Hepatic portal venous gas: Is it always a sign of severity and surgical emergency? (1999) Chirurgie, 124, pp. 69-72; Hou, S.K., Chern, C.H., How, C.K., Hepatic portal venous gas: Clinical significance of computed tomography findings (2004) Am J Emerg Med, 22, pp. 214-218; Wiesner, W., Mortelé, K.J., Glickman, J.N., Hoon, J., Ros, P.R., Portal-venous gas unrelated to mesenteric ischemia (2002) Eur Radiol, 12, pp. 1432-1437; Furuya, Y., Yashuara, H., Ariki, K., Hepatic portal venous gas caused by blunt abdominal trauma: Is it a true ominous sign of bowel necrosis? Report of a case (2002) Surg Today, 32, pp. 655-658; Liebman, P.R., Fatten, M.T., Manny, J., Benfield, J.R., Hechtmann, H.B., Hepatic - portal venous gas in adults: Etiology, pathophysiology and clinical significance (1978) Ann Surg, 187, pp. 281-287; Griffith, J., Apostolakos, M., Salloum, R.M., Pneumatosis intestinalis and gas in the portal venous system (2006) J Gastrointest Surg, 10, pp. 781-782
+PY  - 2008
+SN  - 00217646 (ISSN)
+SP  - 214-216
+ST  - Transient and rapidly resolving intrahepatic portal gas: CT findings
+T2  - Journal Belge de Radiologie
+TI  - Transient and rapidly resolving intrahepatic portal gas: CT findings
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-56749160032&partnerID=40&md5=4b37d1ec130fcf36d0d30dde4b041107
+VL  - 91
+ID  - 1780
+ER  - 
+
+TY  - JOUR
+AB  - Aims: In this retrospective study, we evaluated the role of 18F-fluorodeoxyglucose positron emission tomography/computed tomography (18F-FDG PET/CT) in differentiating malignant from benign portal vein thrombosis (PVT) in patients with known malignant tumors. Results: The SUV<inf>max</inf> of tumor thrombus (6.37 ± 2.67) was significantly higher than that of bland thrombus (2.87 ± 1.47; P < 0.01). The sensitivities, specificities, and accuracies for the two criteria were 91.5 % and 93.6; 64.0 and 80.0 %; and 81.9 % and 88.9 %, respectively. Methods: Seventy-two patients with histologically or clinically confirmed PVT and who had undergone 18F-FDG PET/CT were included. Visual and semiquantitative analyses of PET/CT scans were performed. Metabolic activity was measured using the maximum standardized uptake value (SUV<inf>max</inf>) by drawing the region of interest at the site of thrombosis. Receiver operating characteristic analysis was conducted to identify the optimal cutoff of SUV<inf>max</inf> for detecting neoplastic thrombosis. Malignancy was defined using the following criteria: (1) visual analysis and (2) SUV<inf>max</inf> >3.35. PET/CT results were confirmed with histopathological results and clinical and imaging follow-up. Conclusion: 18F-FDG PET/CT is a promising new method for distinguishing between portal venous neoplastic thrombosis and bland thrombosis using semiquantitative analysis, with the optimal cutoff value of SUV<inf>max</inf> >3.35 as a criterion. © 2014, Springer Science+Business Media New York.
+AD  - Department of Nuclear Medicine, Changhai Hospital of Second Military Medical University, 168 Changhai Road, YangPu, Shanghai, China
+AU  - Hu, S.
+AU  - Zhang, J.
+AU  - Cheng, C.
+AU  - Liu, Q.
+AU  - Sun, G.
+AU  - Zuo, C.
+DB  - Scopus
+DO  - https://doi.org/10.1007/s00261-014-0170-5
+J2  - Abdom. Imaging
+KW  - 18F-FDG PET/CT
+Neoplastic thrombosis
+SUV<inf>max</inf>
+Tumor
+fluorodeoxyglucose f 18
+radiopharmaceutical agent
+adult
+aged
+computer assisted tomography
+diagnostic use
+differential diagnosis
+female
+human
+male
+middle aged
+multimodal imaging
+Neoplasms
+portal vein
+positron emission tomography
+procedures
+receiver operating characteristic
+reproducibility
+retrospective study
+sensitivity and specificity
+Venous Thrombosis
+very elderly
+young adult
+Aged, 80 and over
+Diagnosis, Differential
+Fluorodeoxyglucose F18
+Humans
+Positron-Emission Tomography
+Radiopharmaceuticals
+Reproducibility of Results
+Retrospective Studies
+ROC Curve
+Tomography, X-Ray Computed
+LA  - English
+M3  - Article
+N1  - Cited By :1 Export Date: 19 July 2016 CODEN: ABIME Correspondence Address: Zuo, C.; Department of Nuclear Medicine, Changhai Hospital of Second Military Medical University, 168 Changhai Road, YangPu, China Chemicals/CAS: fluorodeoxyglucose f 18, 63503-12-8; Fluorodeoxyglucose F18; Radiopharmaceuticals Funding Details: 81170435, NSFC, National Natural Science Foundation of China References: Sotiropoulos, G.C., Radtke, A., Schmitz, K.J., Molmenti, E.P., Schroeder, T., Liver transplantation in the setting of hepatocellular carcinoma and portal vein thrombosis: a challenging dilemma? (2008) Dig Dis Sci, 53 (7), pp. 1994-1999. , PID: 18080191; Sizemore, A.W., Jacobs, M.P., Mantil, J.C., Hahm, G.K., FDG uptake in inferior vena cava tumor thrombus from renal cell carcinoma on positron emission tomography (2007) Clin Nucl Med, 32 (4), pp. 309-311. , PID: 17413583; Gupta, P., Kramer, E.L., Ponzo, F., FDG uptake in tumor thrombus in inferior vena cava from rectal cancer on positron emission tomography (2005) Clin Nucl Med, 30 (5), pp. 342-343. , PID: 15827409; Kaida, H., Ishibashi, M., Kurata, S., Uchida, M., Hayabuchi, N., Tumor thrombus in the inferior vena cava from colon cancer detected by 18F-FDG–PET (2007) Ann Nucl Med, 21, pp. 185-188. , PID: 17561590; Nguyen, B.D., Pancreatic neuroendocrine tumor with portal vein tumor thrombus: PET demonstration (2005) Clin Nucl Med., 30, pp. 628-629. , PID: 16100488; Kurtovic, J., Van Der Wall, H., Riordan, S.M., FDG PET for discrimination between tumor extension and blood thrombus as a cause for portal vein thrombosis in hepatocellular carcinoma: important role in exclusion of transplant candidacy (2005) Clin Nucl Med, 30 (6), pp. 408-410. , PID: 15891293; Hanajiri, K., Mitsui, H., Maruyama, T., Kondo, Y., Shiina, S., 18F-FDG PET for hepatocellular carcinoma presenting with portal vein tumor thrombus (2005) J Gastroenterol, 40, pp. 1005-1006. , PID: 16261443; Tateishi, U., Yamaguchi, U., Terauchi, T., Maeda, T., Moriyama, N., Extraskeletal osteosarcoma: extensive tumor thrombus on fused PET–CT images (2005) Ann Nucl Med, 19 (8), pp. 729-732. , PID: 16445001; Strobel, K., Steinert, H.C., Bhure, U., Koma, A.Y., Gassmann, N., Tumour thrombus in the superior vena cava from anaplastic carcinoma of the thyroid: FDG–PET/CT imaging findings (2007) Eur J Nucl Med Mol Imaging, 34, p. 813. , COI: 1:STN:280:DC%2BD2s3kvV2lsQ%3D%3D, PID: 17225114; Lai, P., Bomanji, J.B., Mahmood, S., Nagabhushan, N., Syed, R., Detection of tumour thrombus by 18F FDG–PET/CT imaging (2007) Eur J Cancer Prev, 16, pp. 90-94. , COI: 1:CAS:528:DC%2BD2sXjt1Shtbg%3D, PID: 17220710; Davidson, T., Goitein, O., Avigdor, A., Zwas, S.T., Goshen, E., 18F-FDG–PET/CT for the diagnosis of tumor thrombosis (2009) Isr Med Assoc J, 11, p. 69Y73; Sharma, P., Kumar, R., Jeph, S., Karunanithi, S., Naswa, N., 18F-FDG PET–CT in the diagnosis of tumor thrombus: can it be differentiated from benign thrombus? (2011) Nucl Med Commun, 32, pp. 782-788. , PID: 21799368; Lee, E.Y., Khong, P.L., The value of 18F-FDG PET/contrast-enhanced CT in detection of tumor thrombus (2013) Clin Nucl Med, 38 (2), pp. 60-65; Sun, L., Guan, Y.S., Pan, W.M., Chen, G.B., Luo, Z.M., Highly metabolic thrombus of the portal vein: 18F fluorodeoxyglucose positron emission tomography/computer tomography demonstration and clinical significance in hepatocellular carcinoma (2008) World J Gastroenterol, 14 (8), pp. 1212-1217. , PID: 18300346; Connolly, G.C., Chen, R., Hyrien, O., Mantry, P., Bozorgzadeh, A., Incidence, risk factors and consequences of portal vein and systemic thromboses in hepatocellular carcinoma (2008) Thromb Res, 122 (3), pp. 299-306. , COI: 1:CAS:528:DC%2BD1cXotlWqs7w%3D, PID: 18045666; Takizawa, D., Kakizaki, S., Sohara, N., Sato, K., Takagi, H., Hepatocellular carcinoma with portal vein tumor thrombosis: clinical characteristics, prognosis, and patient survival analysis (2007) Dig Dis Sci, 52, pp. 3290-3295. , PID: 17394062; Alswat, K.A., Sanai, F.M., Altuwaijri, M., Albenmousa, A., Almadi, M., Clinical characteristics of patients with hepatocellular carcinoma in a middle eastern population (2013) Hepat Mon, 13 (5), p. e7612. , PID: 23922558; Kaufman, L.B., Yeh, B.M., Breiman, R.S., Joe, B.N., Qayyum, A., Inferior vena cava filling defects on CT and MRI (2005) Am J Roentgenol, 185, pp. 717-726; Aslam Sohaib, S.A., Teh, J., Nargund, V.H., Lumley, J.S., Hendry, W.F., Assessment of tumor invasion of the vena caval wall in renal cell carcinoma cases by magnetic resonance imaging (2002) J Urol, 167, pp. 1271-1275. , COI: 1:STN:280:DC%2BD387gvFKitQ%3D%3D, PID: 11832712; Ergen, F.B., Hussain, H.K., Caoili, E.M., Korobkin, M., Carlos, R.C., MRI for preoperative staging of renal cell carcinoma using the 1997 TNM classification: comparison with surgical and pathologic staging (2004) Am J Roentgenol, 182, pp. 217-225; Spritzer, C.E., Trotter, P., Sostman, H.D., Deep venous thrombosis: gradient-recalled-echo MR imaging changes over time—experience in 10 patients (1998) Radiology, 208 (3), pp. 631-639. , COI: 1:STN:280:DyaK1czptVSlsQ%3D%3D, PID: 9722839; Aurangabadkar, H.U., Palle, L., Ali, Z., Tumour thrombosis and patterns of fluorine-18 fluorodeoxyglucose uptake: a pictorial review (2013) Nucl Med Commun, 34, pp. 627-637. , COI: 1:CAS:528:DC%2BC3sXosFKrtLo%3D, PID: 23670102; Ichiki, M., Sakai, Y., Nango, M., Nakamura, K., Matsui, H., Experimental venous thrombi: MRI characteristics with histopathological correlation (2012) Br J Radiol, 85 (1012), pp. 331-338. , COI: 1:STN:280:DC%2BC38rgsVCntA%3D%3D, PID: 22457401; Zhuang, H., Alavi, A., 18-Fluorodeoxyglucose positron emission tomographic imaging in the detection and monitoring of infection and inflammation (2002) Semin Nucl Med, 32 (1), pp. 47-59. , PID: 11839069; Do, B., Mari, C., Biswal, S., Kalinyak, J., Quon, A., Diagnosis of aseptic deep venous thrombosis of the upper extremity in a cancer patient using F-18 FDG PET/CT (2006) Ann Nucl Med, 20, pp. 151-155. , COI: 1:STN:280:DC%2BD283gvVyrsw%3D%3D, PID: 16615425; Miceli, M., Atoui, R., Walker, R., Mahfouz, T., Mirza, N., Diagnosis of deep septic thrombophlebitis in cancer patients by F-18 FDG positron emission tomography scanning: a preliminary report (2004) J Clin Oncol, 22, pp. 1949-1956. , PID: 15143089; Probst, S., Seltzer, A., Chachoua, A., Friedman, K., Azygos venous tumor thrombus from renal cell carcinoma detected by F-18 FDG PET/CT (2010) Clin Nucl Med., 35, pp. 832-833. , PID: 20838303; Ozülker, T., Ozülker, F., Eker, O., Ozpaçaci, T., Ozcan, D., Tumour thrombus from follicular thyroid cancer detected by 18F-FDG–PET/CT (2009) Hell J Nucl Med, 12, pp. 66-67. , PID: 19330189; Sun, L., Wu, H., Pan, W.-M., Guan, Y.-S., Positron emission tomography/computed tomography with (18)F-fluorodeoxyglucose identifies tumor growth or thrombosis in the portal vein with hepatocellular carcinoma (2007) World J Gastroenterol, 13, pp. 4529-4532. , PID: 17724816; Shimoda, M., Iso, Y., Tomita, S., Fujimori, T., Murakami, K., Middle bile duct cancer with portal vein tumor thrombus (2008) World J Surg Oncol, 6, p. 48. , PID: 18471304; Beadsmoore, J., Cheow, K., Sala, E., Iomas, D.J., Gibbs, P., Hepatocellular carcinoma tumor thrombus in a re-canalised para-umbilical vein: detection by 18-fluoro-2-deoxyglucose positron emission tomography imaging (2005) Br J Radiol, 78, pp. 841-844. , COI: 1:STN:280:DC%2BD2Mvkt1Wksg%3D%3D, PID: 16110108; Kikuchi, M., Yamamoto, E., Shiomi, Y., Nakamoto, Y., Fujiwara, K., Internal and external jugular vein thrombosis with marked accumulation of FDG (2004) Br J Radiol, 77, pp. 888-890. , COI: 1:STN:280:DC%2BD2crht1Cjtw%3D%3D, PID: 15483006
+PY  - 2014
+SN  - 09428925 (ISSN)
+SP  - 1221-1227
+ST  - The role of 18F-FDG PET/CT in differentiating malignant from benign portal vein thrombosis
+T2  - Abdominal Imaging
+TI  - The role of 18F-FDG PET/CT in differentiating malignant from benign portal vein thrombosis
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937965338&partnerID=40&md5=0588a2acfbf544a81bf17d5fe4e8f520
+VL  - 39
+ID  - 3592
+ER  - 
+
+TY  - JOUR
+AD  - Department of Nuclear Medicine, Changhai Hospital of Second Military Medical University, 168 Changhai Road, YangPu, Shanghai, 200433, China, ritahsp@163.com.
+AN  - 109763010. Language: English. Entry Date: 20150814. Revision Date: 20151201. Publication Type: Journal Article
+AU  - Hu, Shengping
+AU  - Zhang, Jian
+AU  - Cheng, Chao
+AU  - Liu, Qinghua
+AU  - Sun, Gaofeng
+AU  - Zuo, Changjing
+DB  - rzh
+DO  - https://doi.org/10.1007/s00261-014-0170-5
+DP  - EBSCOhost
+KW  - Fludeoxyglucose F 18 -- Diagnostic Use
+Neoplasms -- Diagnosis
+Portal Vein
+Tomography, Emission-Computed -- Methods
+Tomography, X-Ray Computed -- Methods
+Venous Thrombosis -- Diagnosis
+Adult
+Aged
+Aged, 80 and Over
+Diagnosis, Differential
+Female
+Human
+Male
+Middle Age
+Diagnostic Imaging -- Methods
+ROC Curve
+Radiopharmaceuticals -- Diagnostic Use
+Reproducibility of Results
+Retrospective Design
+Sensitivity and Specificity
+Young Adult
+N1  - research. Journal Subset: Biomedical; Continental Europe; Europe. Special Interest: Diagnostic Imaging. NLM UID: 9303672. PMID: 24913670.
+PY  - 2014
+SN  - 0942-8925
+SP  - 1221-1227
+ST  - The role of (18)F-FDG PET/CT in differentiating malignant from benign portal vein thrombosis
+T2  - Abdominal Imaging
+TI  - The role of (18)F-FDG PET/CT in differentiating malignant from benign portal vein thrombosis
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=109763010&site=ehost-live&scope=site
+VL  - 39
+ID  - 14072
+ER  - 
+
+TY  - JOUR
+AB  - Background: Neoplastic and bland portal vein thrombi (PVT) are both common in patients with hepatocellular carcinoma (HCC). The correct discrimination of them is essential for therapeutic strategies planning and survival predicting. The current study aims to investigate the value of susceptibility-weighted imaging (SWI) in differentiating bland from neoplastic PVT in HCC patients.Methods: 20 HCC patients with bland PVT and 22 HCC patients with neoplastic PVT were imaged with non-contrast SWI at 3.0 Tesla MRI. The signal intensity (SI) of the PVT and HCC lesions in the same patients was compared on SW images. The phase values of the PVT were compared between neoplastic and bland thrombi cohorts. Receiver operator characteristics (ROC) analysis was conducted to evaluate the diagnostic ability of the phase values for neoplastic and bland thrombi discrimination.Results: 20 of 22 neoplastic PVT were judged similar SI and 2 were judged lower SI than their HCC. For 20 bland PVT, 19 were judged lower SI and 1 was judged similar SI as their HCC (P<0.001). The average phase values (0.361 ± 0.224) of the bland PVT were significantly higher than those of the neoplastic PVT (-0.328 ± 0.127, P<0.001). The AUC for phase values in differentiating bland from neoplastic PVT was 0.989. The best cut-off value was -0.195, which gave a sensitivity of 95% and a specificity of 95.5%.Conclusions: SW imaging appears to be a promising new method for distinguishing neoplastic from bland PVT. The high sensitivity and specificity suggest its high value in clinical practice. © 2014 Li et al.; licensee BioMed Central Ltd.
+AD  - Department of Radiology, Southwest Hospital, Third Military Medical University, 30 Gaotanyan Road, Chongqing, China Department of Radiology, Wayne State University, Detroit, MI, United States Department of General Surgery, Southwest Hospital, Third Military Medical University, 30 Gaotanyan Road, Chongqing, China
+AU  - Li, C.
+AU  - Hu, J.
+AU  - Zhou, D.
+AU  - Zhao, J.
+AU  - Ma, K.
+AU  - Yin, X.
+AU  - Wang, J.
+C7  - 590
+DB  - Scopus
+DO  - https://doi.org/10.1186/1471-2407-14-590
+J2  - BMC Cancer
+KW  - Hepatocellular carcinoma
+MRI
+Portal vein
+Susceptibility-weighted imaging
+Thrombosis
+adult
+aged
+Article
+clinical article
+diagnostic imaging
+diagnostic value
+disease association
+female
+human
+human tissue
+image analysis
+liver cell carcinoma
+male
+multicenter study
+outcome assessment
+phase transition
+portal vein thrombosis
+qualitative analysis
+quantitative analysis
+sensitivity and specificity
+susceptibility weighted imaging
+tissue characterization
+computer assisted tomography
+differential diagnosis
+liver tumor
+middle aged
+nuclear magnetic resonance imaging
+pathology
+procedures
+vein thrombosis
+Carcinoma, Hepatocellular
+Diagnosis, Differential
+Humans
+Liver Neoplasms
+Magnetic Resonance Imaging
+Tomography, X-Ray Computed
+Venous Thrombosis
+LA  - English
+M3  - Article
+N1  - Cited By :2 Export Date: 19 July 2016 CODEN: BCMAC Correspondence Address: Yin, X.; Department of Radiology, Southwest Hospital, Third Military Medical University, 30 Gaotanyan Road, China References: Takizawa, D., Kakizaki, S., Sohara, N., Sato, K., Takagi, H., Arai, H., Katakai, K., Mori, M., Hepatocellular carcinoma with portal vein tumor thrombosis: clinical characteristics, prognosis, and patient survival analysis (2007) Dig Dis Sci, 52, pp. 3290-3295; Pirisi, M., Avellini, C., Fabris, C., Scott, C., Bardus, P., Soardo, G., Beltrami, C.A., Bartoli, E., Portal vein thrombosis in hepatocellular carcinoma: age and sex distribution in an autopsy study (1998) J Cancer Res Clin Oncol, 124, pp. 397-400; Sakata, J., Shirai, Y., Wakai, T., Kaneko, K., Nagahashi, M., Hatakeyama, K., Preoperative predictors of vascular invasion in hepatocellular carcinoma (2008) Eur J Surg Oncol, 34, pp. 900-905; Ogren, M., Bergqvist, D., Bjorck, M., Acosta, S., Eriksson, H., Sternby, N.H., Portal vein thrombosis: prevalence, patient characteristics and lifetime risk: a population study based on 23,796 consecutive autopsies (2006) World J Gastroenterol, 12, pp. 2115-2119; Garcia-Pagan, J.C.G.M., Bosch, J., (2007) Obstruction of the portal vein, , Blackwell: Oxford, England; Aoki, J., Iguchi, Y., Kimura, K., Yamashita, S., Shibazaki, K., Terasawa, Y., Serial T2*WI studies in the acute phase of cerebral venous thrombosis (2009) Intern Med, 48, pp. 383-385; Haacke, E.M., Xu, Y., Cheng, Y.C., Reichenbach, J.R., Susceptibility weighted imaging (SWI) (2003) Magn Reson Med, 52, pp. 612-618; Haacke, E.M., Mittal, S., Wu, Z., Neelavalli, J., Cheng, Y., Susceptibility weighted imaging: technical aspects and clinical applications, part 1 (2009) AJNR Am J Neuroradiol, 30, pp. 19-30; Mittal, S., Wu, Z., Neelavalli, J., Haacke, E.M., Susceptibility-weighted imaging: technical aspects and clinical applications, part 2 (2009) AJNR Am J Neuroradiol, 30, pp. 232-325; Dai, Y., Zeng, M., Li, R., Rao, S., Chen, C., DelProposto, Z., Haacke, E.M., Renate, J., Improving detection of siderotic nodules in cirrhotic liver with a multi-breath-hold susceptibility weighted imaging technique (2011) J Magn Reson Imaging, 34, pp. 318-325; Shah, Z.K., McKernan, M.G., Hahn, P.F., Sahani, D.V., Enhancing and expansile portal vein thrombosis: value in the diagnosis of hepatocellular carcinoma in patients with multiple hepatic lesions (2007) Am J Roentgenol, 188, pp. 1320-1323; Qian, L.J., Zhu, J., Zhuang, Z.G., Xia, Q., Cheng, Y.F., Li, J.Y., Xu, J.R., Differentiation of neoplastic from bland macroscopic portal vein thrombi using dual-energy spectral CT imaging: a pilot study (2012) Eur Radiol, 22, pp. 2178-2185; Catalano, O.A., Choy, G., Zhu, A., Hahn, P.F., Sahani, D.V., Differentiation of malignant thrombus from bland thrombus of the portal vein in patients with hepatocellular carcinoma: application of diffusion-weighted MR imaging (2010) Radiology, 254, pp. 154-162; Hu, S., Zhang, J., Cheng, C., Liu, Q., Sun, G., Zuo, C., The role of 18F-FDGPET/CT in differentiatingmalignant from benignportal vein thrombosis (2014) Abdom Imaging, , Epub ahead of print. PMID: 24913670; Haacke, E.M., Ayaz, M., Khan, A., Manova, E.S., Krishnamurthy, B., Gollapalli, L., Ciulla, C., Kirsch, W., Establishing a baseline phase behavior in magnetic resonance imaging to determine normal vs. abnormal iron content in the brain (2007) J Magn Reson Imaging, 26, pp. 256-264; Minagawa, M., Makuuchi, M., Treatment of hepatocellular carcinoma accompanied by portal vein tumor thrombus (2006) World J Gastroenterol, 12, pp. 7561-7567; Minagawa, M., Makuuchi, M., Takayama, T., Ohtomo, K., Selection criteria for hepatectomy in patients with hepatocellular carcinoma and portal vein tumor thrombus (2001) Ann Surg, 233, pp. 379-384; Pawarode, A., Voravud, N., Sriuranpong, V., Kullavanijaya, P., Patt, Y.Z., Natural history of untreated primary hepatocellular carcinoma: a retrospective study of 157 patients (1998) Am J Clin Oncol, 21, pp. 386-391; Akin, O., Dixit, D., Schwartz, L., Bland and tumor thrombi in abdominal malignancies: magnetic resonance imaging assessment in a large oncologic patient population (2011) Abdom Imaging, 36, pp. 62-68; Kubo, S., Takemura, S., Yamamoto, S., Hai, S., Ichikawa, T., odai, S., Hiroji, S., Tanaka, H., Risk factors for massive blood loss during liver resection for hepatocellular carcinoma in patients with cirrhosis (2007) Hepatogastroenterology, 54, pp. 830-833; Dusenbery, D., Dodd, G.D., Carr, B.I., Percutaneous fine-needle aspiration of portal vein thrombi as a staging technique for hepatocellular carcinoma. Cytologic findings of 46 patients (1995) Cancer, 75, pp. 2057-2062; Bravo, A.A., Sheth, S.G., Chopra, S., Liver biopsy (2001) N Engl J Med, 344, pp. 495-500; Vilana, R., Bru, C., Bruix, J., Castells, A., Sole, M., Rodes, J., Fine-needle aspiration biopsy of portal vein thrombus: value in detecting malignant thrombosis (1993) Am J Roentgenol, 160, pp. 1285-1287; Rossi, S., Ghittoni, G., Ravetta, V., Torello Viera, F., Rosa, L., Serassi, M., Scabini, M., Calliada, F., Contrast-enhanced ultrasonography and spiral computed tomography in the detection and characterization of portal vein thrombosis complicating hepatocellular carcinoma (2008) Eur Radiol, 18, pp. 1749-1756; Tarantino, L., Francica, G., Sordelli, I., Esposito, F., Giorgio, A., Sorrentino, P., de Stefano, G., Sperlongano, P., Diagnosis of benign and malignant portal vein thrombosis in cirrhotic patients with hepatocellular carcinoma: color Doppler US, contrast-enhanced US, and fine-needle biopsy (2006) Abdom Imaging, 31, pp. 537-544; Tublin, M.E., Dodd, G.D., Baron, R.L., Benign and malignant portal vein thrombosis: differentiation by CT characteristics (1997) Am J Roentgenol, 168, pp. 719-723; Konrády, A., Iodine allergy-adverse reactions to contrast media (2006) Orv Hetil, 147, pp. 469-472; Weisser, G., Steil, V., Neff, K.W., Büsing, K.A., Radiology and pregnancy Principles, general requirements and exposure (2012) Radiology, 52, pp. 81-90; Rajaram, S., Exley, C.E., Fairlie, F., Matthews, S., Effect of antenatal iodinated contrast agent on neonatal thyroid function (2012) Br J Radiol, 85, pp. e238-242
+PY  - 2014
+SN  - 14712407 (ISSN)
+SP  - 590
+ST  - Differentiation of bland from neoplastic thrombus of the portal vein in patients with hepatocellular carcinoma: Application of susceptibility-weighted MR imaging
+T2  - BMC Cancer
+TI  - Differentiation of bland from neoplastic thrombus of the portal vein in patients with hepatocellular carcinoma: Application of susceptibility-weighted MR imaging
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908363891&partnerID=40&md5=9208108f0d1c353034800cede5fc5a10
+VL  - 14
+ID  - 5080
+ER  - 
+
+TY  - JOUR
+AD  - Department of Radiology, Southwest Hospital, Third Military Medical University, 30 Gaotanyan Road, Chongqing 400038, China. willyxt@163.com.
+AN  - 103841475. Language: English. Entry Date: 20150123. Revision Date: 20150710. Publication Type: Journal Article
+AU  - Li, Chuanming
+AU  - Hu, Jiani
+AU  - Zhou, Daiquan
+AU  - Zhao, Jun
+AU  - Ma, Kuansheng
+AU  - Yin, Xuntao
+AU  - Wang, Jian
+DB  - rzh
+DO  - https://doi.org/10.1186/1471-2407-14-590
+DP  - EBSCOhost
+KW  - Carcinoma, Hepatocellular -- Pathology
+Liver Neoplasms -- Pathology
+Magnetic Resonance Imaging -- Methods
+Venous Thrombosis -- Pathology
+Adult
+Aged
+Diagnosis, Differential
+Female
+Human
+Male
+Middle Age
+Portal Vein -- Pathology
+Sensitivity and Specificity
+Tomography, X-Ray Computed
+N1  - research. Journal Subset: Biomedical; Europe; UK & Ireland. Special Interest: Oncologic Care. NLM UID: 100967800. PMID: 25123782.
+PY  - 2014
+SN  - 1471-2407
+SP  - 590-590
+ST  - Differentiation of bland from neoplastic thrombus of the portal vein in patients with hepatocellular carcinoma: application of susceptibility-weighted MR imaging
+T2  - BMC Cancer
+TI  - Differentiation of bland from neoplastic thrombus of the portal vein in patients with hepatocellular carcinoma: application of susceptibility-weighted MR imaging
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=103841475&site=ehost-live&scope=site
+VL  - 14
+ID  - 15033
+ER  - 
+
+TY  - JOUR
+AD  - [Morbieu, Caroline; Languille, Laetitia; Limal, Nicolas; Loustau, Valentine; Bierling, Philippe; Mahevas, Matthieu] Hop Henri Mondor, APHP, Ctr Natl Reference Cytopenies Autoimmunes Adulte, F-94010 Creteil, France. [Morbieu, Caroline; Brunetti, Francesco; Baranes, Laurence; Languille, Laetitia; Limal, Nicolas; Loustau, Valentine; Bierling, Philippe; Michel, Marc; Godeau, Bertrand; Mahevas, Matthieu] Univ Paris Est, Creteil, France. [Brunetti, Francesco] Hop Henri Mondor, APHP, Serv Chirurg Viscerale, F-94010 Creteil, France. [Baranes, Laurence] Hop Henri Mondor, APHP, Serv Radiol, F-94010 Creteil, France. [Michel, Marc; Godeau, Bertrand] UPEC Univ, Henri Monitor Hosp, AP HP, Internal Med,French Referral Ctr Adults Immune Cy, Creteil, France.
+AN  - WOS:000368020105049
+AU  - Morbieu, C.
+AU  - Brunetti, F.
+AU  - Baranes, L.
+AU  - Languille, L.
+AU  - Limal, N.
+AU  - Loustau, V.
+AU  - Bierling, P.
+AU  - Michel, M.
+AU  - Godeau, B.
+AU  - Mahevas, M.
+DA  - Dec
+J2  - Blood
+LA  - English
+M3  - Meeting Abstract
+N1  - ISI Document Delivery No.: DA7XY Times Cited: 0 Cited Reference Count: 0 Morbieu, Caroline Brunetti, Francesco Baranes, Laurence Languille, Laetitia Limal, Nicolas Loustau, Valentine Bierling, Philippe Michel, Marc Godeau, Bertrand Mahevas, Matthieu 57th Annual Meeting of the American-Society-of-Hematology DEC 05-08, 2015 Orlando, FL Amer Soc Hematol 0 AMER SOC HEMATOLOGY WASHINGTON BLOOD
+PY  - 2015
+SN  - 0006-4971
+SP  - 3
+ST  - Portal or Splenic Vein Thrombosis after Splenectomy for Immune Cytopenia: A Retrospective Cohort Study
+T2  - Blood
+TI  - Portal or Splenic Vein Thrombosis after Splenectomy for Immune Cytopenia: A Retrospective Cohort Study
+UR  - <Go to ISI>://WOS:000368020105049
+VL  - 126
+ID  - 6060
+ER  - 
+
+TY  - JOUR
+AB  - Introduction Portal and/or splenic vein thrombosis (PVST), stemming from immune thrombocytopenia (ITP), warm autoimmune hemolytic anemia (wAIHA) or other splenic diseases, is highly associated with splenectomy complications. Although symptomatic PVST is a rare event (incidence rate 1-3%) reportedly associated to mortality, it has been shown through systematic computed tomography (CT) scans that PSVT events exist in up to 50% of splenectomized patients. The clinical significance of this finding remains unclear. Indications of anticoagulation depend on the site and extent of PSVT. The relevance of postoperative CT scanning is discussed, specifically in the context of immune cytopenia, where PSVT seems to be less frequent and less extended. We conducted a retrospective study to assess the incidence, the sites and the outcome of PSVT in ITP and wAIHA patients. Patients and methods The study was conducted between 2009 and April 2015 in a tertiary-care center for immune cytopenias (Henri Mondor Hospital, France) where postoperative CT scans are systematically performed. We analyzed splenectomized ITP or wAIHA (without underlying malignancy) adult patients undergoing a postoperative enhanced abdominal CT scan. Clinical and biological data were collected from medical records. All CT scans were reviewed by a senior radiologist using a standardized form. Results Thirty nine patients (19 men, 20 women), with a mean age of 45 years (range, 19-83), were splenectomized mostly by laparoscopic surgery (n=38), for ITP (n=30) or wAIHA (n=9). Thirty six patients (92%) had received a preventive anticoagulation treatment for a median duration of 24 post-operative days (range, 7-36). Among ITP patients, the mean preoperative platelet count was 95.6 G/L (SD: 97). ITP patients had received corticosteroids (75%), intravenous immunoglobins (43%), or thrombopoietin receptor agonists (41%) in preparation for splenectomy). The overall initial response rate at 2 months from splenectomy was 69% (ITP: 63%, wAIHA: 89 %). The CT scan was performed within 5 days on average (range: 3-12) of splenectomy. The incidence rate of PSVT was 74% (29/39), without discrimination between ITP (22/30, 73%) and wAIHA (7/9, 78%, p = 0.79) (Table 1). There were mostly distal splenic vein (dSVT) (n=14), or dSVT associated with intrahepatic portal vein thrombosis (iPVT) (n=12). There were no mesenteric vein thromboses, 1 extrahepatic portal vein (ePVT) and 1 proximal splenic vein thrombosis (pSVT). Most of the patients were asymptomatic (n=18). No significant association between PSVT and any clinical or biological characteristics such as platelet count, preoperative treatments, thrombocytosis, or efficacy of splenectomy was observed. However, PSVT patients tended to have higher spleen weights (206 g vs 102 g, p = 0.14). Thirteen of the 29 patients with a PVST were treated with a curative anticoagulation treatment for a mean duration of 11 weeks (range, 4-37). Among the 26 patients evaluable in follow-up, the rate of complete thrombosis resolution was 84% (21/26); specifically, 62% (8/13) in anticoagulated patients and 100% in the 13 non anticoagulated patients (9 dSVT, 4 iPVT+dSVT). A portal cavernoma occurred after iPVT+dSVT despite anticoagulation in the context of wAIHA. Anticoagulation complications included abdominal wall hematoma requiring transfusions (n=1) and iron deficiency anemia (n=1). Conclusion In our study, post-splenectomy PSVT was frequent and often asymptomatic, involving mostly intrahepatic portal or distal splenic veins and was resolved in half of the cases without any curative anticoagulative therapy. Our results suggest that a systematic screening of PSVT by CT scan should not be performed in absence of risk factors for thrombosis. (Table Presented).
+AD  - (Morbieu, Languille, Limal, Loustau, Bierling, Mahevas) Centre National De Reference Des Cytopenies Auto-Immunes De L'Adulte, Hopital Henri-Mondor, APHP, Creteil, France (Morbieu, Brunetti, Baranes, Languille, Limal, Loustau, Bierling, Michel, Godeau, Mahevas) Universite Paris Est, Creteil, France (Brunetti) Service De Chirurgie Viscerale, Hopital Henri-Mondor, APHP, Creteil, France (Baranes) Service De Radiologie, Hopital Henri-Mondor, APHP, Creteil, France (Michel, Godeau) Internal Medicine, Henri Mondor Hospital, AP-HP, UPEC University, Creteil, France C. Morbieu, Centre National De Reference Des Cytopenies Auto-Immunes De L'Adulte, Hopital Henri-Mondor, APHP, Creteil, France
+AN  - 72174173
+AU  - Morbieu, C.
+AU  - Brunetti, F.
+AU  - Baranes, L.
+AU  - Languille, L.
+AU  - Limal, N.
+AU  - Loustau, V.
+AU  - Bierling, P.
+AU  - Michel, M.
+AU  - Godeau, B.
+AU  - Mahevas, M.
+DA  - 03 Dec
+DB  - Embase
+DP  - Ovid Technologies
+KW  - splenic vein
+vein thrombosis
+splenectomy
+cytopenia
+cohort analysis
+American
+society
+hematology
+human
+patient
+computer assisted tomography
+anticoagulation
+idiopathic thrombocytopenic purpura
+thrombocyte count
+thrombosis
+incidence
+portal vein thrombosis
+male
+agonist
+female
+laparoscopic surgery
+mortality
+screening
+radiologist
+therapy
+transfusion
+medical record
+adult
+follow up
+France
+spleen disease
+autoimmune hemolytic anemia
+hospital
+tertiary care center
+thrombocytopenia
+thrombocytosis
+spleen weight
+preoperative treatment
+portal vein
+retrospective study
+abdominal wall
+hematoma
+iron deficiency anemia
+mesenteric vein thrombosis
+risk factor
+thrombopoietin receptor
+corticosteroid
+LA  - English
+M3  - Conference Abstract
+N1  - 57th Annual Meeting of the American Society of Hematology, ASH 2015 San Diego, CA United States. Conference Start: 20161203 Conference End: 20161206. Conference Publication: (var.pagings)
+PY  - 2015
+SN  - 0006-4971
+SP  - 3483
+ST  - Portal or splenic vein thrombosis after splenectomy for immune cytopenia: A retrospective cohort study
+T2  - Blood
+TI  - Portal or splenic vein thrombosis after splenectomy for immune cytopenia: A retrospective cohort study
+UR  - http://www.bloodjournal.org/content/126/23/3483http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed13&AN=72174173http://digitaal.uba.uva.nl:9003/uva-linker?sid=OVID:embase&id=pmid:&id=doi:&issn=0006-4971&isbn=&volume=126&issue=23&spage=3483&pages=3483&date=2015&title=Blood&atitle=Portal+or+splenic+vein+thrombosis+after+splenectomy+for+immune+cytopenia%3A+A+retrospective+cohort+study&aulast=Morbieu&pid=%3Cauthor%3EMorbieu+C.%3BBrunetti+F.%3BBaranes+L.%3BLanguille+L.%3BLimal+N.%3BLoustau+V.%3BBierling+P.%3BMichel+M.%3BGodeau+B.%3BMahevas+M.%3C%2Fauthor%3E%3CAN%3E72174173%3C%2FAN%3E%3CDT%3EJournal%3A+Conference+Abstract%3C%2FDT%3E<433. >
+VL  - 126 (23)
+ID  - 23322
+ER  - 
+
+TY  - JOUR
+AD  - University of Padua, Padua, Italy
+AN  - 106124225. Language: English. Entry Date: 20070727. Revision Date: 20150711. Publication Type: Journal Article
+AU  - Prandoni, P.
+DB  - rzh
+DP  - EBSCOhost
+KW  - Anticoagulants -- Therapeutic Use
+Venous Thrombosis -- Drug Therapy
+Venous Thrombosis -- Prevention and Control
+Venous Thromboembolism
+Hemorrhage
+Heparin, Low-Molecular-Weight
+Pulmonary Embolism -- Prevention and Control
+Recurrence
+Thrombolytic Therapy
+Warfarin -- Therapeutic Use
+N1  - abstract; commentary; tables/charts. Original Study: Schulman S, Wåhlander K, Lundström T, Clason SB, Eriksson H, THRIVE (Thrombin Inhibitor in Venous Thromboembolism) III Investigators. Secondary prevention of venous thromboembolism with the oral direct thrombin inhibitor ximelagatran. (N ENGL J MED) 10/30/2003; 349 (18): 1713-1721. Journal Subset: Biomedical; USA. NLM UID: 9608386.
+PY  - 2004
+SN  - 1356-5524
+SP  - 106-107
+ST  - Ximelagatran prevented secondary venous thromboembolism
+T2  - Evidence Based Medicine
+TI  - Ximelagatran prevented secondary venous thromboembolism
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=106124225&site=ehost-live&scope=site
+VL  - 9
+ID  - 16377
+ER  - 
+
+TY  - JOUR
+AD  - University of Padua, Padua, Italy
+AN  - 106124224. Language: English. Entry Date: 20070727. Revision Date: 20150711. Publication Type: Journal Article
+AU  - Prandoni, P.
+DB  - rzh
+DP  - EBSCOhost
+KW  - Anticoagulants -- Therapeutic Use
+Arthroplasty, Replacement, Knee
+Venous Thrombosis -- Drug Therapy
+Venous Thrombosis -- Prevention and Control
+Warfarin -- Therapeutic Use
+Venous Thromboembolism
+Anticoagulants -- Administration and Dosage
+Heparin, Low-Molecular-Weight
+Pulmonary Embolism -- Prevention and Control
+Thrombolytic Therapy
+N1  - abstract; commentary; tables/charts. Original Study: Francis CW, Berkowitz SD, Comp PC, Lieberman JR, Ginsberg JS, Paiement G, et al. Comparison of ximelagatran with warfarin for the prevention of venous thromboembolism after total knee replacement. (N ENGL J MED) 10/30/2003; 349 (18): 1703-1712. Journal Subset: Biomedical; USA. NLM UID: 9608386.
+PY  - 2004
+SN  - 1356-5524
+SP  - 106-107
+ST  - Ximelagatran reduced venous thromboembolism more than warfarin after total knee replacement
+T2  - Evidence Based Medicine
+TI  - Ximelagatran reduced venous thromboembolism more than warfarin after total knee replacement
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=106124224&site=ehost-live&scope=site
+VL  - 9
+ID  - 16378
+ER  - 
+
+TY  - JOUR
+AB  - Splanchnic vein thrombosis (SVT) refers to Budd-Chiari syndrome (BCS) and portal vein system thrombosis (PVST). Current practice guidelines have recommended the routine screening for antiphospholipid antibodies (APAs) in patients with SVT. A systematic review and meta-analysis of observational studies was performed to explore the association between APAs and SVT. The PubMed, EMBASE, and ScienceDirect databases were searched for all relevant papers, in which the prevalence of positive APAs or levels of APAs should be compared between BCS or noncirrhotic PVST patients versus healthy controls, or between cirrhotic patients with portal vein thrombosis (PVT) versus those without PVT. Fourteen studies were eligible. Only 1 study evaluated the role of APAs in BCS patients and found that positive immunoglobulin (Ig) G anticardiolipin antibody (aCL) was more frequently observed in BCS patients than in healthy controls; however, the associations of other APAs with BCS were not evaluated. Positive IgG aCL was more frequently observed in noncirrhotic patients with PVST than in healthy controls; however, other APAs, such as IgM aCL, lupus anticoagulants (LAs), anti-β2-glycoprotein-I antibody (aβ2GPI), and aβ2GPI-oxidized low-density lipoprotein antibody (ox-LDL) were not associated with noncirrhotic PVST. Positive unclassified aCL was more frequently observed in cirrhotic patients with PVT than in those without PVT; however, the association of IgG aCL and IgM aCL with the development of PVT in liver cirrhosis remained inconsistent among studies. The risk of BCS and noncirrhotic PVST might be increased by positive IgG aCL but not IgM aCL, LA, aβ2GPI, or aβ2GPI ox-LDL. However, the evidence regarding APAs in BCS originated from only 1 study. The association between APAs and PVT in liver cirrhosis was unclear.
+AD  - From the Department of Gastroenterology (XQ, XG), General Hospital of Shenyang Military Area, Shenyang; Xijing Hospital of Digestive Diseases (XQ, MB, DF), Fourth Military Medical University, Xi'an, China; Institute of Hematology (VDS), Catholic University, Rome, Italy; and Library of Fourth Military Medical University (CS), Xi'an, China
+AU  - Qi, X.
+AU  - De Stefano, V.
+AU  - Su, C.
+AU  - Bai, M.
+AU  - Guo, X.
+AU  - Fan, D.
+DB  - Scopus
+DO  - https://doi.org/10.1097/md.0000000000000496
+J2  - Medicine (Baltimore)
+KW  - beta2 glycoprotein 1
+immunoglobulin
+low density lipoprotein
+phospholipid antibody
+blood
+Budd Chiari syndrome
+human
+immunology
+liver cirrhosis
+meta analysis
+portal vein
+vein thrombosis
+Antibodies, Antiphospholipid
+beta 2-Glycoprotein I
+Budd-Chiari Syndrome
+Humans
+Immunoglobulins
+Lipoproteins, LDL
+Venous Thrombosis
+LA  - English
+M3  - Article
+N1  - Cited By :2 Export Date: 19 July 2016 Chemicals/CAS: immunoglobulin, 9007-83-4; Antibodies, Antiphospholipid; beta 2-Glycoprotein I; Immunoglobulins; Lipoproteins, LDL
+PY  - 2015
+SN  - 15365964 (ISSN)
+SP  - e496
+ST  - Associations of antiphospholipid antibodies with splanchnic vein thrombosis: a systematic review with meta-analysis
+T2  - Medicine
+TI  - Associations of antiphospholipid antibodies with splanchnic vein thrombosis: a systematic review with meta-analysis
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84924398865&partnerID=40&md5=bc1a76c7f3883218103fffd7c1b5809b
+VL  - 94
+ID  - 7120
+ER  - 
+
+TY  - JOUR
+AB  - Splanchnic vein thrombosis (SVT) refers to Budd-Chiari syndrome (BCS) and portal vein system thrombosis (PVST). Current practice guidelines have recommended the routine screening for antiphospholipid antibodies (APAs) in patients with SVT. A systematic review and meta-analysis of observational studies was performed to explore the association between APAs and SVT. The PubMed, EMBASE, and ScienceDirect databases were searched for all relevant papers, in which the prevalence of positive APAs or levels of APAs should be compared between BCS or noncirrhotic PVST patients versus healthy controls, or between cirrhotic patients with portal vein thrombosis (PVT) versus those without PVT. Fourteen studies were eligible. Only 1 study evaluated the role of APAs in BCS patients and found that positive immunoglobulin (Ig) G anticardiolipin antibody (aCL) was more frequently observed in BCS patients than in healthy controls; however, the associations of other APAs with BCS were not evaluated. Positive IgG aCL was more frequently observed in noncirrhotic patients with PVST than in healthy controls; however, other APAs, such as IgM aCL, lupus anticoagulants (LAs), anti-β2-glycoprotein-I antibody (aβ2GPI), and aβ2GPI-oxidized low-density lipoprotein antibody (ox-LDL) were not associated with noncirrhotic PVST. Positive unclassified aCL was more frequently observed in cirrhotic patients with PVT than in those without PVT; however, the association of IgG aCL and IgM aCL with the development of PVT in liver cirrhosis remained inconsistent among studies. The risk of BCS and noncirrhotic PVST might be increased by positive IgG aCL but not IgM aCL, LA, aβ2GPI, or aβ2GPI ox-LDL. However, the evidence regarding APAs in BCS originated from only 1 study. The association between APAs and PVT in liver cirrhosis was unclear.
+AD  - From the Department of Gastroenterology (XQ, XG), General Hospital of Shenyang Military Area, Shenyang; Xijing Hospital of Digestive Diseases (XQ, MB, DF), Fourth Military Medical University, Xi'an, China; Institute of Hematology (VDS), Catholic University, Rome, Italy; and Library of Fourth Military Medical University (CS), Xi'an, China.
+AN  - 107770048. Language: English. Entry Date: 20150424. Revision Date: 20151031. Publication Type: journal article
+AU  - Qi, Xingshun
+AU  - De Stefano, Valerio
+AU  - Su, Chunping
+AU  - Bai, Ming
+AU  - Guo, Xiaozhong
+AU  - Fan, Daiming
+DB  - rzh
+DO  - https://doi.org/10.1097/md.0000000000000496
+DP  - EBSCOhost
+KW  - Autoantibodies -- Blood
+Hepatic Vein Thrombosis -- Immunology
+Portal Vein
+Venous Thrombosis -- Immunology
+Embase
+Glycoproteins -- Immunology
+Hepatic Vein Thrombosis -- Blood
+Human
+Immunoglobulins -- Immunology
+Lipoproteins, LDL -- Immunology
+Liver Cirrhosis -- Blood
+Liver Cirrhosis -- Immunology
+Meta Analysis
+Professional Practice, Evidence-Based
+PubMed
+Systematic Review
+Venous Thrombosis -- Blood
+N1  - meta analysis; research; systematic review. Journal Subset: Biomedical; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA. Special Interest: Evidence-Based Practice. NLM UID: 2985248R. PMID: 25634200.
+PY  - 2015
+SN  - 0025-7974
+SP  - e496-e496
+ST  - Associations of antiphospholipid antibodies with splanchnic vein thrombosis: a systematic review with meta-analysis
+T2  - Medicine
+TI  - Associations of antiphospholipid antibodies with splanchnic vein thrombosis: a systematic review with meta-analysis
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=107770048&site=ehost-live&scope=site
+VL  - 94
+ID  - 16431
+ER  - 
+
+TY  - JOUR
+AB  - Background: Until now, no data on the routine screening for thrombotic risk factors in Chinese nonmalignant and noncirrhotic patients with portal vein thrombosis (PVT) have been reported. Methods: A total of 141 nonmalignant and noncirrhotic patients with PVT who underwent screening tests for thrombotic risk factors between September 2009 and August 2012 were included in this study. Results: The JAK2 V617F mutation was found in 35 of the 141 patients tested. Neither the JAK2 exon 12 mutation nor the MPL W515 L/K mutation was found in any of the 50 patients tested. Overt myeloproliferative neoplasms (MPNs) were diagnosed in 13 patients (polycythemia vera, n = 1; essential thrombocythemia, n = 9; idiopathic myelofibrosis, n = 3). Latent MPNs were considered in 23 patients with the JAK2 V617F mutation but without any significant abnormalities, as determined through regular blood tests. Anticardiolipin IgG antibodies were positive in none of the 136 patients tested. Paroxysmal nocturnal hemoglobinuria was not found in any of the 141 patients tested. Neither the factor V G1691A mutation nor the factor II G20210A mutation was found in any of the 72 patients tested. The C677T mutation in 5,10-methylenetetrahydrofolate reductase (MTHFR) was found in 29 of the 38 patients tested. Hyperhomocysteinemia was detected in eight of the 39 patients tested. Conclusion: MPNs are an important thrombotic risk factor in Chinese patients with PVT. However, the extreme rarity of paroxysmal nocturnal hemoglobinuria, anticardiolipin IgG antibodies, and factor V G1691A and factor II G20210A mutations has precluded any support for the implementation of routine screening for these thrombotic factors in such patients. Additional case-control studies should confirm the role of the MTHFR C677T mutation and hyperhomocysteinemia in the pathogenesis of PVT. © 2014 Wolters Kluwer Health | Lippincott Williams & Wilkins.
+AD  - Xijing Hospital of Digestive Diseases, Fourth Military Medical University, Xi'an, China State Key Laboratory of Cancer Biology, Fourth Military Medical University, Xi'an, China
+AU  - Qi, X.
+AU  - Wu, F.
+AU  - He, C.
+AU  - Fan, D.
+AU  - Han, G.
+DB  - Scopus
+DO  - https://doi.org/10.1097/meg.0000000000000221
+J2  - Eur. J. Gastroenterol. Hepatol.
+KW  - Factor II G20210A mutation
+Factor V G1691A mutation
+Hyperhomocysteinemia
+JAK2 V617F mutation
+Myeloproliferative neoplasms
+Paroxysmal nocturnal hemoglobinuria
+Portal vein thrombosis
+5,10 methylenetetrahydrofolate reductase (FADH2)
+blood clotting factor 5
+cardiolipin antibody
+cyanocobalamin
+decay accelerating factor
+folic acid
+hemoglobin
+immunoglobulin G antibody
+Janus kinase 2
+prothrombin
+JAK2 protein, human
+methylenetetrahydrofolate reductase (NADPH2)
+MTHFR protein, human
+adult
+Article
+ascites
+bone marrow biopsy
+cardiovascular risk
+Chinese
+exon
+female
+gene mutation
+hepatitis B
+hepatitis C
+human
+liver biopsy
+major clinical study
+male
+myeloid metaplasia
+myeloproliferative neoplasm
+observational study
+polycythemia vera
+screening test
+splenectomy
+systematic review
+thrombocythemia
+thrombotic risk factor
+blood
+China
+complication
+genetics
+mutation
+myeloproliferative disorder
+portal vein
+risk factor
+Venous Thrombosis
+Antibodies, Anticardiolipin
+Exons
+Factor V
+Hemoglobinuria, Paroxysmal
+Humans
+Myeloproliferative Disorders
+Risk Factors
+LA  - English
+M3  - Article
+N1  - Cited By :3 Export Date: 19 July 2016 CODEN: EJGHE Correspondence Address: Han, G.; Xijing Hospital of Digestive Diseases, Fourth Military Medical UniversityChina Chemicals/CAS: 5,10 methylenetetrahydrofolate reductase (FADH2), 9028-69-7; blood clotting factor 5, 9001-24-5, 9013-23-4; cyanocobalamin, 53570-76-6, 68-19-9, 8064-09-3; decay accelerating factor, 99085-47-9; folic acid, 59-30-3, 6484-89-5; hemoglobin, 9008-02-0; prothrombin, 9001-26-7; methylenetetrahydrofolate reductase (NADPH2), 71822-25-8; Antibodies, Anticardiolipin; Factor V; JAK2 protein, human; Janus Kinase 2; Methylenetetrahydrofolate Reductase (NADPH2); MTHFR protein, human; Prothrombin References: Plessier, A., Darwish-Murad, S., Hernandez-Guerra, M., Consigny, Y., Fabris, F., Trebicka, J., Acute portal vein thrombosis unrelated to cirrhosis: A prospective multicenter follow-up study (2010) Hepatology, 51, pp. 210-218; Spaander, M.C., Van Buuren, H.R., Hansen, B.E., Janssen, H.L., Ascites in patients with noncirrhotic nonmalignant extrahepatic portal vein thrombosis (2010) Aliment Pharmacol Ther, 32, pp. 529-534; Janssen, H.L., Wijnhoud, A., Haagsma, E.B., Van Uum, S.H., Van Nieuwkerk, C.M., Adang, R.P., Extrahepatic portal vein thrombosis: Aetiology and determinants of survival (2001) Gut, 49, pp. 720-724; Amitrano, L., Guardascione, M.A., Scaglione, M., Pezzullo, L., Sangiuliano, N., Armellino, M.F., Prognostic factors in noncirrhotic patients with splanchnic vein thromboses (2007) Am J Gastroenterol, 102, pp. 2464-2470; Qi, X.S., Bai, M., He, C.Y., Yin, Z.X., Guo, W.G., Niu, J., Prognostic factors in non-malignant and non-cirrhotic patients with portal cavernoma: An 8-year retrospective single-center study (2013) World J Gastroenterol, 19, pp. 7447-7454; DeLeve, L.D., Valla, D.C., Garcia-Tsao, G., Vascular disorders of the liver (2009) Hepatology, 49, pp. 1729-1764; Primignani, M., Portal vein thrombosis, revisited (2010) Dig Liver Dis, 42, pp. 163-170; De Stefano, V., Martinelli, I., Splanchnic vein thrombosis: Clinical presentation, risk factors and treatment (2010) Intern Emerg Med, 5, pp. 487-494; Senzolo, M., Riggio, O., Primignani, M., Vascular disorders of the liver: Recommendations from the Italian Association for the Study of the Liver (AISF) ad hoc committee (2011) Dig Liver Dis, 43, pp. 503-514; Tait, C., Baglin, T., Watson, H., Laffan, M., Makris, M., Perry, D., Keeling, D., Guidelines on the investigation and management of venous thrombosis at unusual sites (2012) Br J Haematol, 159, pp. 28-38; Denninger, M.H., Chaït, Y., Casadevall, N., Hillaire, S., Guillin, M.C., Bezeaud, A., Cause of portal or hepatic venous thrombosis in adults: The role of multiple concurrent factors (2000) Hepatology, 31, pp. 587-591; Primignani, M., Martinelli, I., Bucciarelli, P., Battaglioli, T., Reati, R., Fabris, F., Risk factors for thrombophilia in extrahepatic portal vein obstruction (2005) Hepatology, 41, pp. 603-608; Qi, X., Han, G., Yin, Z., He, C., Wang, J., Guo, W., Transjugular intrahepatic portosystemic shunt for portal cavernoma with symptomatic portal hypertension in non-cirrhotic patients (2012) Dig Dis Sci, 57, pp. 1072-1082; Qi, X., Wu, F., Ren, W., He, C., Yin, Z., Niu, J., Thrombotic risk factors in Chinese Budd-Chiari syndrome patients. An observational study with a systematic review of the literature (2013) Thromb Haemost, 109, pp. 878-884; Vardiman, J.W., Thiele, J., Arber, D.A., Brunning, R.D., Borowitz, M.J., Porwit, A., The 2008 revision of the World Health Organization (WHO) classification of myeloid neoplasms and acute leukemia: Rationale and important changes (2009) Blood, 114, pp. 937-951; Lin, J.S., Shen, M.C., Tsai, W., Lin, B., The prevalence of C677T mutation in the methylenetetrahydrofolate reductase gene and its association with venous thrombophilia in Taiwanese Chinese (2000) Thromb Res, 97, pp. 89-94; Cheng, D., Xu, H., Lu, Z.J., Hua, R., Qiu, H., Du, H., Clinical features and etiology of Budd-Chiari syndrome in Chinese patients: A single-center study (2013) J Gastroenterol Hepatol, 28, pp. 1061-1067; Wang, H., Sun, G., Zhang, P., Zhang, J., Gui, E., Zu, M., JAK2 V617F mutation and 46/1 haplotype in Chinese Budd -Chiari syndrome patients (2014) J Gastroenterol Hepatol, 29, pp. 208-214; Qi, X., Wu, F., Fan, D., Han, G., Prevalence of thrombotic risk factors in Chinese Budd-Chiari syndrome patients: Results of a prospective validation study (2014) Eur J Gastroenterol Hepatol, 26, pp. 576-577; Qi, X., He, C., Han, G., Yin, Z., Wu, F., Zhang, Q., Prevalence of paroxysmal nocturnal hemoglobinuria in Chinese patients with Budd- Chiari syndrome or portal vein thrombosis (2013) J Gastroenterol Hepatol, 28, pp. 148-152; Qi, X., Zhang, C., Han, G., Zhang, W., He, C., Yin, Z., Preval nce of the JAK2V617F mutation in Chinese patients with Budd-Chiari syndrome and portal vein thrombosis: A prospective study (2012) J Gastroenterol Hepatol, 27, pp. 1036-1043; Fang, Z.T., Yan, Z.P., Luo, J.J., Interventional treatment for cavernous transformation of portal vein (2012) Fudan Xuebao, 39, pp. 489-495. , Article in Chinese; Huang, C.W., Yin, Q., Wu, J.S., Analysis of cavernous transformation of portal vein related diseases in adults (2009) Shi Yong Yi Xue Za Zhi, 25, pp. 3649-3651. , Article in Chinese; Wang, W.W., Ma, G.Y., Peng, X.L., Two-dimensional color Doppler ultrasonographic diagnosis of cavernous transformation of portal vein (2006) Zhongguo Chao Sheng Yi Xue Za Zhi, 22, pp. 849-851. , Article in Chinese; Yi, S.L., Wang, Q., Cao, Q.Y., The value of color Doppler ultrasound in the diagnosis of cavernous transformation of portal vein (2009) Hua Xia Yi Xue, 22, pp. 932-933. , Article in Chinese; Hoekstra, J., Casellas-Caro, M., Garcia-Pagan, J.C., Etiologic factors underlying Budd-Chiari syndrome and portal vein thrombosis: The role of site-specific thrombosis (2010) Hepatology, 52, p. 896A; Bai, J., Shao, Z., Jing, L., Liu, H., Shi, J., Zhao, M., Clinical analysis of 185 patients with polycythemia vera (2002) Zhonghua Xue Ye Xue Za Zhi, 23, pp. 578-580. , Article in Chinese; Zhu, Y., He, Q., Qin, Y., Clinical analysis of 30 patients with polycythemia vera (2005) Zhongguo Xian Dai Yi Xue Za Zhi, 15, pp. 1109-1110. , Article in Chinese; Long, G.Y., Su, J., Imaging analysis of 9 patients with essential thrombocythemia (2012) Zhen Duan Xue Li Lun Yu Shi Jian, 11, pp. 75-77. , Article in Chinese; Zou, N., Han, B., Cai, H., Xu, Y., Wang, X., Li, R.S., Shen, T., Clinical features of 76 Chinese patients with paroxysmal nocturnal haemoglobinuria (2012) Zhonghua Xue Ye Xue Za Zhi, 33, pp. 471-474. , Article in Chinese; Leng, X.M., Liu, X.M., Ai, M.X., Zeng, X.F., Tang, F.L., Clinical analysis of 61 patients with antiphospholipid syndrome (2004) Zhonghua Yi Xue Za Zhi, 84, pp. 1367-1370. , Article in Chinese; Zhang, Z.L., Si, Y.J., Deng, X.X., Clinical analysis of 65 patients with positive anticardiolipin antibody (2001) Zhongguo Yi Kan, 36, pp. 37-38. , Article in Chinese; Qi, X., Ren, W., De Stefano, V., Fan, D., Associations of coagulation factor V leiden and prothrombin G20210A mutations with Budd-Chiari syndrome and portal vein thrombosis: A systematic review and meta-analysis (2014) Clin Gastroenterol Hepatol, 12, pp. 1801-1812; Chan, L.C., Bourke, C., Lam, C.K., Liu, H.W., Brookes, S., Jenkins, V., Pasi, J., Lack of activated protein C resistance in healthy Hong Kong Chinese blood donors - Correlation with absence of Arg506-Gln mutation of factor V gene (1996) Thromb Haemost, 75, pp. 522-523; Lu, Y., Zhao, Y., Liu, G., Wang, X., Liu, Z., Chen, B., Hui, R., Factor V gene G1691A mutation, prothrombin gene G20210A mutation, and MTHFR gene C677T mutation are not risk factors for pulmonary thromboembolism in Chinese population (2002) Thromb Res, 106, pp. 7-12; Shen, M.C., Lin, J.S., Tsay, W., High prevalence of antithrombin III, protein C and protein S deficiency, but no factor V Leiden mutation in venous thrombophilic Chinese patients in Taiwan (1997) Thromb Res, 87, pp. 377-385; Shen, M.C., Lin, J.S., Tsay, W., Protein C and protein S deficiencies are the most important risk factors associated with thrombosis in Chinese venous thrombophilic patients in Taiwan (2000) Thromb Res, 99, pp. 447-452; Yanqing, H., Fangping, C., Qinzhi, X., Zaifu, J., Guangping, W., Xiaoxia, Z., No association between thrombosis and factor V gene polymorphisms in Chinese Han population (2003) Thromb Haemost, 89, pp. 446-451; Qi, X., Yang, Z., De Stefano, V., Fan, D., Methylenetetrahydrofolate reductase C677T gene mutation and hyperhomocysteinemia in Budd-Chiari syndrome and portal vein thrombosis: A systematic review and meta-analysis of observational studies (2014) Hepatol Res, , in press; Smalberg, J.H., Arends, L.R., Valla, D.C., Kiladjian, J.J., Janssen, H.L., Leebeek, F.W., Myeloproliferative neoplasms in Budd-Chiari syndrome an portal vein thrombosis: A meta-analysis (2012) Blood, 120, pp. 4921-4928
+PY  - 2015
+SN  - 0954691X (ISSN)
+SP  - 77-83
+ST  - Thrombotic risk factors in Chinese nonmalignant and noncirrhotic patients with portal vein thrombosis: An observational study with a systematic review of the literature
+T2  - European Journal of Gastroenterology and Hepatology
+TI  - Thrombotic risk factors in Chinese nonmalignant and noncirrhotic patients with portal vein thrombosis: An observational study with a systematic review of the literature
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84916618522&partnerID=40&md5=382c5785e79a750deb74856e7ce432e0
+VL  - 27
+ID  - 7154
+ER  - 
+
+TY  - JOUR
+AB  - Background: Until now, no data on the routine screening for thrombotic risk factors in Chinese nonmalignant and noncirrhotic patients with portal vein thrombosis (PVT) have been reported.Methods: A total of 141 nonmalignant and noncirrhotic patients with PVT who underwent screening tests for thrombotic risk factors between September 2009 and August 2012 were included in this study.Results: The JAK2 V617F mutation was found in 35 of the 141 patients tested. Neither the JAK2 exon 12 mutation nor the MPL W515 L/K mutation was found in any of the 50 patients tested. Overt myeloproliferative neoplasms (MPNs) were diagnosed in 13 patients (polycythemia vera, n=1; essential thrombocythemia, n=9; idiopathic myelofibrosis, n=3). Latent MPNs were considered in 23 patients with the JAK2 V617F mutation but without any significant abnormalities, as determined through regular blood tests. Anticardiolipin IgG antibodies were positive in none of the 136 patients tested. Paroxysmal nocturnal hemoglobinuria was not found in any of the 141 patients tested. Neither the factor V G1691A mutation nor the factor II G20210A mutation was found in any of the 72 patients tested. The C677T mutation in 5,10-methylenetetrahydrofolate reductase (MTHFR) was found in 29 of the 38 patients tested. Hyperhomocysteinemia was detected in eight of the 39 patients tested.Conclusion: MPNs are an important thrombotic risk factor in Chinese patients with PVT. However, the extreme rarity of paroxysmal nocturnal hemoglobinuria, anticardiolipin IgG antibodies, and factor V G1691A and factor II G20210A mutations has precluded any support for the implementation of routine screening for these thrombotic factors in such patients. Additional case-control studies should confirm the role of the MTHFR C677T mutation and hyperhomocysteinemia in the pathogenesis of PVT.
+AN  - 109768978. Language: English. Entry Date: 20150605. Revision Date: 20160302. Publication Type: journal article
+AU  - Qi, Xingshun
+AU  - Wu, Feifei
+AU  - He, Chuangye
+AU  - Fan, Daiming
+AU  - Han, Guohong
+DB  - rzh
+DO  - https://doi.org/10.1097/meg.0000000000000221
+DP  - EBSCOhost
+KW  - Hyperhomocysteinemia -- Complications
+Myeloproliferative Disorders -- Complications
+Oxidoreductases
+Portal Vein
+Proteins
+Venous Thrombosis -- Etiology
+Adult
+Anemia, Hemolytic -- Complications
+Autoantibodies -- Blood
+Blood Coagulation Factors
+China
+Female
+Genes
+Human
+Male
+Mutation
+Professional Practice, Evidence-Based
+Risk Factors
+Systematic Review
+Venous Thrombosis
+N1  - research; systematic review. Commentary: Kurtcehajic Admir, Zerem Enver, Hujdurovic Ahmed, Fejzic Jasmin A. Thrombotic risk factors in nonmalignant and noncirrhotic patients with portal vein thrombosis: need for extensive investigation. (EUR J GASTROENTEROL HEPATOL) Jan2016; 28 (1): 116-118. Journal Subset: Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA. Special Interest: Evidence-Based Practice. NLM UID: 9000874. PMID: 25426980.
+PY  - 2015
+SN  - 0954-691X
+SP  - 77-83
+ST  - Thrombotic risk factors in Chinese nonmalignant and noncirrhotic patients with portal vein thrombosis: an observational study with a systematic review of the literature
+T2  - European Journal of Gastroenterology & Hepatology
+TI  - Thrombotic risk factors in Chinese nonmalignant and noncirrhotic patients with portal vein thrombosis: an observational study with a systematic review of the literature
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=109768978&site=ehost-live&scope=site
+VL  - 27
+ID  - 16435
+ER  - 
+
+TY  - JOUR
+AB  - Objective: Budd-Chiari syndrome (BCS) can be incidentally complicated by hepatocellular carcinoma (HCC), thereby decreasing the survival of these patients. Our study aims to systematically review the prevalence and risk factors of HCC in BCS patients. Methods: A PubMed search was performed to identify all original articles that reported the prevalence and risk factors of HCC in BCS patients. Primary items were the prevalence and risk factors of HCC in BCS patients. Results: Of 1487 articles identified, 16 were included in our study. The prevalence of HCC in BCS is 2.0-46.2% in 12 Asian studies, 40.0-51.6% in two African studies, 11.3% in one European study, and 11.1% in one American study. Irrespective of hepatitis as the underlying risk factor of HCC, the pooled prevalence of HCC was 17.6% in BCS patients [95% confidence interval (CI): 10.1-26.7%], 26.5% in inferior vena cava obstruction (95% CI: 14.4-40.7%), and 4.2% in hepatic vein obstruction (95% CI: 1.6-7.8%). As patients with HCC and concomitant hepatitis were excluded, the pooled prevalence of HCC was 15.4% in BCS patients (95% CI: 6.8-26.7%). Heterogeneity among studies was statistically significant in these meta-analyses. The risk factors of HCC in BCS included hepatic venous pressure gradient and female sex in two Asian studies, and male sex, factor V Leiden mutation, and inferior vena cava obstruction in one European study. Conclusion: HCC was frequent in BCS. However, there was a huge variation among studies. Routine surveillance for HCC is warranted in BCS patients. The risk factors of HCC in BCS may vary depending on the geographic origin of the studies. © 2013 Wolters Kluwer Health | Lippincott Williams & Wilkins.
+AD  - Department of Digestive Interventional Radiology, Xijing Hospital of Digestive Diseases, Fourth Military Medical University, No. 15 West Changle Road, Xi'an 710032, China State Key Laboratory of Cancer Biology, Fourth Military Medical University, Xi'an, China
+AU  - Ren, W.
+AU  - Qi, X.
+AU  - Yang, Z.
+AU  - Han, G.
+AU  - Fan, D.
+DB  - Scopus
+DO  - https://doi.org/10.1097/meg.0b013e32835eb8d4
+J2  - Eur. J. Gastroenterol. Hepatol.
+KW  - Budd?Chiari syndrome
+hepatocellular carcinoma
+prevalence
+risk factors
+systematic review
+blood clotting factor 5 Leiden
+alcohol consumption
+article
+Asia
+Budd Chiari syndrome
+human
+inferior cava vein obstruction
+Japanese
+liver cell carcinoma
+liver vein obstruction
+Medline
+mutational analysis
+portal vein blood pressure
+priority journal
+risk assessment
+risk factor
+sex difference
+South Africa
+United States
+virus hepatitis
+Adolescent
+Adult
+Aged
+Budd-Chiari Syndrome
+Carcinoma, Hepatocellular
+Chi-Square Distribution
+Child
+Constriction, Pathologic
+Factor V
+Female
+Hepatic Veins
+Humans
+Liver Neoplasms
+Male
+Middle Aged
+Odds Ratio
+Residence Characteristics
+Sex Factors
+Vena Cava, Inferior
+Venous Pressure
+Young Adult
+LA  - English
+M3  - Article
+N1  - Cited By :12 Export Date: 19 July 2016 CODEN: EJGHE Correspondence Address: Han, G.; Department of Digestive Interventional Radiology, Xijing Hospital of Digestive Diseases, Fourth Military Medical University, No. 15 West Changle Road, Xi'an 710032, China; email: guohhan@126.com Chemicals/CAS: Factor V, 9001-24-5; factor V Leiden References: Valla, D.C., Primary Budd-Chiari syndrome (2009) J Hepatol, 50, pp. 195-203; Janssen, H.L., Garcia-Pagan, J.C., Elias, E., Mentha, G., Hadengue, A., Valla, D.C., Budd-Chiari syndrome: A review by an expert panel (2003) J Hepatol, 38, pp. 364-371; Valla, D.C., The diagnosis and management of the Budd-Chiari syndrome: Consensus and controversies (2003) Hepatology, 38, pp. 793-803; Darwish Murad, S., Plessier, A., Hernandez-Guerra, M., Fabris, F., Eapen, C.E., Bahr, M.J., Etiology, management, and outcome of the Budd-Chiari syndrome (2009) Ann Intern Med, 151, pp. 167-175; Valla, D.C., Budd-Chiari syndrome and veno-occlusive disease/sinusoidal obstruction syndrome (2008) Gut, 57, pp. 1469-1478; Plessier, A., Valla, D.C., Budd-Chiari syndrome (2008) Semin Liver Dis, 28, pp. 259-269; De Leve, L.D., Valla, D.C., Garcia-Tsao, G., Vascular disorders of the liver (2009) Hepatology, 49, pp. 1729-1764; Qi, X., Yang, Z., Bai, M., Shi, X., Han, G., Fan, D., Meta-analysis: The significance of screening for JAK2V617F mutation in Budd-Chiari syndrome and portal venous system thrombosis (2011) Aliment Pharmacol Ther, 33, pp. 1087-1103; Okuda, H., Yamagata, H., Obata, H., Iwata, H., Sasaki, R., Imai, F., Epidemiological and clinical features of Budd-Chiari syndrome in Japan (1995) J Hepatol, 22, pp. 1-9; Shin, S.H., Chung, Y.H., Suh, D.D., Shin, J.W., Jang, M.K., Ryu, S.H., Characteristic clinical features of hepatocellular carcinoma associated with Budd-Chiari syndrome: Evidence of different carcinogenic process from hepatitis B virus-associated hepatocellular carcinoma (2004) Eur J Gastroenterol Hepatol, 16, pp. 319-324; Wang, Z.G., Zhang, F.J., Yi, M.Q., Qiang, L.X., Evolution of management for Budd-Chiari syndrome: A team's view from 2564 patients (2005) ANZ J Surg, 75, pp. 55-63; Simson, I.W., Membranous obstruction of the inferior vena cava and hepatocellular carcinoma in South Africa (1982) Gastroenterology, 82, pp. 171-178; Shrestha, S.M., Okuda, K., Uchida, T., Maharjan, K.G., Shrestha, S., Joshi, B.L., Endemicity and clinical picture of liver disease due to obstruction of the hepatic portion of the inferior vena cava in Nepal (1996) J Gastroenterol Hepatol, 11, pp. 170-179; Qi, X., Zhang, C., Han, G., Zhang, W., He, C., Yin, Z., Prevalence of the JAK2V617F mutation in Chinese patients with Budd-Chiari syndrome and portal vein thrombosis: A prospective study (2012) J Gastroenterol Hepatol, 27, pp. 1036-1043; Lin, G.L., Xu, P.Q., Qi, H., Lian, J.H., Zheng, H., Dang, X.W., Relations of Budd-Chiari syndrome to prothrombin gene mutation (2004) Hepatobiliary Pancreat Dis Int, 3, pp. 214-218; Qi, X., He, C., Han, G., Yin, Z., Wu, F., Zhang, Q., Prevalence of paroxysmal nocturnal hemoglobinuria in Chinese patientswith Budd-Chiari syndrome or portal vein thrombosis (2013) J Gastroenterol Hepatol, 28, pp. 148-152; Forner, A., Llovet, J.M., Bruix, J., Hepatocellular carcinoma (2012) Lancet, 379, pp. 1245-1255; Altekruse, S.F., Mc Glynn, K.A., Reichman, M.E., Hepatocellular carcinoma incidence, mortality, and survival trends in the United States from 1975 to 2005 (2009) J Clin Oncol, 27, pp. 1485-1491; Lambert, M.P., Paliwal, A., Vaissiere, T., Chemin, I., Zoulim, F., Tommasino, M., Aberrant DNA methylation distinguishes hepatocellular carcinoma associated with HBVand HCV infection and alcohol intake (2011) J Hepatol, 54, pp. 705-715; Stickel, F., Hampe, J., Genetic determinants of alcoholic liver disease (2012) Gut, 61, pp. 150-159; Krawczyk, M., Bonfrate, L., Portincasa, P., Nonalcoholic fatty liver disease (2010) Best Pract Res Clin Gastroenterol, 24, pp. 695-708; Xu, L., Qian, G., Tang, L., Su, J., Wang, J.S., Genetic variations of hepatitis B virus and serum aflatoxin-lysine adduct on high risk of hepatocellular carcinoma in Southern Guangxi, China (2010) J Hepatol, 53, pp. 671-676; Liang, Y., Yang, Z., Zhong, R., Primary biliary cirrhosis and cancer risk: A systematic review and meta-analysis (2012) Hepatology, 56, pp. 1409-1417; El-Serag, H.B., Hepatocellular carcinoma (2011) N Engl J Med, 365, pp. 1118-1127; Ren, W., Qi, X., Jia, J., Yang, M., Han, G., Hepatocellular carcinoma (2012) Lancet, 380, p. 469. , author reply 70-71; Simson, I.W., The causes and consequences of chronic hepatic venous outflow obstruction (1987) S Afr Med J, 72, pp. 11-14; Sakugawa, H., Higashionna, A., Oyakawa, T., Kadena, K., Kinjo, F., Saito, A., Ultrasound study in the diagnosis of primary Budd-Chiari syndrome (obstruction of the inferior vena cava) (1992) Gastroenterol Jpn, 27, pp. 69-77; Rector Jr., W.G., Xu, Y.H., Goldstein, L., Peters, R.L., Reynolds, T.B., Membranous obstruction of the inferior vena cava in the United States (1985) Medicine (Baltimore), 64, pp. 134-143; Park, H., Yoon, J.Y., Park, K.H., Kim Do, Y., Ahn, S.H., Han, K.H., Hepatocellular carcinoma in Budd-Chiari syndrome: A single center experience with long-term follow-up in South Korea (2012) World J Gastroenterol, 18, pp. 1946-1952; Moucari, R., Rautou, P.E., Cazals-Hatem, D., Geara, A., Bureau, C., Consigny, Y., Hepatocellular carcinoma in Budd-Chiari syndrome: Characteristics and riskfactors (2008) Gut, 57, pp. 828-835; Lee, B.B., Villavicencio, L., Kim, Y.W., Do, Y.S., Koh, K.C., Lim, H.K., Primary Budd-Chiari syndrome: Outcome of endovascular management for suprahepatic venous obstruction (2006) J Vasc Surg, 43, pp. 101-108; Dilawari, J.B., Bambery, P., Chawla, Y., Kaur, U., Bhusnurmath, S.R., Malhotra, H.S., Hepatic outflow obstruction (Budd-Chiari syndrome). Experience with 177 patients and a review of the literature (1994) Medicine (Baltimore), 73, pp. 21-36; Bayraktar, Y., Egesel, T., Saglam, F., Balkanci, F., Van Thiel, D.H., Does hepatic vein outflow obstruction contribute to the pathogenesis of hepatocellular carcinoma? (1998) J Clin Gastroenterol, 27, pp. 67-71; Shrestha, S.M., Shrestha, S., Shrestha, A., Tsuda, F., Endo, K., Takahashi, M., High prevalence of hepatitis B virus infection and inferior vena cava obstruction among patients with liver cirrhosis or hepatocellular carcinoma in Nepal (2007) J Gastroenterol Hepatol, 22, pp. 1921-1928; Shrestha, S.M., Liver cirrhosis and hepatocellular carcinoma in hepatic vena cava disease, a liver disease caused by obstruction of inferior vena cava (2009) Hepatol Int, 3, pp. 392-402; Seo, J.B., Chung, J.W., Park, J.H., Kim, S.H., Kim, T.K., Han, J.K., Benign obstruction of the hepatic inferior vena cava complicated by hepatocellular carcinoma: Combined interventional management (1998) Am J Roentgenol, 170, pp. 655-659; Nakamura, S., Takezawa, Y., Obstruction of the inferior vena cava in the hepatic portion and hepatocellular carcinoma (1982) Tohoku J Exp Med, 138, pp. 119-120; Matsui, S., Ichida, T., Watanabe, M., Sugitani, S., Suda, T., Takahashi, T., Clinical features and etiology of hepatocellular carcinoma arising in patients with membranous obstruction of the inferior vena cava: In reference to hepatitis viral infection (2000) J Gastroenterol Hepatol, 15, pp. 1205-1211; Lu, C.L., Chou, Y.H., Hwang, S.J., Chan, C.Y., Lee, S.D., Membranous obstruction of inferior vena cava in Taiwan (1995) J Gastroenterol Hepatol, 10, pp. 287-294; Kew, M.C., Mc Knight, A., Hodkinson, J., Bukofzer, S., Esser, J.D., The role of membranous obstruction of the inferior vena cava in the etiology of hepatocellular carcinoma in Southern African blacks (1989) Hepatology, 9, pp. 121-125; Ko, G.Y., Yoon, H.K., Sung, K.B., Kim, J.H., Lee, S.S., Hepatocellular carcinoma associated with membranous obstruction of the inferior vena cava: Incidence, characteristics, and risk factors and clinical efficacy of TACE (2010) Radiology, 254, pp. 617-626; Rostom, A., Dube, C., Cranney, A., Saloojee, N., Sy, R., Garritty, C., Celiac disease (2004) Evid Rep Technol Assess (Summ), pp. 1-6; Vilgrain, V., Lewin, M., Vons, C., Denys, A., Valla, D., Flejou, J.F., Hepatic nodules in Budd-Chiari syndrome: Imaging features (1999) Radiology, 210, pp. 443-450; Amarapurkar, D.N., Punamiya, S.J., Patel, N.D., Changing spectrum of Budd-Chiari syndrome in India with special reference to non-surgical treatment (2008) World J Gastroenterol, 14, pp. 278-285; Plessier, A., Rautou, P.E., Valla D.C., Management of hepatic vascular diseases (2012) J Hepatol, 56 (SUPPL. 1), pp. S25-S38; Kew, M.C., Hodkinson, H.J., Membranous obstruction of the inferior vena cava and its causal relation to hepatocellular carcinoma (2006) Liver Int, 26, pp. 1-7
+PY  - 2013
+SN  - 0954691X (ISSN)
+SP  - 830-841
+ST  - Prevalence and risk factors of hepatocellular carcinoma in Budd-Chiari syndrome: A systematic review
+T2  - European Journal of Gastroenterology and Hepatology
+TI  - Prevalence and risk factors of hepatocellular carcinoma in Budd-Chiari syndrome: A systematic review
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84879892225&partnerID=40&md5=d68843ee5c000ddcf39f91ac1737b00e
+VL  - 25
+ID  - 7376
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Budd-Chiari syndrome (BCS) can be incidentally complicated by hepatocellular carcinoma (HCC), thereby decreasing the survival of these patients. Our study aims to systematically review the prevalence and risk factors of HCC in BCS patients. METHODS: A PubMed search was performed to identify all original articles that reported the prevalence and risk factors of HCC in BCS patients. Primary items were the prevalence and risk factors of HCC in BCS patients. RESULTS: Of 1487 articles identified, 16 were included in our study. The prevalence of HCC in BCS is 2.0-46.2% in 12 Asian studies, 40.0-51.6% in two African studies, 11.3% in one European study, and 11.1% in one American study. Irrespective of hepatitis as the underlying risk factor of HCC, the pooled prevalence of HCC was 17.6% in BCS patients [95% confidence interval (CI): 10.1-26.7%], 26.5% in inferior vena cava obstruction (95% CI: 14.4-40.7%), and 4.2% in hepatic vein obstruction (95% CI: 1.6-7.8%). As patients with HCC and concomitant hepatitis were excluded, the pooled prevalence of HCC was 15.4% in BCS patients (95% CI: 6.8-26.7%). Heterogeneity among studies was statistically significant in these meta-analyses. The risk factors of HCC in BCS included hepatic venous pressure gradient and female sex in two Asian studies, and male sex, factor V Leiden mutation, and inferior vena cava obstruction in one European study. CONCLUSION: HCC was frequent in BCS. However, there was a huge variation among studies. Routine surveillance for HCC is warranted in BCS patients. The risk factors of HCC in BCS may vary depending on the geographic origin of the studies.
+AD  - aDepartment of Digestive Interventional Radiology, Xijing Hospital of Digestive Diseases bState Key Laboratory of Cancer Biology, Fourth Military Medical University, Xi'an, China.
+AN  - 107905212. Language: English. Entry Date: 20140124. Revision Date: 20150712. Publication Type: Journal Article
+AU  - Ren, Weirong
+AU  - Qi, Xingshun
+AU  - Yang, Zhiping
+AU  - Han, Guohong
+AU  - Fan, Daiming
+DB  - rzh
+DO  - https://doi.org/10.1097/meg.0b013e32835eb8d4
+DP  - EBSCOhost
+KW  - Carcinoma, Hepatocellular -- Epidemiology
+Hepatic Vein Thrombosis -- Epidemiology
+Liver Neoplasms -- Epidemiology
+Adolescence
+Adult
+Aged
+Blood Coagulation Factors
+Carcinoma, Hepatocellular
+Carcinoma, Hepatocellular -- Pathology
+Carcinoma, Hepatocellular -- Physiopathology
+Chi Square Test
+Child
+Constriction, Pathologic
+Female
+Hepatic Vein Thrombosis
+Hepatic Vein Thrombosis -- Pathology
+Hepatic Vein Thrombosis -- Physiopathology
+Hepatic Veins -- Physiopathology
+Human
+Liver Neoplasms
+Liver Neoplasms -- Pathology
+Liver Neoplasms -- Physiopathology
+Male
+Middle Age
+Odds Ratio
+Prevalence
+PubMed
+Residence Characteristics
+Risk Factors
+Sex Factors
+Systematic Review
+Vena Cava, Inferior -- Pathology
+Venous Pressure
+Young Adult
+N1  - research; systematic review. Journal Subset: Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA. Special Interest: Evidence-Based Practice. NLM UID: 9000874. PMID: 23411869.
+PY  - 2013
+SN  - 0954-691X
+SP  - 830-841
+ST  - Prevalence and risk factors of hepatocellular carcinoma in Budd-Chiari syndrome: a systematic review
+T2  - European Journal of Gastroenterology & Hepatology
+TI  - Prevalence and risk factors of hepatocellular carcinoma in Budd-Chiari syndrome: a systematic review
+UR  - http://search.ebscohost.com/login.aspx?direct=true&db=rzh&AN=107905212&site=ehost-live&scope=site
+VL  - 25
+ID  - 16573
+ER  - 
+
